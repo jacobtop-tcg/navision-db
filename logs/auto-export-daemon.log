@@ -486,3 +486,48 @@
   CSV: /mnt/data/openclaw/workspace/.openclaw/workspace/navision-db/web-export/companies.csv
   Meta: /mnt/data/openclaw/workspace/.openclaw/workspace/navision-db/web-export/metadata.json
 
+[2026-03-30T15:20:30.681047Z] Starting export...
+[2026-03-30T15:20:32.556773Z] Export successful! Output:
+[2026-03-30T15:20:31.290647Z] Starter export...
+[2026-03-30T15:20:32.473267Z] Export færdig!
+  Total: 40735 virksomheder
+  JSON: /mnt/data/openclaw/workspace/.openclaw/workspace/navision-db/web-export/companies.json
+  CSV: /mnt/data/openclaw/workspace/.openclaw/workspace/navision-db/web-export/companies.csv
+  Meta: /mnt/data/openclaw/workspace/.openclaw/workspace/navision-db/web-export/metadata.json
+
+[2026-03-30T15:25:32.557240Z] Starting export...
+[2026-03-30T15:25:34.387350Z] Export successful! Output:
+[2026-03-30T15:25:33.185494Z] Starter export...
+[2026-03-30T15:25:34.294847Z] Export færdig!
+  Total: 40767 virksomheder
+  JSON: /mnt/data/openclaw/workspace/.openclaw/workspace/navision-db/web-export/companies.json
+  CSV: /mnt/data/openclaw/workspace/.openclaw/workspace/navision-db/web-export/companies.csv
+  Meta: /mnt/data/openclaw/workspace/.openclaw/workspace/navision-db/web-export/metadata.json
+
+[2026-03-30T15:30:34.387832Z] Starting export...
+[2026-03-30T15:30:36.263246Z] Export successful! Output:
+[2026-03-30T15:30:35.050904Z] Starter export...
+[2026-03-30T15:30:36.184302Z] Export færdig!
+  Total: 40795 virksomheder
+  JSON: /mnt/data/openclaw/workspace/.openclaw/workspace/navision-db/web-export/companies.json
+  CSV: /mnt/data/openclaw/workspace/.openclaw/workspace/navision-db/web-export/companies.csv
+  Meta: /mnt/data/openclaw/workspace/.openclaw/workspace/navision-db/web-export/metadata.json
+
+[2026-03-30T15:35:36.263665Z] Starting export...
+[2026-03-30T15:35:38.144236Z] Export successful! Output:
+[2026-03-30T15:35:36.966395Z] Starter export...
+[2026-03-30T15:35:38.054182Z] Export færdig!
+  Total: 40811 virksomheder
+  JSON: /mnt/data/openclaw/workspace/.openclaw/workspace/navision-db/web-export/companies.json
+  CSV: /mnt/data/openclaw/workspace/.openclaw/workspace/navision-db/web-export/companies.csv
+  Meta: /mnt/data/openclaw/workspace/.openclaw/workspace/navision-db/web-export/metadata.json
+
+[2026-03-30T15:40:38.144739Z] Starting export...
+[2026-03-30T15:40:40.085545Z] Export successful! Output:
+[2026-03-30T15:40:38.855716Z] Starter export...
+[2026-03-30T15:40:39.992189Z] Export færdig!
+  Total: 40829 virksomheder
+  JSON: /mnt/data/openclaw/workspace/.openclaw/workspace/navision-db/web-export/companies.json
+  CSV: /mnt/data/openclaw/workspace/.openclaw/workspace/navision-db/web-export/companies.csv
+  Meta: /mnt/data/openclaw/workspace/.openclaw/workspace/navision-db/web-export/metadata.json
+

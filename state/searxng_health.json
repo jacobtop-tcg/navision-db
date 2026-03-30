@@ -1,58 +1,16 @@
 {
   "status": "healthy",
-  "last_check": "2026-03-30T15:17:00.888565",
+  "last_check": "2026-03-30T15:40:25.262551",
   "consecutive_errors": 0,
   "rate_limited_since": null,
   "available_at": null,
   "engines_status": {
-    "results": 30,
+    "results": 11,
     "unresponsive_engines": 0,
     "working_engines": 5,
     "total_engines": 10
   },
   "history": [
-    {
-      "timestamp": "2026-03-30T09:02:22.892187",
-      "status": "healthy",
-      "results_count": 11,
-      "working_engines": 5,
-      "response_time_ms": 3018
-    },
-    {
-      "timestamp": "2026-03-30T09:05:56.191687",
-      "status": "healthy",
-      "results_count": 11,
-      "working_engines": 5,
-      "response_time_ms": 3016
-    },
-    {
-      "timestamp": "2026-03-30T09:09:33.557018",
-      "status": "healthy",
-      "results_count": 31,
-      "working_engines": 5,
-      "response_time_ms": 3020
-    },
-    {
-      "timestamp": "2026-03-30T09:13:06.857767",
-      "status": "healthy",
-      "results_count": 11,
-      "working_engines": 5,
-      "response_time_ms": 3016
-    },
-    {
-      "timestamp": "2026-03-30T09:16:41.599972",
-      "status": "healthy",
-      "results_count": 31,
-      "working_engines": 5,
-      "response_time_ms": 3023
-    },
-    {
-      "timestamp": "2026-03-30T09:20:20.755482",
-      "status": "healthy",
-      "results_count": 11,
-      "working_engines": 5,
-      "response_time_ms": 3015
-    },
     {
       "timestamp": "2026-03-30T09:23:58.758518",
       "status": "healthy",
@@ -710,6 +668,48 @@
       "results_count": 30,
       "working_engines": 5,
       "response_time_ms": 3022
+    },
+    {
+      "timestamp": "2026-03-30T15:21:15.652280",
+      "status": "healthy",
+      "results_count": 30,
+      "working_engines": 5,
+      "response_time_ms": 3062
+    },
+    {
+      "timestamp": "2026-03-30T15:24:42.175635",
+      "status": "healthy",
+      "results_count": 30,
+      "working_engines": 5,
+      "response_time_ms": 3022
+    },
+    {
+      "timestamp": "2026-03-30T15:28:19.193616",
+      "status": "healthy",
+      "results_count": 27,
+      "working_engines": 5,
+      "response_time_ms": 3019
+    },
+    {
+      "timestamp": "2026-03-30T15:32:18.979659",
+      "status": "healthy",
+      "results_count": 30,
+      "working_engines": 5,
+      "response_time_ms": 3031
+    },
+    {
+      "timestamp": "2026-03-30T15:36:33.317216",
+      "status": "healthy",
+      "results_count": 30,
+      "working_engines": 5,
+      "response_time_ms": 3022
+    },
+    {
+      "timestamp": "2026-03-30T15:40:25.262568",
+      "status": "healthy",
+      "results_count": 11,
+      "working_engines": 5,
+      "response_time_ms": 3014
     }
   ],
   "last_error": "Connection refused - SearXNG not running?"
