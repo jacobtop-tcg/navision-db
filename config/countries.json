@@ -1,0 +1,324 @@
+{
+  "countries": [
+    {
+      "code": "DK",
+      "name": "Denmark",
+      "language": "da",
+      "job_portals": ["jobindex.dk", "linkedin.com", "glassdoor.dk"],
+      "partner_websites": true,
+      "priority": 1
+    },
+    {
+      "code": "NO",
+      "name": "Norway",
+      "language": "no",
+      "job_portals": ["jobbnorge.no", "linkedin.com", "glassdoor.no"],
+      "partner_websites": true,
+      "priority": 2
+    },
+    {
+      "code": "SE",
+      "name": "Sweden",
+      "language": "sv",
+      "job_portals": ["blocketjob.se", "linkedin.com", "glassdoor.se"],
+      "partner_websites": true,
+      "priority": 3
+    },
+    {
+      "code": "FI",
+      "name": "Finland",
+      "language": "fi",
+      "job_portals": ["te-palvelut.fi", "linkedin.com", "glassdoor.fi"],
+      "partner_websites": true,
+      "priority": 4
+    },
+    {
+      "code": "DE",
+      "name": "Germany",
+      "language": "de",
+      "job_portals": ["stepstone.de", "linkedin.com", "glassdoor.de"],
+      "partner_websites": true,
+      "priority": 5
+    },
+    {
+      "code": "UK",
+      "name": "United Kingdom",
+      "language": "en",
+      "job_portals": ["indeed.co.uk", "linkedin.com", "glassdoor.co.uk"],
+      "partner_websites": true,
+      "priority": 6
+    },
+    {
+      "code": "NL",
+      "name": "Netherlands",
+      "language": "nl",
+      "job_portals": ["indeed.nl", "linkedin.com", "glassdoor.nl"],
+      "partner_websites": true,
+      "priority": 7
+    },
+    {
+      "code": "BE",
+      "name": "Belgium",
+      "language": "nl/fr",
+      "job_portals": ["indeed.be", "linkedin.com", "glassdoor.be"],
+      "partner_websites": true,
+      "priority": 8
+    },
+    {
+      "code": "US",
+      "name": "United States",
+      "language": "en",
+      "job_portals": ["indeed.com", "linkedin.com", "glassdoor.com"],
+      "partner_websites": true,
+      "priority": 9
+    },
+    {
+      "code": "FR",
+      "name": "France",
+      "language": "fr",
+      "job_portals": ["indeed.fr", "linkedin.com", "glassdoor.fr"],
+      "partner_websites": true,
+      "priority": 10
+    },
+    {
+      "code": "IT",
+      "name": "Italy",
+      "language": "it",
+      "job_portals": ["indeed.it", "linkedin.com", "glassdoor.it"],
+      "partner_websites": true,
+      "priority": 11
+    },
+    {
+      "code": "ES",
+      "name": "Spain",
+      "language": "es",
+      "job_portals": ["indeed.es", "linkedin.com", "glassdoor.es"],
+      "partner_websites": true,
+      "priority": 12
+    },
+    {
+      "code": "PL",
+      "name": "Poland",
+      "language": "pl",
+      "job_portals": ["pracuj.pl", "linkedin.com", "glassdoor.pl"],
+      "partner_websites": true,
+      "priority": 13
+    },
+    {
+      "code": "IN",
+      "name": "India",
+      "language": "en",
+      "job_portals": ["naukri.com", "linkedin.com", "glassdoor.co.in"],
+      "partner_websites": true,
+      "priority": 14
+    },
+    {
+      "code": "CA",
+      "name": "Canada",
+      "language": "en",
+      "job_portals": ["indeed.ca", "linkedin.com", "glassdoor.ca"],
+      "partner_websites": true,
+      "priority": 15
+    },
+    {
+      "code": "AU",
+      "name": "Australia",
+      "language": "en",
+      "job_portals": ["seek.com.au", "linkedin.com", "glassdoor.com.au"],
+      "partner_websites": true,
+      "priority": 16
+    },
+    {
+      "code": "JP",
+      "name": "Japan",
+      "language": "ja",
+      "job_portals": ["rikunabi.com", "linkedin.com", "glassdoor.co.jp"],
+      "partner_websites": true,
+      "priority": 17
+    },
+    {
+      "code": "BR",
+      "name": "Brazil",
+      "language": "pt",
+      "job_portals": ["indeed.com.br", "linkedin.com", "glassdoor.com.br"],
+      "partner_websites": true,
+      "priority": 18
+    },
+    {
+      "code": "MX",
+      "name": "Mexico",
+      "language": "es",
+      "job_portals": ["indeed.com.mx", "linkedin.com", "glassdoor.com.mx"],
+      "partner_websites": true,
+      "priority": 19
+    },
+    {
+      "code": "SG",
+      "name": "Singapore",
+      "language": "en",
+      "job_portals": ["jobstreet.com.sg", "linkedin.com", "glassdoor.sg"],
+      "partner_websites": true,
+      "priority": 20
+    },
+    {
+      "code": "AE",
+      "name": "United Arab Emirates",
+      "language": "en",
+      "job_portals": ["bayt.com", "linkedin.com", "glassdoor.ae"],
+      "partner_websites": true,
+      "priority": 21
+    },
+    {
+      "code": "ZA",
+      "name": "South Africa",
+      "language": "en",
+      "job_portals": ["careers24.com", "linkedin.com", "glassdoor.co.za"],
+      "partner_websites": true,
+      "priority": 22
+    },
+    {
+      "code": "KR",
+      "name": "South Korea",
+      "language": "ko",
+      "job_portals": ["saramin.co.kr", "linkedin.com", "glassdoor.co.kr"],
+      "partner_websites": true,
+      "priority": 23
+    },
+    {
+      "code": "CH",
+      "name": "Switzerland",
+      "language": "de/fr",
+      "job_portals": ["jobs.ch", "linkedin.com", "glassdoor.ch"],
+      "partner_websites": true,
+      "priority": 24
+    },
+    {
+      "code": "AT",
+      "name": "Austria",
+      "language": "de",
+      "job_portals": ["karriere.at", "linkedin.com", "glassdoor.at"],
+      "partner_websites": true,
+      "priority": 25
+    },
+    {
+      "code": "IE",
+      "name": "Ireland",
+      "language": "en",
+      "job_portals": ["irishjobs.ie", "linkedin.com", "glassdoor.ie"],
+      "partner_websites": true,
+      "priority": 26
+    },
+    {
+      "code": "NZ",
+      "name": "New Zealand",
+      "language": "en",
+      "job_portals": ["seek.co.nz", "linkedin.com", "glassdoor.co.nz"],
+      "partner_websites": true,
+      "priority": 27
+    },
+    {
+      "code": "PT",
+      "name": "Portugal",
+      "language": "pt",
+      "job_portals": ["indeed.pt", "linkedin.com", "glassdoor.pt"],
+      "partner_websites": true,
+      "priority": 28
+    },
+    {
+      "code": "GR",
+      "name": "Greece",
+      "language": "el",
+      "job_portals": ["kariera.gr", "linkedin.com"],
+      "partner_websites": true,
+      "priority": 29
+    },
+    {
+      "code": "CZ",
+      "name": "Czech Republic",
+      "language": "cs",
+      "job_portals": ["jobs.cz", "linkedin.com"],
+      "partner_websites": true,
+      "priority": 30
+    },
+    {
+      "code": "RU",
+      "name": "Russia",
+      "language": "ru",
+      "job_portals": ["hh.ru", "linkedin.com"],
+      "partner_websites": true,
+      "priority": 31
+    },
+    {
+      "code": "TR",
+      "name": "Turkey",
+      "language": "tr",
+      "job_portals": ["kariyer.net", "linkedin.com"],
+      "partner_websites": true,
+      "priority": 32
+    },
+    {
+      "code": "ID",
+      "name": "Indonesia",
+      "language": "id",
+      "job_portals": ["jobstreet.co.id", "linkedin.com"],
+      "partner_websites": true,
+      "priority": 33
+    },
+    {
+      "code": "TH",
+      "name": "Thailand",
+      "language": "th",
+      "job_portals": ["jobsdb.com", "linkedin.com"],
+      "partner_websites": true,
+      "priority": 34
+    },
+    {
+      "code": "MY",
+      "name": "Malaysia",
+      "language": "en",
+      "job_portals": ["jobstreet.com.my", "linkedin.com"],
+      "partner_websites": true,
+      "priority": 35
+    },
+    {
+      "code": "VN",
+      "name": "Vietnam",
+      "language": "vi",
+      "job_portals": ["vietnamworks.com", "linkedin.com"],
+      "partner_websites": true,
+      "priority": 36
+    },
+    {
+      "code": "AR",
+      "name": "Argentina",
+      "language": "es",
+      "job_portals": ["computrabajo.com.ar", "linkedin.com"],
+      "partner_websites": true,
+      "priority": 37
+    },
+    {
+      "code": "CL",
+      "name": "Chile",
+      "language": "es",
+      "job_portals": ["laporcla.com", "linkedin.com"],
+      "partner_websites": true,
+      "priority": 38
+    },
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "language": "es",
+      "job_portals": ["computrabajo.com.co", "linkedin.com"],
+      "partner_websites": true,
+      "priority": 39
+    },
+    {
+      "code": "PE",
+      "name": "Peru",
+      "language": "es",
+      "job_portals": ["computrabajo.com.pe", "linkedin.com"],
+      "partner_websites": true,
+      "priority": 40
+    }
+  ]
+}

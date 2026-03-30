@@ -1,0 +1,57 @@
+{
+  "pending_sources": [
+    {
+      "source": "global_jobs",
+      "countries": [
+        "DK",
+        "DE",
+        "SE",
+        "NO",
+        "FI",
+        "NL",
+        "BE",
+        "PL",
+        "UK",
+        "US",
+        "FR",
+        "ES",
+        "IT",
+        "IN"
+      ],
+      "priority": 1,
+      "repeat": true,
+      "notes": "Primary source - finds companies via job postings"
+    },
+    {
+      "source": "partners",
+      "countries": [
+        "DK",
+        "NO",
+        "SE",
+        "FI",
+        "DE",
+        "UK",
+        "NL",
+        "BE",
+        "US"
+      ],
+      "priority": 2,
+      "repeat": true,
+      "notes": "Partner customer lists - verify NAV vs BC"
+    }
+  ],
+  "removed_sources": [
+    {
+      "source": "nav_jobs",
+      "reason": "Returns 0 companies - C/AL jobs extremely rare",
+      "removed_at": "2026-03-26T16:30:00Z"
+    }
+  ],
+  "completed_sources": [
+    "theirstack",
+    "linkedin_global"
+  ],
+  "last_run": "2026-03-26T16:26:00Z",
+  "total_companies": 7908,
+  "status": "running"
+}

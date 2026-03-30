@@ -1,0 +1,26 @@
+{
+  "default": {
+    "requests_per_minute": 30,
+    "delay_between_requests_ms": 500,
+    "timeout_seconds": 30,
+    "max_retries": 3
+  },
+  "theirstack": {
+    "requests_per_minute": 10,
+    "delay_between_requests_ms": 1000,
+    "timeout_seconds": 30,
+    "max_retries": 3
+  },
+  "jobportals": {
+    "requests_per_minute": 30,
+    "delay_between_requests_ms": 500,
+    "timeout_seconds": 30,
+    "max_retries": 3
+  },
+  "partners": {
+    "requests_per_minute": 20,
+    "delay_between_requests_ms": 750,
+    "timeout_seconds": 30,
+    "max_retries": 3
+  }
+}

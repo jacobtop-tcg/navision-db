@@ -1,0 +1,9 @@
+{
+  "baseline": 2151,
+  "next_threshold": 15050,
+  "threshold_increment": 50,
+  "last_check": "2026-03-25T10:45:00Z",
+  "last_notification": "2026-03-25T10:45:00Z",
+  "baseline_count": 15000,
+  "last_notified": "2026-03-28T18:30:35.197696"
+}

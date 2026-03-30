@@ -1,0 +1,13 @@
+{
+  "last_run": "2026-03-30T10:49:07.263121Z",
+  "total_companies": 37660,
+  "countries_processed": [
+    "DK"
+  ],
+  "sources_processed": [
+    "theirstack",
+    "linkedin_global"
+  ],
+  "queue": [],
+  "errors": []
+}

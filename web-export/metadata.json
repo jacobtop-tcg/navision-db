@@ -1,0 +1,47 @@
+{
+  "total_companies": 37660,
+  "last_updated": "2026-03-30T10:48:52.859441Z",
+  "by_confidence": {
+    "5": 446,
+    "4": 34041,
+    "3": 3173
+  },
+  "top_countries": {
+    "DK": 10770,
+    "SE": 4260,
+    "DE": 3496,
+    "NO": 3135,
+    "US": 2176,
+    "NL": 1740,
+    "UK": 1626,
+    "FR": 1499,
+    "BE": 1494,
+    "IN": 1437,
+    "PL": 1420,
+    "ES": 1300,
+    "IT": 1072,
+    "FI": 1037,
+    "GB": 278,
+    "XX": 124,
+    "RO": 79,
+    "KR": 72,
+    "JP": 69,
+    "ZA": 54
+  },
+  "top_sources": {
+    "global_jobs": 32978,
+    "benelux_expansion_batch1": 276,
+    "global_expansion_batch2": 183,
+    "web_search": 182,
+    "TheirStack": 178,
+    "cee_expansion_batch2": 158,
+    "emerging_markets_batch1": 153,
+    "europe_expansion_batch2": 135,
+    "theirstack": 135,
+    "nordics_expansion_batch1": 127
+  },
+  "date_range": {
+    "first": "2026-03-20T18:08:51.494734Z",
+    "latest": "2026-03-30T10:47:49.525998Z"
+  }
+}

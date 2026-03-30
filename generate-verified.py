@@ -1,0 +1,220 @@
+#!/usr/bin/env python3
+"""
+Generate HTML showing ONLY verified NAV customers with PROOF
+"""
+
+import sqlite3
+from datetime import datetime
+from pathlib import Path
+
+DB_PATH = Path('/mnt/data/openclaw/workspace/.openclaw/workspace/navision-db/database/navision-global.db')
+
+conn = sqlite3.connect(DB_PATH)
+conn.row_factory = sqlite3.Row
+cursor = conn.cursor()
+
+cursor.execute("SELECT * FROM verified_nav_customers ORDER BY revenue DESC")
+verified = cursor.fetchall()
+
+conn.close()
+
+html = f'''<!DOCTYPE html>
+<html lang="da">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>✅ VERIFICEREDE NAV-KUNDER (IKKE BC!)</title>
+    <style>
+        * {{ margin: 0; padding: 0; box-sizing: border-box; }}
+        body {{ 
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #0f0f1a;
+            color: #fff;
+            padding: 20px;
+        }}
+        .container {{ max-width: 1200px; margin: 0 auto; }}
+        h1 {{ 
+            text-align: center; 
+            margin-bottom: 10px; 
+            font-size: 2.5em;
+            color: #00ff88;
+        }}
+        .subtitle {{
+            text-align: center;
+            color: #888;
+            margin-bottom: 30px;
+            font-size: 1.2em;
+        }}
+        .warning {{
+            background: #ff6600;
+            color: #000;
+            padding: 15px 20px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+            text-align: center;
+            font-weight: 600;
+        }}
+        .stats {{ 
+            display: flex; 
+            gap: 20px; 
+            margin-bottom: 30px; 
+            flex-wrap: wrap;
+            justify-content: center;
+        }}
+        .stat {{ 
+            background: #1a1a2e; 
+            padding: 20px 30px; 
+            border-radius: 10px;
+            border: 2px solid #00ff88;
+            text-align: center;
+        }}
+        .stat-value {{ font-size: 2em; color: #00ff88; font-weight: bold; }}
+        .stat-label {{ color: #888; margin-top: 5px; }}
+        
+        .company-card {{
+            background: #1a1a2e;
+            border-radius: 15px;
+            padding: 25px;
+            margin-bottom: 20px;
+            border-left: 5px solid #00ff88;
+        }}
+        .company-header {{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+            flex-wrap: wrap;
+            gap: 10px;
+        }}
+        .company-name {{
+            font-size: 1.5em;
+            font-weight: bold;
+            color: #00ff88;
+        }}
+        .company-meta {{
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+        }}
+        .meta-item {{
+            background: #2a2a4e;
+            padding: 5px 12px;
+            border-radius: 15px;
+            font-size: 0.9em;
+        }}
+        .meta-label {{ color: #888; margin-right: 5px; }}
+        .proof-box {{
+            background: #0f0f1a;
+            border: 1px solid #00ff88;
+            border-radius: 8px;
+            padding: 15px;
+            margin-top: 15px;
+        }}
+        .proof-label {{
+            color: #00ff88;
+            font-weight: 600;
+            margin-bottom: 8px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }}
+        .proof-text {{
+            color: #ccc;
+            line-height: 1.6;
+        }}
+        .confidence {{
+            display: inline-block;
+            background: #00ff88;
+            color: #000;
+            padding: 5px 15px;
+            border-radius: 20px;
+            font-weight: bold;
+            font-size: 0.9em;
+        }}
+        .source {{
+            color: #888;
+            font-size: 0.9em;
+            margin-top: 10px;
+        }}
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>✅ VERIFICEREDE NAV-KUNDER</h1>
+        <p class="subtitle">Virksomheder der BEVISLIGT bruger Microsoft Dynamics NAV (IKKE Business Central)</p>
+        
+        <div class="warning">
+            ⚠️ DISSE VIRKSOMHEDER ER VERIFICERET SOM NAV-BRUGERE - PERFECTE MIGRATION EMNER!
+        </div>
+        
+        <div class="stats">
+            <div class="stat">
+                <div class="stat-value">{len(verified)}</div>
+                <div class="stat-label">Verificerede</div>
+            </div>
+            <div class="stat">
+                <div class="stat-value">{len(set(c['country'] for c in verified))}</div>
+                <div class="stat-label">Lande</div>
+            </div>
+            <div class="stat">
+                <div class="stat-value">{len(set(c['industry'] for c in verified))}</div>
+                <div class="stat-label">Industrier</div>
+            </div>
+        </div>
+
+        <div style="margin-bottom: 30px;">
+            <p style="color: #888; line-height: 1.8;">
+                🎯 <strong>Hvorfor disse virksomheder?</strong><br>
+                Alle virksomheder på denne liste har <strong>offentlige beviser</strong> for at de bruger Microsoft Dynamics NAV:<br>
+                • Job postings hvor de søger NAV-udviklere eller brugere<br>
+                • Case studies fra implementeringspartnere<br>
+                • Kundelister fra troværdige kilder (Apps Run The World, InfoClutch)<br>
+                • LinkedIn profiler der nævner NAV implementationer
+            </p>
+        </div>
+'''
+
+for c in verified:
+    html += f'''
+        <div class="company-card">
+            <div class="company-header">
+                <div class="company-name">{c['company_name']}</div>
+                <span class="confidence">⭐⭐⭐⭐⭐ {c['confidence_score']}/5</span>
+            </div>
+            
+            <div class="company-meta">
+                <span class="meta-item"><span class="meta-label">🌍</span>{c['country']}</span>
+                <span class="meta-item"><span class="meta-label">🏭</span>{c['industry']}</span>
+                {f'<span class="meta-item"><span class="meta-label">👥</span>{c["employee_count"]}</span>' if c['employee_count'] else ''}
+                {f'<span class="meta-item"><span class="meta-label">💰</span>{c["revenue"]}</span>' if c['revenue'] else ''}
+            </div>
+            
+            <div class="proof-box">
+                <div class="proof-label">
+                    🔍 BEVIS:
+                </div>
+                <div class="proof-text">
+                    {c['proof']}
+                </div>
+                <div class="source">
+                    📊 Kilde: {c['source']} • Verificeret: {c['verified_at'][:10] if c['verified_at'] else 'N/A'}
+                </div>
+            </div>
+        </div>
+'''
+
+html += '''
+    </div>
+</body>
+</html>
+'''
+
+# Save to file
+output_path = Path('/mnt/data/openclaw/workspace/.openclaw/workspace/navision-db/verified-nav-customers.html')
+with open(output_path, 'w', encoding='utf-8') as f:
+    f.write(html)
+
+print(f"✅ Generated verified NAV customers page!")
+print(f"📊 Total verified: {len(verified)}")
+print(f"📁 File: {output_path}")
+print(f"📏 Size: {len(html):,} bytes ({len(html)/1024:.1f} KB)")

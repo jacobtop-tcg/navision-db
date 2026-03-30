@@ -1,0 +1,11 @@
+[2026-03-30T10:48:52.039040Z] Auto-export daemon started
+[2026-03-30T10:48:52.039191Z] Will run every 300 seconds (5 minutes)
+[2026-03-30T10:48:52.039225Z] Starting export...
+[2026-03-30T10:48:53.724522Z] Export successful! Output:
+[2026-03-30T10:48:52.608339Z] Starter export...
+[2026-03-30T10:48:53.649157Z] Export færdig!
+  Total: 37660 virksomheder
+  JSON: /mnt/data/openclaw/workspace/.openclaw/workspace/navision-db/web-export/companies.json
+  CSV: /mnt/data/openclaw/workspace/.openclaw/workspace/navision-db/web-export/companies.csv
+  Meta: /mnt/data/openclaw/workspace/.openclaw/workspace/navision-db/web-export/metadata.json
+

@@ -1,0 +1,37 @@
+{
+  "sources": {
+    "global_jobs": {
+      "enabled": true,
+      "priority": 1,
+      "rate_limit": {"requests_per_minute": 30, "delay_between_requests_ms": 500},
+      "notes": "FREE - Job postings from Jobindex, LinkedIn, Indeed, Glassdoor"
+    },
+    "theirstack": {
+      "enabled": true,
+      "priority": 2,
+      "rate_limit": {"requests_per_minute": 15, "delay_between_requests_ms": 2000},
+      "notes": "FREE - Public country pages (10 companies/page, 5 pages max per country)"
+    },
+    "linkedin_global": {
+      "enabled": true,
+      "priority": 3,
+      "rate_limit": {"requests_per_minute": 20, "delay_between_requests_ms": 750},
+      "notes": "FREE - LinkedIn profiles via Google Dorks"
+    },
+    "partners": {
+      "enabled": true,
+      "priority": 4,
+      "rate_limit": {"requests_per_minute": 20, "delay_between_requests_ms": 750},
+      "notes": "FREE - Partner customer lists"
+    },
+    "microsoft_partners": {
+      "enabled": true,
+      "priority": 5,
+      "rate_limit": {"requests_per_minute": 25, "delay_between_requests_ms": 600},
+      "notes": "FREE - Microsoft Dynamics partner customer references"
+    }
+  },
+  "deprecated": {
+    "linkedin_people": "Replaced by linkedin_global"
+  }
+}
