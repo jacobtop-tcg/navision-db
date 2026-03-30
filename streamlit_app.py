@@ -69,30 +69,16 @@ def get_flag(country_code):
 @st.cache_data(ttl=300)  # Cache i 5 minutter
 def load_data():
     """Hent data fra JSON export"""
+    # Hent fra GitHub (virker både lokalt og på Streamlit Cloud)
     try:
-        # Prøv lokal fil først
-        export_dir = Path('/mnt/data/openclaw/workspace/.openclaw/workspace/navision-db/web-export')
-        json_path = export_dir / 'companies.json'
-        meta_path = export_dir / 'metadata.json'
+        companies_url = "https://raw.githubusercontent.com/jacobtop-tcg/navision-db/master/web-export/companies.json"
+        meta_url = "https://raw.githubusercontent.com/jacobtop-tcg/navision-db/master/web-export/metadata.json"
         
-        if json_path.exists():
-            with open(json_path, 'r', encoding='utf-8') as f:
-                companies = json.load(f)
-            with open(meta_path, 'r', encoding='utf-8') as f:
-                metadata = json.load(f)
-            return pd.DataFrame(companies), metadata
+        companies = requests.get(companies_url, timeout=30).json()
+        metadata = requests.get(meta_url, timeout=30).json()
+        return pd.DataFrame(companies), metadata
     except Exception as e:
         st.error(f"Fejl ved indlæsning af data: {e}")
-    
-    # Fallback: Hent fra GitHub (når deployet)
-    try:
-        companies_url = "https://raw.githubusercontent.com/jacob-top/navision-db/main/web-export/companies.json"
-        meta_url = "https://raw.githubusercontent.com/jacob-top/navision-db/main/web-export/metadata.json"
-        
-        companies = requests.get(companies_url, timeout=10).json()
-        metadata = requests.get(meta_url, timeout=10).json()
-        return pd.DataFrame(companies), metadata
-    except:
         return None, None
 
 def main():
