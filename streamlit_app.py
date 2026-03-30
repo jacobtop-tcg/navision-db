@@ -219,18 +219,23 @@ def main():
     with col_left:
         st.subheader("📋 Virksomhedsliste")
         
-        # Vis tabel med pagination
+        # Tilføj links kolonner
+        display_df = filtered_df.copy()
+        
+        # Vis tabel med pagination og links
         st.dataframe(
-            filtered_df[['name', 'country', 'industry', 'confidence', 'source', 'evidence']],
+            display_df[['name', 'country', 'industry', 'confidence', 'source', 'website', 'source_url', 'evidence']],
             use_container_width=True,
             height=600,
             column_config={
-                "name": "Virksomhed",
+                "name": st.column_config.TextColumn("Virksomhed", width="medium"),
                 "country": st.column_config.TextColumn("Land", help="Landekode"),
-                "industry": "Branche",
+                "industry": st.column_config.TextColumn("Branche"),
                 "confidence": st.column_config.NumberColumn("Kvalitet", help="1-5 stjerner"),
-                "source": "Kilde",
-                "evidence": st.column_config.TextColumn("Bevis", width="medium")
+                "source": st.column_config.TextColumn("Kilde"),
+                "website": st.column_config.LinkColumn("Website"),
+                "source_url": st.column_config.LinkColumn("Kilde URL", width="small"),
+                "evidence": st.column_config.TextColumn("Bevis", width="large")
             }
         )
     
