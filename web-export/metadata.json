@@ -1,27 +1,27 @@
 {
-  "total_companies": 41891,
-  "last_updated": "2026-03-30T19:37:08.952041Z",
+  "total_companies": 42158,
+  "last_updated": "2026-03-30T20:57:40.363634Z",
   "by_confidence": {
-    "5": 18,
-    "4": 1600,
+    "5": 23,
+    "4": 1822,
     "3": 3173,
-    "1": 37100
+    "1": 37140
   },
   "top_countries": {
-    "DK": 11811,
-    "SE": 4704,
-    "DE": 3954,
-    "NO": 3563,
-    "US": 2311,
+    "DK": 11913,
+    "SE": 4736,
+    "DE": 4021,
+    "NO": 3571,
+    "US": 2319,
     "NL": 1917,
-    "UK": 1875,
-    "PL": 1691,
-    "FR": 1666,
+    "UK": 1884,
+    "PL": 1701,
+    "FR": 1671,
     "IN": 1653,
-    "BE": 1605,
+    "BE": 1617,
     "ES": 1499,
-    "IT": 1271,
-    "FI": 1173,
+    "IT": 1275,
+    "FI": 1178,
     "GB": 278,
     "XX": 124,
     "RO": 79,
@@ -30,19 +30,19 @@
     "ZA": 54
   },
   "top_sources": {
-    "global_jobs": 37209,
+    "global_jobs": 37471,
     "benelux_expansion_batch1": 276,
     "global_expansion_batch2": 183,
     "web_search": 182,
     "TheirStack": 178,
     "cee_expansion_batch2": 158,
     "emerging_markets_batch1": 153,
+    "theirstack": 140,
     "europe_expansion_batch2": 135,
-    "theirstack": 135,
     "nordics_expansion_batch1": 127
   },
   "date_range": {
     "first": "2026-03-20T18:08:51.494734Z",
-    "latest": "2026-03-30T19:35:42.908238Z"
+    "latest": "2026-03-30T20:54:17.928978Z"
   }
 }
