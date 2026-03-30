@@ -1,121 +1,16 @@
 {
   "status": "healthy",
-  "last_check": "2026-03-30T18:38:07.375656",
+  "last_check": "2026-03-30T19:34:54.482522",
   "consecutive_errors": 0,
   "rate_limited_since": null,
   "available_at": null,
   "engines_status": {
-    "results": 11,
+    "results": 31,
     "unresponsive_engines": 0,
     "working_engines": 5,
     "total_engines": 10
   },
   "history": [
-    {
-      "timestamp": "2026-03-30T12:25:06.065042",
-      "status": "healthy",
-      "results_count": 27,
-      "working_engines": 5,
-      "response_time_ms": 3020
-    },
-    {
-      "timestamp": "2026-03-30T12:28:45.670331",
-      "status": "healthy",
-      "results_count": 11,
-      "working_engines": 5,
-      "response_time_ms": 3014
-    },
-    {
-      "timestamp": "2026-03-30T12:32:41.798512",
-      "status": "healthy",
-      "results_count": 31,
-      "working_engines": 5,
-      "response_time_ms": 3020
-    },
-    {
-      "timestamp": "2026-03-30T12:36:22.594776",
-      "status": "healthy",
-      "results_count": 11,
-      "working_engines": 5,
-      "response_time_ms": 3015
-    },
-    {
-      "timestamp": "2026-03-30T12:40:18.939087",
-      "status": "healthy",
-      "results_count": 31,
-      "working_engines": 5,
-      "response_time_ms": 3021
-    },
-    {
-      "timestamp": "2026-03-30T12:44:18.405236",
-      "status": "healthy",
-      "results_count": 30,
-      "working_engines": 5,
-      "response_time_ms": 3020
-    },
-    {
-      "timestamp": "2026-03-30T12:47:59.333807",
-      "status": "healthy",
-      "results_count": 11,
-      "working_engines": 5,
-      "response_time_ms": 3014
-    },
-    {
-      "timestamp": "2026-03-30T12:51:50.098766",
-      "status": "healthy",
-      "results_count": 31,
-      "working_engines": 5,
-      "response_time_ms": 3021
-    },
-    {
-      "timestamp": "2026-03-30T12:55:46.439353",
-      "status": "healthy",
-      "results_count": 31,
-      "working_engines": 5,
-      "response_time_ms": 3021
-    },
-    {
-      "timestamp": "2026-03-30T12:59:31.302837",
-      "status": "healthy",
-      "results_count": 31,
-      "working_engines": 5,
-      "response_time_ms": 3021
-    },
-    {
-      "timestamp": "2026-03-30T13:03:10.003642",
-      "status": "healthy",
-      "results_count": 31,
-      "working_engines": 5,
-      "response_time_ms": 1807
-    },
-    {
-      "timestamp": "2026-03-30T13:06:14.039349",
-      "status": "healthy",
-      "results_count": 11,
-      "working_engines": 5,
-      "response_time_ms": 2757
-    },
-    {
-      "timestamp": "2026-03-30T13:09:32.043862",
-      "status": "healthy",
-      "results_count": 31,
-      "working_engines": 5,
-      "response_time_ms": 1553
-    },
-    {
-      "timestamp": "2026-03-30T13:13:06.287714",
-      "status": "healthy",
-      "results_count": 11,
-      "working_engines": 5,
-      "response_time_ms": 3014
-    },
-    {
-      "timestamp": "2026-03-30T13:16:55.620430",
-      "status": "healthy",
-      "results_count": 31,
-      "working_engines": 5,
-      "response_time_ms": 3021
-    },
     {
       "timestamp": "2026-03-30T13:21:03.975913",
       "status": "healthy",
@@ -710,6 +605,111 @@
       "results_count": 11,
       "working_engines": 5,
       "response_time_ms": 3015
+    },
+    {
+      "timestamp": "2026-03-30T18:42:02.061119",
+      "status": "healthy",
+      "results_count": 27,
+      "working_engines": 5,
+      "response_time_ms": 3021
+    },
+    {
+      "timestamp": "2026-03-30T18:45:59.961479",
+      "status": "healthy",
+      "results_count": 27,
+      "working_engines": 5,
+      "response_time_ms": 3020
+    },
+    {
+      "timestamp": "2026-03-30T18:49:54.102867",
+      "status": "healthy",
+      "results_count": 27,
+      "working_engines": 5,
+      "response_time_ms": 3021
+    },
+    {
+      "timestamp": "2026-03-30T18:53:33.604065",
+      "status": "healthy",
+      "results_count": 27,
+      "working_engines": 5,
+      "response_time_ms": 3019
+    },
+    {
+      "timestamp": "2026-03-30T18:57:16.742289",
+      "status": "healthy",
+      "results_count": 27,
+      "working_engines": 5,
+      "response_time_ms": 3022
+    },
+    {
+      "timestamp": "2026-03-30T19:01:04.961908",
+      "status": "healthy",
+      "results_count": 27,
+      "working_engines": 5,
+      "response_time_ms": 3064
+    },
+    {
+      "timestamp": "2026-03-30T19:05:03.157107",
+      "status": "healthy",
+      "results_count": 11,
+      "working_engines": 5,
+      "response_time_ms": 3016
+    },
+    {
+      "timestamp": "2026-03-30T19:09:02.356340",
+      "status": "healthy",
+      "results_count": 27,
+      "working_engines": 5,
+      "response_time_ms": 3021
+    },
+    {
+      "timestamp": "2026-03-30T19:12:54.590697",
+      "status": "healthy",
+      "results_count": 27,
+      "working_engines": 5,
+      "response_time_ms": 3021
+    },
+    {
+      "timestamp": "2026-03-30T19:16:07.766292",
+      "status": "healthy",
+      "results_count": 31,
+      "working_engines": 5,
+      "response_time_ms": 3022
+    },
+    {
+      "timestamp": "2026-03-30T19:19:56.065415",
+      "status": "healthy",
+      "results_count": 31,
+      "working_engines": 5,
+      "response_time_ms": 3020
+    },
+    {
+      "timestamp": "2026-03-30T19:23:49.340888",
+      "status": "healthy",
+      "results_count": 31,
+      "working_engines": 5,
+      "response_time_ms": 3022
+    },
+    {
+      "timestamp": "2026-03-30T19:27:44.553708",
+      "status": "healthy",
+      "results_count": 11,
+      "working_engines": 5,
+      "response_time_ms": 3016
+    },
+    {
+      "timestamp": "2026-03-30T19:31:25.120643",
+      "status": "healthy",
+      "results_count": 31,
+      "working_engines": 5,
+      "response_time_ms": 3022
+    },
+    {
+      "timestamp": "2026-03-30T19:34:54.482537",
+      "status": "healthy",
+      "results_count": 31,
+      "working_engines": 5,
+      "response_time_ms": 3024
     }
   ],
   "last_error": "Connection refused - SearXNG not running?"
