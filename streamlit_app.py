@@ -69,16 +69,30 @@ def get_flag(country_code):
 @st.cache_data(ttl=300)  # Cache i 5 minutter
 def load_data():
     """Hent data fra JSON export"""
+    import traceback
+    
     # Hent fra GitHub (virker både lokalt og på Streamlit Cloud)
     try:
         companies_url = "https://raw.githubusercontent.com/jacobtop-tcg/navision-db/master/web-export/companies.json"
         meta_url = "https://raw.githubusercontent.com/jacobtop-tcg/navision-db/master/web-export/metadata.json"
         
-        companies = requests.get(companies_url, timeout=30).json()
-        metadata = requests.get(meta_url, timeout=30).json()
+        # Hent data med headers for at undgå rate limiting
+        headers = {'User-Agent': 'Mozilla/5.0 (compatible; NavisionBot/1.0)'}
+        
+        companies_response = requests.get(companies_url, headers=headers, timeout=30)
+        companies_response.raise_for_status()
+        companies = companies_response.json()
+        
+        metadata_response = requests.get(meta_url, headers=headers, timeout=30)
+        metadata_response.raise_for_status()
+        metadata = metadata_response.json()
+        
         return pd.DataFrame(companies), metadata
     except Exception as e:
-        st.error(f"Fejl ved indlæsning af data: {e}")
+        st.error(f"❌ Fejl: {type(e).__name__}")
+        st.error(f"Detaljer: {str(e)}")
+        st.code(traceback.format_exc())
+        st.info("💡 **Fix:** Tjek at web-export/companies.json findes på GitHub")
         return None, None
 
 def main():
