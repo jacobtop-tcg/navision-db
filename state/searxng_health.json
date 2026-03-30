@@ -1,23 +1,16 @@
 {
   "status": "healthy",
-  "last_check": "2026-03-30T15:13:13.553738",
+  "last_check": "2026-03-30T15:17:00.888565",
   "consecutive_errors": 0,
   "rate_limited_since": null,
   "available_at": null,
   "engines_status": {
-    "results": 11,
+    "results": 30,
     "unresponsive_engines": 0,
     "working_engines": 5,
     "total_engines": 10
   },
   "history": [
-    {
-      "timestamp": "2026-03-30T08:59:26.153161",
-      "status": "healthy",
-      "results_count": 11,
-      "working_engines": 5,
-      "response_time_ms": 1575
-    },
     {
       "timestamp": "2026-03-30T09:02:22.892187",
       "status": "healthy",
@@ -710,6 +703,13 @@
       "results_count": 11,
       "working_engines": 5,
       "response_time_ms": 3014
+    },
+    {
+      "timestamp": "2026-03-30T15:17:00.888579",
+      "status": "healthy",
+      "results_count": 30,
+      "working_engines": 5,
+      "response_time_ms": 3022
     }
   ],
   "last_error": "Connection refused - SearXNG not running?"
