@@ -52,6 +52,14 @@ st.markdown("""
     .quality-high { color: #00ff88; }
     .quality-med { color: #ffaa00; }
     .quality-low { color: #ff4444; }
+    .verified-badge {
+        background: linear-gradient(135deg, #00ff88, #00cc6a);
+        color: #000;
+        padding: 5px 15px;
+        border-radius: 20px;
+        font-weight: bold;
+        font-size: 0.9em;
+    }
 </style>
 """, unsafe_allow_html=True)
 
@@ -67,14 +75,22 @@ def get_flag(country_code):
     return FLAG_EMOJIS.get(country_code.upper(), '🌍')
 
 @st.cache_data(ttl=300)  # Cache i 5 minutter
-def load_data():
+def load_data(use_verified=True):
     """Hent data fra JSON export"""
     import traceback
     
     # Hent fra GitHub (virker både lokalt og på Streamlit Cloud)
     try:
-        companies_url = "https://raw.githubusercontent.com/jacobtop-tcg/navision-db/master/web-export/companies.json"
-        meta_url = "https://raw.githubusercontent.com/jacobtop-tcg/navision-db/master/web-export/metadata.json"
+        if use_verified:
+            # VERIFIED: Kun høj kvalitet med evidence + direkte links
+            companies_url = "https://raw.githubusercontent.com/jacobtop-tcg/navision-db/master/web-export/companies-verified.json"
+            meta_url = "https://raw.githubusercontent.com/jacobtop-tcg/navision-db/master/web-export/metadata-verified.json"
+            data_type = "VERIFIED"
+        else:
+            # Alle data (inkl. støj)
+            companies_url = "https://raw.githubusercontent.com/jacobtop-tcg/navision-db/master/web-export/companies.json"
+            meta_url = "https://raw.githubusercontent.com/jacobtop-tcg/navision-db/master/web-export/metadata.json"
+            data_type = "ALLE"
         
         # Hent data med headers for at undgå rate limiting
         headers = {'User-Agent': 'Mozilla/5.0 (compatible; NavisionBot/1.0)'}
@@ -87,13 +103,13 @@ def load_data():
         metadata_response.raise_for_status()
         metadata = metadata_response.json()
         
-        return pd.DataFrame(companies), metadata
+        return pd.DataFrame(companies), metadata, data_type
     except Exception as e:
         st.error(f"❌ Fejl: {type(e).__name__}")
         st.error(f"Detaljer: {str(e)}")
         st.code(traceback.format_exc())
         st.info("💡 **Fix:** Tjek at web-export/companies.json findes på GitHub")
-        return None, None
+        return None, None, None
 
 def main():
     # Header
@@ -101,12 +117,28 @@ def main():
     st.markdown("### Live oversigt over virksomheder der bruger Microsoft Dynamics NAV/Navision")
     st.markdown("---")
     
+    # Data source selector
+    col1, col2 = st.columns([3, 1])
+    with col1:
+        st.info("💎 **VERIFIED:** 100% har konkret evidence + direkte kilde-link")
+    with col2:
+        use_verified = st.checkbox("✅ Kun VERIFIED data (anbefalet)", value=True)
+    
     # Hent data
-    df, metadata = load_data()
+    df, metadata, data_type = load_data(use_verified=use_verified)
     
     if df is None:
-        st.error("Kunne ikke indlæse data. Sørg for at export scriptet er kørt.")
+        st.error("Kunne ikke indlæse data. Tjek internetforbindelsen.")
         st.stop()
+    
+    # Data source badge
+    if use_verified:
+        st.markdown(f'<span class="verified-badge">🎯 VERIFIED DATA: {metadata["total_companies"]:,} virksomheder</span>', unsafe_allow_html=True)
+        st.caption("Alle har: konkret evidence/bevis + direkte link til kilde + høj kvalitet (4-5★)")
+    else:
+        st.markdown(f"📊 ALLE DATA: {metadata['total_companies']:,} virksomheder")
+    
+    st.markdown("---")
     
     # Auto-refresh knap
     if st.button('🔄 Opdater data'):
@@ -169,7 +201,7 @@ def main():
         "Minimum kvalitet (stjerner)",
         min_value=1,
         max_value=5,
-        value=3
+        value=3 if not use_verified else 4
     )
     
     # Kilde filter
@@ -290,8 +322,9 @@ def main():
     st.markdown("---")
     st.markdown(f"""
     <div style="text-align: center; color: #666;">
-        <p>🔄 Data opdateres automatisk hvert 5. minut</p>
+        <p>🔄 Data opdateres automatisk hver gang du pusher til GitHub</p>
         <p>Sidst opdateret: {metadata.get('last_updated', 'Ukendt')}</p>
+        {f'<p>🎯 KVALITET: 100% har evidence + direkte kilde-link</p>' if use_verified else ''}
     </div>
     """, unsafe_allow_html=True)
 
