@@ -16836,3 +16836,960 @@
 [2026-03-30T15:27:15.749892] 😴 Venter 60 sekunder...
 [2026-03-30T15:28:15.750135] 
 📊 Run #511 - 2026-03-30T15:28:15.750110
+[2026-03-30T15:28:15.750371] 🕷️  Kører scraper...
+[2026-03-30T15:31:15.540661] ✅ Scraper completed successfully
+[2026-03-30T15:31:15.540921] Output: 📋 Queue: 2 pending, 2 completed
+✅ SearXNG healthy (5 engines, 27 results)
+🕷️  Running scraper: global_jobs for DK
+  📍 Searching for companies in DK
+  🔍 Using 21 queries via SearXNG
+  ✅ Found 52 companies
+✅ global_jobs/DK: Found 52 companies, inserted 6 new
+🕷️  Running scraper: global_jobs for DE
+  📍 Searching for companies in DE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 19 companies
+✅ global_jobs/DE: Found 19 companies, inserted 3 new
+🕷️  Running scraper: global_jobs for SE
+  📍 Searching for companies in SE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 16 companies
+✅ global_jobs/SE: Found 16 companies, inserted 4 new
+🕷️  Running scraper: global_jobs for NO
+  📍 Searching for companies in NO
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 23 companies
+✅ global_jobs/NO: Found 23 companies, inserted 7 new
+🕷️  Running scraper: global_jobs for FI
+  📍 Searching for companies in FI
+  🔍 Using 4 queries via SearXNG
+  ✅ Found 12 companies
+✅ global_jobs/FI: Found 12 companies, inserted 0 new
+🕷️  Running scr
+[2026-03-30T15:31:15.541063] 😴 Venter 60 sekunder...
+[2026-03-30T15:32:15.541265] 
+📊 Run #512 - 2026-03-30T15:32:15.541244
+[2026-03-30T15:32:15.541507] 🕷️  Kører scraper...
+[2026-03-30T15:35:29.915250] ✅ Scraper completed successfully
+[2026-03-30T15:35:29.915462] Output: 📋 Queue: 2 pending, 2 completed
+✅ SearXNG healthy (5 engines, 30 results)
+🕷️  Running scraper: global_jobs for DK
+  📍 Searching for companies in DK
+  🔍 Using 21 queries via SearXNG
+  ✅ Found 53 companies
+✅ global_jobs/DK: Found 53 companies, inserted 10 new
+🕷️  Running scraper: global_jobs for DE
+  📍 Searching for companies in DE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 12 companies
+✅ global_jobs/DE: Found 12 companies, inserted 0 new
+🕷️  Running scraper: global_jobs for SE
+  📍 Searching for companies in SE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 18 companies
+✅ global_jobs/SE: Found 18 companies, inserted 6 new
+🕷️  Running scraper: global_jobs for NO
+  📍 Searching for companies in NO
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 20 companies
+✅ global_jobs/NO: Found 20 companies, inserted 0 new
+🕷️  Running scraper: global_jobs for FI
+  📍 Searching for companies in FI
+  🔍 Using 4 queries via SearXNG
+  ✅ Found 12 companies
+✅ global_jobs/FI: Found 12 companies, inserted 0 new
+🕷️  Running sc
+[2026-03-30T15:35:29.915559] 😴 Venter 60 sekunder...
+[2026-03-30T15:36:29.915784] 
+📊 Run #513 - 2026-03-30T15:36:29.915760
+[2026-03-30T15:36:29.916021] 🕷️  Kører scraper...
+[2026-03-30T15:39:21.888769] ✅ Scraper completed successfully
+[2026-03-30T15:39:21.888965] Output: 📋 Queue: 2 pending, 2 completed
+✅ SearXNG healthy (5 engines, 30 results)
+🕷️  Running scraper: global_jobs for DK
+  📍 Searching for companies in DK
+  🔍 Using 21 queries via SearXNG
+  ✅ Found 49 companies
+✅ global_jobs/DK: Found 49 companies, inserted 6 new
+🕷️  Running scraper: global_jobs for DE
+  📍 Searching for companies in DE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 17 companies
+✅ global_jobs/DE: Found 17 companies, inserted 0 new
+🕷️  Running scraper: global_jobs for SE
+  📍 Searching for companies in SE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 12 companies
+✅ global_jobs/SE: Found 12 companies, inserted 0 new
+🕷️  Running scraper: global_jobs for NO
+  📍 Searching for companies in NO
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 20 companies
+✅ global_jobs/NO: Found 20 companies, inserted 5 new
+🕷️  Running scraper: global_jobs for FI
+  📍 Searching for companies in FI
+  🔍 Using 4 queries via SearXNG
+  ✅ Found 17 companies
+✅ global_jobs/FI: Found 17 companies, inserted 7 new
+🕷️  Running scr
+[2026-03-30T15:39:21.889110] 😴 Venter 60 sekunder...
+[2026-03-30T15:40:21.889292] 
+📊 Run #514 - 2026-03-30T15:40:21.889270
+[2026-03-30T15:40:21.889506] 🕷️  Kører scraper...
+[2026-03-30T15:43:13.327711] ✅ Scraper completed successfully
+[2026-03-30T15:43:13.327903] Output: 📋 Queue: 2 pending, 2 completed
+✅ SearXNG healthy (5 engines, 11 results)
+🕷️  Running scraper: global_jobs for DK
+  📍 Searching for companies in DK
+  🔍 Using 21 queries via SearXNG
+  ✅ Found 48 companies
+✅ global_jobs/DK: Found 48 companies, inserted 2 new
+🕷️  Running scraper: global_jobs for DE
+  📍 Searching for companies in DE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 17 companies
+✅ global_jobs/DE: Found 17 companies, inserted 2 new
+🕷️  Running scraper: global_jobs for SE
+  📍 Searching for companies in SE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 14 companies
+✅ global_jobs/SE: Found 14 companies, inserted 2 new
+🕷️  Running scraper: global_jobs for NO
+  📍 Searching for companies in NO
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 21 companies
+✅ global_jobs/NO: Found 21 companies, inserted 3 new
+🕷️  Running scraper: global_jobs for FI
+  📍 Searching for companies in FI
+  🔍 Using 4 queries via SearXNG
+  ✅ Found 12 companies
+✅ global_jobs/FI: Found 12 companies, inserted 0 new
+🕷️  Running scr
+[2026-03-30T15:43:13.328057] 😴 Venter 60 sekunder...
+[2026-03-30T15:44:13.328266] 
+📊 Run #515 - 2026-03-30T15:44:13.328247
+[2026-03-30T15:44:13.328497] 🕷️  Kører scraper...
+[2026-03-30T15:46:23.627110] ✅ Scraper completed successfully
+[2026-03-30T15:46:23.627322] Output: 📋 Queue: 2 pending, 2 completed
+✅ SearXNG healthy (5 engines, 30 results)
+🕷️  Running scraper: global_jobs for DK
+  📍 Searching for companies in DK
+  🔍 Using 21 queries via SearXNG
+  ✅ Found 53 companies
+✅ global_jobs/DK: Found 53 companies, inserted 8 new
+🕷️  Running scraper: global_jobs for DE
+  📍 Searching for companies in DE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 15 companies
+✅ global_jobs/DE: Found 15 companies, inserted 1 new
+🕷️  Running scraper: global_jobs for SE
+  📍 Searching for companies in SE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 21 companies
+✅ global_jobs/SE: Found 21 companies, inserted 9 new
+🕷️  Running scraper: global_jobs for NO
+  📍 Searching for companies in NO
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 20 companies
+✅ global_jobs/NO: Found 20 companies, inserted 5 new
+🕷️  Running scraper: global_jobs for FI
+  📍 Searching for companies in FI
+  🔍 Using 4 queries via SearXNG
+  ✅ Found 12 companies
+✅ global_jobs/FI: Found 12 companies, inserted 0 new
+🕷️  Running scr
+[2026-03-30T15:46:23.627428] 😴 Venter 60 sekunder...
+[2026-03-30T15:47:23.627646] 
+📊 Run #516 - 2026-03-30T15:47:23.627626
+[2026-03-30T15:47:23.627887] 🕷️  Kører scraper...
+[2026-03-30T15:50:09.480266] ✅ Scraper completed successfully
+[2026-03-30T15:50:09.480455] Output: 📋 Queue: 2 pending, 2 completed
+✅ SearXNG healthy (5 engines, 30 results)
+🕷️  Running scraper: global_jobs for DK
+  📍 Searching for companies in DK
+  🔍 Using 21 queries via SearXNG
+  ✅ Found 55 companies
+✅ global_jobs/DK: Found 55 companies, inserted 18 new
+🕷️  Running scraper: global_jobs for DE
+  📍 Searching for companies in DE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 13 companies
+✅ global_jobs/DE: Found 13 companies, inserted 0 new
+🕷️  Running scraper: global_jobs for SE
+  📍 Searching for companies in SE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 16 companies
+✅ global_jobs/SE: Found 16 companies, inserted 2 new
+🕷️  Running scraper: global_jobs for NO
+  📍 Searching for companies in NO
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 17 companies
+✅ global_jobs/NO: Found 17 companies, inserted 2 new
+🕷️  Running scraper: global_jobs for FI
+  📍 Searching for companies in FI
+  🔍 Using 4 queries via SearXNG
+  ✅ Found 12 companies
+✅ global_jobs/FI: Found 12 companies, inserted 0 new
+🕷️  Running sc
+[2026-03-30T15:50:09.480545] 😴 Venter 60 sekunder...
+[2026-03-30T15:51:09.480755] 
+📊 Run #517 - 2026-03-30T15:51:09.480734
+[2026-03-30T15:51:09.481015] 🕷️  Kører scraper...
+[2026-03-30T15:54:16.141736] ✅ Scraper completed successfully
+[2026-03-30T15:54:16.141954] Output: 📋 Queue: 2 pending, 2 completed
+✅ SearXNG healthy (5 engines, 30 results)
+🕷️  Running scraper: global_jobs for DK
+  📍 Searching for companies in DK
+  🔍 Using 21 queries via SearXNG
+  ✅ Found 51 companies
+✅ global_jobs/DK: Found 51 companies, inserted 8 new
+🕷️  Running scraper: global_jobs for DE
+  📍 Searching for companies in DE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 17 companies
+✅ global_jobs/DE: Found 17 companies, inserted 0 new
+🕷️  Running scraper: global_jobs for SE
+  📍 Searching for companies in SE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 12 companies
+✅ global_jobs/SE: Found 12 companies, inserted 0 new
+🕷️  Running scraper: global_jobs for NO
+  📍 Searching for companies in NO
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 16 companies
+✅ global_jobs/NO: Found 16 companies, inserted 0 new
+🕷️  Running scraper: global_jobs for FI
+  📍 Searching for companies in FI
+  🔍 Using 4 queries via SearXNG
+  ✅ Found 12 companies
+✅ global_jobs/FI: Found 12 companies, inserted 0 new
+🕷️  Running scr
+[2026-03-30T15:54:16.142087] 😴 Venter 60 sekunder...
+[2026-03-30T15:55:16.142302] 
+📊 Run #518 - 2026-03-30T15:55:16.142281
+[2026-03-30T15:55:16.142527] 🕷️  Kører scraper...
+[2026-03-30T15:58:03.039896] ✅ Scraper completed successfully
+[2026-03-30T15:58:03.040125] Output: 📋 Queue: 2 pending, 2 completed
+✅ SearXNG healthy (5 engines, 30 results)
+🕷️  Running scraper: global_jobs for DK
+  📍 Searching for companies in DK
+  🔍 Using 21 queries via SearXNG
+  ✅ Found 60 companies
+✅ global_jobs/DK: Found 60 companies, inserted 5 new
+🕷️  Running scraper: global_jobs for DE
+  📍 Searching for companies in DE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 18 companies
+✅ global_jobs/DE: Found 18 companies, inserted 3 new
+🕷️  Running scraper: global_jobs for SE
+  📍 Searching for companies in SE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 13 companies
+✅ global_jobs/SE: Found 13 companies, inserted 0 new
+🕷️  Running scraper: global_jobs for NO
+  📍 Searching for companies in NO
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 19 companies
+✅ global_jobs/NO: Found 19 companies, inserted 0 new
+🕷️  Running scraper: global_jobs for FI
+  📍 Searching for companies in FI
+  🔍 Using 4 queries via SearXNG
+  ✅ Found 12 companies
+✅ global_jobs/FI: Found 12 companies, inserted 0 new
+🕷️  Running scr
+[2026-03-30T15:58:03.040224] 😴 Venter 60 sekunder...
+[2026-03-30T15:59:03.040397] 
+📊 Run #519 - 2026-03-30T15:59:03.040376
+[2026-03-30T15:59:03.040636] 🕷️  Kører scraper...
+[2026-03-30T16:01:57.504483] ✅ Scraper completed successfully
+[2026-03-30T16:01:57.504762] Output: 📋 Queue: 2 pending, 2 completed
+✅ SearXNG healthy (5 engines, 11 results)
+🕷️  Running scraper: global_jobs for DK
+  📍 Searching for companies in DK
+  🔍 Using 21 queries via SearXNG
+  ✅ Found 47 companies
+✅ global_jobs/DK: Found 47 companies, inserted 8 new
+🕷️  Running scraper: global_jobs for DE
+  📍 Searching for companies in DE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 23 companies
+✅ global_jobs/DE: Found 23 companies, inserted 8 new
+🕷️  Running scraper: global_jobs for SE
+  📍 Searching for companies in SE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 12 companies
+✅ global_jobs/SE: Found 12 companies, inserted 0 new
+🕷️  Running scraper: global_jobs for NO
+  📍 Searching for companies in NO
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 18 companies
+✅ global_jobs/NO: Found 18 companies, inserted 2 new
+🕷️  Running scraper: global_jobs for FI
+  📍 Searching for companies in FI
+  🔍 Using 4 queries via SearXNG
+  ✅ Found 12 companies
+✅ global_jobs/FI: Found 12 companies, inserted 0 new
+🕷️  Running scr
+[2026-03-30T16:01:57.504869] 😴 Venter 60 sekunder...
+[2026-03-30T16:02:57.505071] 
+📊 Run #520 - 2026-03-30T16:02:57.505049
+[2026-03-30T16:02:57.505289] 🕷️  Kører scraper...
+[2026-03-30T16:05:43.480434] ✅ Scraper completed successfully
+[2026-03-30T16:05:43.480690] Output: 📋 Queue: 2 pending, 2 completed
+✅ SearXNG healthy (5 engines, 30 results)
+🕷️  Running scraper: global_jobs for DK
+  📍 Searching for companies in DK
+  🔍 Using 21 queries via SearXNG
+  ✅ Found 65 companies
+✅ global_jobs/DK: Found 65 companies, inserted 8 new
+🕷️  Running scraper: global_jobs for DE
+  📍 Searching for companies in DE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 17 companies
+✅ global_jobs/DE: Found 17 companies, inserted 5 new
+🕷️  Running scraper: global_jobs for SE
+  📍 Searching for companies in SE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 13 companies
+✅ global_jobs/SE: Found 13 companies, inserted 0 new
+🕷️  Running scraper: global_jobs for NO
+  📍 Searching for companies in NO
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 22 companies
+✅ global_jobs/NO: Found 22 companies, inserted 7 new
+🕷️  Running scraper: global_jobs for FI
+  📍 Searching for companies in FI
+  🔍 Using 4 queries via SearXNG
+  ✅ Found 12 companies
+✅ global_jobs/FI: Found 12 companies, inserted 0 new
+🕷️  Running scr
+[2026-03-30T16:05:43.480812] 😴 Venter 60 sekunder...
+[2026-03-30T16:06:43.481017] 
+📊 Run #521 - 2026-03-30T16:06:43.480997
+[2026-03-30T16:06:43.481262] 🕷️  Kører scraper...
+[2026-03-30T16:09:23.502650] ✅ Scraper completed successfully
+[2026-03-30T16:09:23.502955] Output: 📋 Queue: 2 pending, 2 completed
+✅ SearXNG healthy (4 engines, 8 results)
+🕷️  Running scraper: global_jobs for DK
+  📍 Searching for companies in DK
+  🔍 Using 21 queries via SearXNG
+  ✅ Found 42 companies
+✅ global_jobs/DK: Found 42 companies, inserted 2 new
+🕷️  Running scraper: global_jobs for DE
+  📍 Searching for companies in DE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 13 companies
+✅ global_jobs/DE: Found 13 companies, inserted 1 new
+🕷️  Running scraper: global_jobs for SE
+  📍 Searching for companies in SE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 17 companies
+✅ global_jobs/SE: Found 17 companies, inserted 3 new
+🕷️  Running scraper: global_jobs for NO
+  📍 Searching for companies in NO
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 18 companies
+✅ global_jobs/NO: Found 18 companies, inserted 2 new
+🕷️  Running scraper: global_jobs for FI
+  📍 Searching for companies in FI
+  🔍 Using 4 queries via SearXNG
+  ✅ Found 12 companies
+✅ global_jobs/FI: Found 12 companies, inserted 0 new
+🕷️  Running scra
+[2026-03-30T16:09:23.503057] 😴 Venter 60 sekunder...
+[2026-03-30T16:10:23.503246] 
+📊 Run #522 - 2026-03-30T16:10:23.503225
+[2026-03-30T16:10:23.503497] 🕷️  Kører scraper...
+[2026-03-30T16:13:28.965878] ✅ Scraper completed successfully
+[2026-03-30T16:13:28.966081] Output: 📋 Queue: 2 pending, 2 completed
+✅ SearXNG healthy (5 engines, 25 results)
+🕷️  Running scraper: global_jobs for DK
+  📍 Searching for companies in DK
+  🔍 Using 21 queries via SearXNG
+  ✅ Found 51 companies
+✅ global_jobs/DK: Found 51 companies, inserted 1 new
+🕷️  Running scraper: global_jobs for DE
+  📍 Searching for companies in DE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 18 companies
+✅ global_jobs/DE: Found 18 companies, inserted 5 new
+🕷️  Running scraper: global_jobs for SE
+  📍 Searching for companies in SE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 17 companies
+✅ global_jobs/SE: Found 17 companies, inserted 3 new
+🕷️  Running scraper: global_jobs for NO
+  📍 Searching for companies in NO
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 14 companies
+✅ global_jobs/NO: Found 14 companies, inserted 2 new
+🕷️  Running scraper: global_jobs for FI
+  📍 Searching for companies in FI
+  🔍 Using 4 queries via SearXNG
+  ✅ Found 12 companies
+✅ global_jobs/FI: Found 12 companies, inserted 0 new
+🕷️  Running scr
+[2026-03-30T16:13:28.966171] 😴 Venter 60 sekunder...
+[2026-03-30T16:14:28.966370] 
+📊 Run #523 - 2026-03-30T16:14:28.966348
+[2026-03-30T16:14:28.966618] 🕷️  Kører scraper...
+[2026-03-30T16:16:48.083937] ✅ Scraper completed successfully
+[2026-03-30T16:16:48.084130] Output: 📋 Queue: 2 pending, 2 completed
+✅ SearXNG healthy (5 engines, 25 results)
+🕷️  Running scraper: global_jobs for DK
+  📍 Searching for companies in DK
+  🔍 Using 21 queries via SearXNG
+  ✅ Found 47 companies
+✅ global_jobs/DK: Found 47 companies, inserted 3 new
+🕷️  Running scraper: global_jobs for DE
+  📍 Searching for companies in DE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 16 companies
+✅ global_jobs/DE: Found 16 companies, inserted 5 new
+🕷️  Running scraper: global_jobs for SE
+  📍 Searching for companies in SE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 19 companies
+✅ global_jobs/SE: Found 19 companies, inserted 7 new
+🕷️  Running scraper: global_jobs for NO
+  📍 Searching for companies in NO
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 16 companies
+✅ global_jobs/NO: Found 16 companies, inserted 4 new
+🕷️  Running scraper: global_jobs for FI
+  📍 Searching for companies in FI
+  🔍 Using 4 queries via SearXNG
+  ✅ Found 12 companies
+✅ global_jobs/FI: Found 12 companies, inserted 0 new
+🕷️  Running scr
+[2026-03-30T16:16:48.084238] 😴 Venter 60 sekunder...
+[2026-03-30T16:17:48.084423] 
+📊 Run #524 - 2026-03-30T16:17:48.084403
+[2026-03-30T16:17:48.084664] 🕷️  Kører scraper...
+[2026-03-30T16:20:32.187865] ✅ Scraper completed successfully
+[2026-03-30T16:20:32.188082] Output: 📋 Queue: 2 pending, 2 completed
+✅ SearXNG healthy (4 engines, 8 results)
+🕷️  Running scraper: global_jobs for DK
+  📍 Searching for companies in DK
+  🔍 Using 21 queries via SearXNG
+  ✅ Found 44 companies
+✅ global_jobs/DK: Found 44 companies, inserted 3 new
+🕷️  Running scraper: global_jobs for DE
+  📍 Searching for companies in DE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 17 companies
+✅ global_jobs/DE: Found 17 companies, inserted 1 new
+🕷️  Running scraper: global_jobs for SE
+  📍 Searching for companies in SE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 15 companies
+✅ global_jobs/SE: Found 15 companies, inserted 0 new
+🕷️  Running scraper: global_jobs for NO
+  📍 Searching for companies in NO
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 21 companies
+✅ global_jobs/NO: Found 21 companies, inserted 0 new
+🕷️  Running scraper: global_jobs for FI
+  📍 Searching for companies in FI
+  🔍 Using 4 queries via SearXNG
+  ✅ Found 12 companies
+✅ global_jobs/FI: Found 12 companies, inserted 0 new
+🕷️  Running scra
+[2026-03-30T16:20:32.188185] 😴 Venter 60 sekunder...
+[2026-03-30T16:21:32.188405] 
+📊 Run #525 - 2026-03-30T16:21:32.188382
+[2026-03-30T16:21:32.188691] 🕷️  Kører scraper...
+[2026-03-30T16:24:25.713033] ✅ Scraper completed successfully
+[2026-03-30T16:24:25.713254] Output: 📋 Queue: 2 pending, 2 completed
+✅ SearXNG healthy (5 engines, 25 results)
+🕷️  Running scraper: global_jobs for DK
+  📍 Searching for companies in DK
+  🔍 Using 21 queries via SearXNG
+  ✅ Found 42 companies
+✅ global_jobs/DK: Found 42 companies, inserted 1 new
+🕷️  Running scraper: global_jobs for DE
+  📍 Searching for companies in DE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 20 companies
+✅ global_jobs/DE: Found 20 companies, inserted 11 new
+🕷️  Running scraper: global_jobs for SE
+  📍 Searching for companies in SE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 10 companies
+✅ global_jobs/SE: Found 10 companies, inserted 0 new
+🕷️  Running scraper: global_jobs for NO
+  📍 Searching for companies in NO
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 20 companies
+✅ global_jobs/NO: Found 20 companies, inserted 11 new
+🕷️  Running scraper: global_jobs for FI
+  📍 Searching for companies in FI
+  🔍 Using 4 queries via SearXNG
+  ✅ Found 9 companies
+✅ global_jobs/FI: Found 9 companies, inserted 0 new
+🕷️  Running scr
+[2026-03-30T16:24:25.713349] 😴 Venter 60 sekunder...
+[2026-03-30T16:25:25.713529] 
+📊 Run #526 - 2026-03-30T16:25:25.713507
+[2026-03-30T16:25:25.713785] 🕷️  Kører scraper...
+[2026-03-30T16:28:17.045556] ✅ Scraper completed successfully
+[2026-03-30T16:28:17.045775] Output: 📋 Queue: 2 pending, 2 completed
+✅ SearXNG healthy (4 engines, 8 results)
+🕷️  Running scraper: global_jobs for DK
+  📍 Searching for companies in DK
+  🔍 Using 21 queries via SearXNG
+  ✅ Found 42 companies
+✅ global_jobs/DK: Found 42 companies, inserted 4 new
+🕷️  Running scraper: global_jobs for DE
+  📍 Searching for companies in DE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 13 companies
+✅ global_jobs/DE: Found 13 companies, inserted 1 new
+🕷️  Running scraper: global_jobs for SE
+  📍 Searching for companies in SE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 11 companies
+✅ global_jobs/SE: Found 11 companies, inserted 6 new
+🕷️  Running scraper: global_jobs for NO
+  📍 Searching for companies in NO
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 13 companies
+✅ global_jobs/NO: Found 13 companies, inserted 4 new
+🕷️  Running scraper: global_jobs for FI
+  📍 Searching for companies in FI
+  🔍 Using 4 queries via SearXNG
+  ✅ Found 9 companies
+✅ global_jobs/FI: Found 9 companies, inserted 0 new
+🕷️  Running scrape
+[2026-03-30T16:28:17.045880] 😴 Venter 60 sekunder...
+[2026-03-30T16:29:17.046092] 
+📊 Run #527 - 2026-03-30T16:29:17.046071
+[2026-03-30T16:29:17.046318] 🕷️  Kører scraper...
+[2026-03-30T16:32:01.874429] ✅ Scraper completed successfully
+[2026-03-30T16:32:01.874662] Output: 📋 Queue: 2 pending, 2 completed
+✅ SearXNG healthy (5 engines, 25 results)
+🕷️  Running scraper: global_jobs for DK
+  📍 Searching for companies in DK
+  🔍 Using 21 queries via SearXNG
+  ✅ Found 51 companies
+✅ global_jobs/DK: Found 51 companies, inserted 10 new
+🕷️  Running scraper: global_jobs for DE
+  📍 Searching for companies in DE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 14 companies
+✅ global_jobs/DE: Found 14 companies, inserted 1 new
+🕷️  Running scraper: global_jobs for SE
+  📍 Searching for companies in SE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 13 companies
+✅ global_jobs/SE: Found 13 companies, inserted 3 new
+🕷️  Running scraper: global_jobs for NO
+  📍 Searching for companies in NO
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 19 companies
+✅ global_jobs/NO: Found 19 companies, inserted 1 new
+🕷️  Running scraper: global_jobs for FI
+  📍 Searching for companies in FI
+  🔍 Using 4 queries via SearXNG
+  ✅ Found 9 companies
+✅ global_jobs/FI: Found 9 companies, inserted 0 new
+🕷️  Running scra
+[2026-03-30T16:32:01.874796] 😴 Venter 60 sekunder...
+[2026-03-30T16:33:01.875037] 
+📊 Run #528 - 2026-03-30T16:33:01.875015
+[2026-03-30T16:33:01.875299] 🕷️  Kører scraper...
+[2026-03-30T16:35:40.658616] ✅ Scraper completed successfully
+[2026-03-30T16:35:40.658846] Output: 📋 Queue: 2 pending, 2 completed
+✅ SearXNG healthy (5 engines, 25 results)
+🕷️  Running scraper: global_jobs for DK
+  📍 Searching for companies in DK
+  🔍 Using 21 queries via SearXNG
+  ✅ Found 58 companies
+✅ global_jobs/DK: Found 58 companies, inserted 7 new
+🕷️  Running scraper: global_jobs for DE
+  📍 Searching for companies in DE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 14 companies
+✅ global_jobs/DE: Found 14 companies, inserted 0 new
+🕷️  Running scraper: global_jobs for SE
+  📍 Searching for companies in SE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 9 companies
+✅ global_jobs/SE: Found 9 companies, inserted 0 new
+🕷️  Running scraper: global_jobs for NO
+  📍 Searching for companies in NO
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 15 companies
+✅ global_jobs/NO: Found 15 companies, inserted 0 new
+🕷️  Running scraper: global_jobs for FI
+  📍 Searching for companies in FI
+  🔍 Using 4 queries via SearXNG
+  ✅ Found 9 companies
+✅ global_jobs/FI: Found 9 companies, inserted 0 new
+🕷️  Running scraper
+[2026-03-30T16:35:40.659062] 😴 Venter 60 sekunder...
+[2026-03-30T16:36:40.659297] 
+📊 Run #529 - 2026-03-30T16:36:40.659275
+[2026-03-30T16:36:40.659524] 🕷️  Kører scraper...
+[2026-03-30T16:39:18.413747] ✅ Scraper completed successfully
+[2026-03-30T16:39:18.413989] Output: 📋 Queue: 2 pending, 2 completed
+✅ SearXNG healthy (4 engines, 8 results)
+🕷️  Running scraper: global_jobs for DK
+  📍 Searching for companies in DK
+  🔍 Using 21 queries via SearXNG
+  ✅ Found 38 companies
+✅ global_jobs/DK: Found 38 companies, inserted 4 new
+🕷️  Running scraper: global_jobs for DE
+  📍 Searching for companies in DE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 12 companies
+✅ global_jobs/DE: Found 12 companies, inserted 1 new
+🕷️  Running scraper: global_jobs for SE
+  📍 Searching for companies in SE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 9 companies
+✅ global_jobs/SE: Found 9 companies, inserted 0 new
+🕷️  Running scraper: global_jobs for NO
+  📍 Searching for companies in NO
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 12 companies
+✅ global_jobs/NO: Found 12 companies, inserted 2 new
+🕷️  Running scraper: global_jobs for FI
+  📍 Searching for companies in FI
+  🔍 Using 4 queries via SearXNG
+  ✅ Found 9 companies
+✅ global_jobs/FI: Found 9 companies, inserted 0 new
+🕷️  Running scraper:
+[2026-03-30T16:39:18.414104] 😴 Venter 60 sekunder...
+[2026-03-30T16:40:18.414324] 
+📊 Run #530 - 2026-03-30T16:40:18.414302
+[2026-03-30T16:40:18.414571] 🕷️  Kører scraper...
+[2026-03-30T16:42:56.791699] ✅ Scraper completed successfully
+[2026-03-30T16:42:56.791917] Output: 📋 Queue: 2 pending, 2 completed
+✅ SearXNG healthy (5 engines, 24 results)
+🕷️  Running scraper: global_jobs for DK
+  📍 Searching for companies in DK
+  🔍 Using 21 queries via SearXNG
+  ✅ Found 52 companies
+✅ global_jobs/DK: Found 52 companies, inserted 8 new
+🕷️  Running scraper: global_jobs for DE
+  📍 Searching for companies in DE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 14 companies
+✅ global_jobs/DE: Found 14 companies, inserted 4 new
+🕷️  Running scraper: global_jobs for SE
+  📍 Searching for companies in SE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 9 companies
+✅ global_jobs/SE: Found 9 companies, inserted 0 new
+🕷️  Running scraper: global_jobs for NO
+  📍 Searching for companies in NO
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 14 companies
+✅ global_jobs/NO: Found 14 companies, inserted 0 new
+🕷️  Running scraper: global_jobs for FI
+  📍 Searching for companies in FI
+  🔍 Using 4 queries via SearXNG
+  ✅ Found 9 companies
+✅ global_jobs/FI: Found 9 companies, inserted 0 new
+🕷️  Running scraper
+[2026-03-30T16:42:56.792013] 😴 Venter 60 sekunder...
+[2026-03-30T16:43:56.792194] 
+📊 Run #531 - 2026-03-30T16:43:56.792171
+[2026-03-30T16:43:56.792419] 🕷️  Kører scraper...
+[2026-03-30T16:46:36.154702] ✅ Scraper completed successfully
+[2026-03-30T16:46:36.154933] Output: 📋 Queue: 2 pending, 2 completed
+✅ SearXNG healthy (4 engines, 8 results)
+🕷️  Running scraper: global_jobs for DK
+  📍 Searching for companies in DK
+  🔍 Using 21 queries via SearXNG
+  ✅ Found 41 companies
+✅ global_jobs/DK: Found 41 companies, inserted 6 new
+🕷️  Running scraper: global_jobs for DE
+  📍 Searching for companies in DE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 9 companies
+✅ global_jobs/DE: Found 9 companies, inserted 0 new
+🕷️  Running scraper: global_jobs for SE
+  📍 Searching for companies in SE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 13 companies
+✅ global_jobs/SE: Found 13 companies, inserted 4 new
+🕷️  Running scraper: global_jobs for NO
+  📍 Searching for companies in NO
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 10 companies
+✅ global_jobs/NO: Found 10 companies, inserted 0 new
+🕷️  Running scraper: global_jobs for FI
+  📍 Searching for companies in FI
+  🔍 Using 4 queries via SearXNG
+  ✅ Found 9 companies
+✅ global_jobs/FI: Found 9 companies, inserted 0 new
+🕷️  Running scraper:
+[2026-03-30T16:46:36.155060] 😴 Venter 60 sekunder...
+[2026-03-30T16:47:36.155275] 
+📊 Run #532 - 2026-03-30T16:47:36.155254
+[2026-03-30T16:47:36.155486] 🕷️  Kører scraper...
+[2026-03-30T16:50:18.082608] ✅ Scraper completed successfully
+[2026-03-30T16:50:18.082810] Output: 📋 Queue: 2 pending, 2 completed
+✅ SearXNG healthy (5 engines, 24 results)
+🕷️  Running scraper: global_jobs for DK
+  📍 Searching for companies in DK
+  🔍 Using 21 queries via SearXNG
+  ✅ Found 48 companies
+✅ global_jobs/DK: Found 48 companies, inserted 7 new
+🕷️  Running scraper: global_jobs for DE
+  📍 Searching for companies in DE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 19 companies
+✅ global_jobs/DE: Found 19 companies, inserted 10 new
+🕷️  Running scraper: global_jobs for SE
+  📍 Searching for companies in SE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 12 companies
+✅ global_jobs/SE: Found 12 companies, inserted 0 new
+🕷️  Running scraper: global_jobs for NO
+  📍 Searching for companies in NO
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 14 companies
+✅ global_jobs/NO: Found 14 companies, inserted 0 new
+🕷️  Running scraper: global_jobs for FI
+  📍 Searching for companies in FI
+  🔍 Using 4 queries via SearXNG
+  ✅ Found 9 companies
+✅ global_jobs/FI: Found 9 companies, inserted 0 new
+🕷️  Running scra
+[2026-03-30T16:50:18.082922] 😴 Venter 60 sekunder...
+[2026-03-30T16:51:18.083111] 
+📊 Run #533 - 2026-03-30T16:51:18.083090
+[2026-03-30T16:51:18.083327] 🕷️  Kører scraper...
+[2026-03-30T16:54:04.535423] ✅ Scraper completed successfully
+[2026-03-30T16:54:04.535656] Output: 📋 Queue: 2 pending, 2 completed
+✅ SearXNG healthy (5 engines, 24 results)
+🕷️  Running scraper: global_jobs for DK
+  📍 Searching for companies in DK
+  🔍 Using 21 queries via SearXNG
+  ✅ Found 46 companies
+✅ global_jobs/DK: Found 46 companies, inserted 4 new
+🕷️  Running scraper: global_jobs for DE
+  📍 Searching for companies in DE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 9 companies
+✅ global_jobs/DE: Found 9 companies, inserted 0 new
+🕷️  Running scraper: global_jobs for SE
+  📍 Searching for companies in SE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 11 companies
+✅ global_jobs/SE: Found 11 companies, inserted 2 new
+🕷️  Running scraper: global_jobs for NO
+  📍 Searching for companies in NO
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 14 companies
+✅ global_jobs/NO: Found 14 companies, inserted 2 new
+🕷️  Running scraper: global_jobs for FI
+  📍 Searching for companies in FI
+  🔍 Using 4 queries via SearXNG
+  ✅ Found 10 companies
+✅ global_jobs/FI: Found 10 companies, inserted 0 new
+🕷️  Running scrap
+[2026-03-30T16:54:04.535792] 😴 Venter 60 sekunder...
+[2026-03-30T16:55:04.536036] 
+📊 Run #534 - 2026-03-30T16:55:04.536010
+[2026-03-30T16:55:04.536263] 🕷️  Kører scraper...
+[2026-03-30T16:57:52.593717] ✅ Scraper completed successfully
+[2026-03-30T16:57:52.593997] Output: 📋 Queue: 2 pending, 2 completed
+✅ SearXNG healthy (5 engines, 24 results)
+🕷️  Running scraper: global_jobs for DK
+  📍 Searching for companies in DK
+  🔍 Using 21 queries via SearXNG
+  ✅ Found 46 companies
+✅ global_jobs/DK: Found 46 companies, inserted 1 new
+🕷️  Running scraper: global_jobs for DE
+  📍 Searching for companies in DE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 13 companies
+✅ global_jobs/DE: Found 13 companies, inserted 3 new
+🕷️  Running scraper: global_jobs for SE
+  📍 Searching for companies in SE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 18 companies
+✅ global_jobs/SE: Found 18 companies, inserted 7 new
+🕷️  Running scraper: global_jobs for NO
+  📍 Searching for companies in NO
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 10 companies
+✅ global_jobs/NO: Found 10 companies, inserted 0 new
+🕷️  Running scraper: global_jobs for FI
+  📍 Searching for companies in FI
+  🔍 Using 4 queries via SearXNG
+  ✅ Found 10 companies
+✅ global_jobs/FI: Found 10 companies, inserted 0 new
+🕷️  Running scr
+[2026-03-30T16:57:52.594110] 😴 Venter 60 sekunder...
+[2026-03-30T16:58:52.594323] 
+📊 Run #535 - 2026-03-30T16:58:52.594302
+[2026-03-30T16:58:52.594556] 🕷️  Kører scraper...
+[2026-03-30T17:01:37.649089] ✅ Scraper completed successfully
+[2026-03-30T17:01:37.649277] Output: 📋 Queue: 2 pending, 2 completed
+✅ SearXNG healthy (5 engines, 24 results)
+🕷️  Running scraper: global_jobs for DK
+  📍 Searching for companies in DK
+  🔍 Using 21 queries via SearXNG
+  ✅ Found 48 companies
+✅ global_jobs/DK: Found 48 companies, inserted 4 new
+🕷️  Running scraper: global_jobs for DE
+  📍 Searching for companies in DE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 18 companies
+✅ global_jobs/DE: Found 18 companies, inserted 5 new
+🕷️  Running scraper: global_jobs for SE
+  📍 Searching for companies in SE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 19 companies
+✅ global_jobs/SE: Found 19 companies, inserted 10 new
+🕷️  Running scraper: global_jobs for NO
+  📍 Searching for companies in NO
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 17 companies
+✅ global_jobs/NO: Found 17 companies, inserted 8 new
+🕷️  Running scraper: global_jobs for FI
+  📍 Searching for companies in FI
+  🔍 Using 4 queries via SearXNG
+  ✅ Found 9 companies
+✅ global_jobs/FI: Found 9 companies, inserted 0 new
+🕷️  Running scra
+[2026-03-30T17:01:37.649382] 😴 Venter 60 sekunder...
+[2026-03-30T17:02:37.649570] 
+📊 Run #536 - 2026-03-30T17:02:37.649549
+[2026-03-30T17:02:37.649831] 🕷️  Kører scraper...
+[2026-03-30T17:05:34.310177] ✅ Scraper completed successfully
+[2026-03-30T17:05:34.310417] Output: 📋 Queue: 2 pending, 2 completed
+✅ SearXNG healthy (4 engines, 8 results)
+🕷️  Running scraper: global_jobs for DK
+  📍 Searching for companies in DK
+  🔍 Using 21 queries via SearXNG
+  ✅ Found 51 companies
+✅ global_jobs/DK: Found 51 companies, inserted 1 new
+🕷️  Running scraper: global_jobs for DE
+  📍 Searching for companies in DE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 15 companies
+✅ global_jobs/DE: Found 15 companies, inserted 6 new
+🕷️  Running scraper: global_jobs for SE
+  📍 Searching for companies in SE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 10 companies
+✅ global_jobs/SE: Found 10 companies, inserted 1 new
+🕷️  Running scraper: global_jobs for NO
+  📍 Searching for companies in NO
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 10 companies
+✅ global_jobs/NO: Found 10 companies, inserted 1 new
+🕷️  Running scraper: global_jobs for FI
+  📍 Searching for companies in FI
+  🔍 Using 4 queries via SearXNG
+  ✅ Found 9 companies
+✅ global_jobs/FI: Found 9 companies, inserted 0 new
+🕷️  Running scrape
+[2026-03-30T17:05:34.310547] 😴 Venter 60 sekunder...
+[2026-03-30T17:06:34.310785] 
+📊 Run #537 - 2026-03-30T17:06:34.310764
+[2026-03-30T17:06:34.311026] 🕷️  Kører scraper...
+[2026-03-30T17:09:11.841510] ✅ Scraper completed successfully
+[2026-03-30T17:09:11.841707] Output: 📋 Queue: 2 pending, 2 completed
+✅ SearXNG healthy (5 engines, 31 results)
+🕷️  Running scraper: global_jobs for DK
+  📍 Searching for companies in DK
+  🔍 Using 21 queries via SearXNG
+  ✅ Found 46 companies
+✅ global_jobs/DK: Found 46 companies, inserted 2 new
+🕷️  Running scraper: global_jobs for DE
+  📍 Searching for companies in DE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 15 companies
+✅ global_jobs/DE: Found 15 companies, inserted 0 new
+🕷️  Running scraper: global_jobs for SE
+  📍 Searching for companies in SE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 12 companies
+✅ global_jobs/SE: Found 12 companies, inserted 1 new
+🕷️  Running scraper: global_jobs for NO
+  📍 Searching for companies in NO
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 16 companies
+✅ global_jobs/NO: Found 16 companies, inserted 1 new
+🕷️  Running scraper: global_jobs for FI
+  📍 Searching for companies in FI
+  🔍 Using 4 queries via SearXNG
+  ✅ Found 9 companies
+✅ global_jobs/FI: Found 9 companies, inserted 0 new
+🕷️  Running scrap
+[2026-03-30T17:09:11.841857] 😴 Venter 60 sekunder...
+[2026-03-30T17:10:11.842173] 
+📊 Run #538 - 2026-03-30T17:10:11.842150
+[2026-03-30T17:10:11.842410] 🕷️  Kører scraper...
+[2026-03-30T17:12:31.558189] ✅ Scraper completed successfully
+[2026-03-30T17:12:31.558375] Output: 📋 Queue: 2 pending, 2 completed
+✅ SearXNG healthy (5 engines, 31 results)
+🕷️  Running scraper: global_jobs for DK
+  📍 Searching for companies in DK
+  🔍 Using 21 queries via SearXNG
+  ✅ Found 37 companies
+✅ global_jobs/DK: Found 37 companies, inserted 2 new
+🕷️  Running scraper: global_jobs for DE
+  📍 Searching for companies in DE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 9 companies
+✅ global_jobs/DE: Found 9 companies, inserted 0 new
+🕷️  Running scraper: global_jobs for SE
+  📍 Searching for companies in SE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 12 companies
+✅ global_jobs/SE: Found 12 companies, inserted 0 new
+🕷️  Running scraper: global_jobs for NO
+  📍 Searching for companies in NO
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 11 companies
+✅ global_jobs/NO: Found 11 companies, inserted 0 new
+🕷️  Running scraper: global_jobs for FI
+  📍 Searching for companies in FI
+  🔍 Using 4 queries via SearXNG
+  ✅ Found 13 companies
+✅ global_jobs/FI: Found 13 companies, inserted 1 new
+🕷️  Running scrap
+[2026-03-30T17:12:31.558477] 😴 Venter 60 sekunder...
+[2026-03-30T17:13:31.558661] 
+📊 Run #539 - 2026-03-30T17:13:31.558641
+[2026-03-30T17:13:31.558903] 🕷️  Kører scraper...
+[2026-03-30T17:15:31.450358] ✅ Scraper completed successfully
+[2026-03-30T17:15:31.450546] Output: 📋 Queue: 2 pending, 2 completed
+✅ SearXNG healthy (5 engines, 31 results)
+🕷️  Running scraper: global_jobs for DK
+  📍 Searching for companies in DK
+  🔍 Using 21 queries via SearXNG
+  ✅ Found 49 companies
+✅ global_jobs/DK: Found 49 companies, inserted 6 new
+🕷️  Running scraper: global_jobs for DE
+  📍 Searching for companies in DE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 10 companies
+✅ global_jobs/DE: Found 10 companies, inserted 0 new
+🕷️  Running scraper: global_jobs for SE
+  📍 Searching for companies in SE
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 10 companies
+✅ global_jobs/SE: Found 10 companies, inserted 1 new
+🕷️  Running scraper: global_jobs for NO
+  📍 Searching for companies in NO
+  🔍 Using 7 queries via SearXNG
+  ✅ Found 29 companies
+✅ global_jobs/NO: Found 29 companies, inserted 9 new
+🕷️  Running scraper: global_jobs for FI
+  📍 Searching for companies in FI
+  🔍 Using 4 queries via SearXNG
+  ✅ Found 9 companies
+✅ global_jobs/FI: Found 9 companies, inserted 0 new
+🕷️  Running scrap
+[2026-03-30T17:15:31.450698] 😴 Venter 60 sekunder...
+[2026-03-30T17:16:31.450904] 
+📊 Run #540 - 2026-03-30T17:16:31.450882
