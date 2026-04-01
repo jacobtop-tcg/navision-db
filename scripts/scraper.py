@@ -413,14 +413,17 @@ def show_status():
         conn.close()
 
 def init_queue():
-    """Initialize the scraper queue"""
+    """Initialize the scraper queue - KUN BRUGERE, IKKE JOBS!"""
     queue = {
         'pending_sources': [
+            # ✅ FAKTISKE BRUGERE (tech stack, kunder, cases)
             {'source': 'theirstack', 'countries': ['NO', 'SE', 'FI', 'DE', 'UK', 'NL', 'BE'], 'priority': 1},
-            {'source': 'jobportals', 'countries': ['DK', 'NO', 'SE', 'FI', 'DE', 'UK'], 'priority': 2},
-            {'source': 'partners', 'countries': ['DK', 'NO', 'SE', 'FI', 'DE', 'UK', 'NL', 'BE'], 'priority': 3},
-            {'source': 'linkedin_companies', 'countries': ['DK', 'NO', 'SE', 'FI', 'DE', 'UK'], 'priority': 4},
-            {'source': 'press_releases', 'countries': ['DK', 'NO', 'SE', 'FI', 'DE', 'UK'], 'priority': 5},
+            {'source': 'case_studies', 'countries': ['DK', 'NO', 'SE', 'DE', 'UK', 'NL', 'BE', 'US'], 'priority': 2},
+            {'source': 'cepheo', 'countries': ['DK', 'NO', 'SE', 'FI', 'DE', 'UK', 'NL', 'BE'], 'priority': 3},
+            {'source': 'partners', 'countries': ['DK', 'NO', 'SE', 'FI', 'DE', 'UK', 'NL', 'BE'], 'priority': 4},
+            {'source': 'mibuso', 'countries': ['DK', 'NO', 'SE', 'FI', 'DE', 'UK'], 'priority': 5},
+            # ❌ FJERNET: Jobportals (findes udviklere, ikke brugere)
+            # {'source': 'jobportals', 'countries': ['DK', 'NO', 'SE', 'FI', 'DE', 'UK'], 'priority': 2},
         ],
         'completed_sources': ['navision-sandheden-db']
     }
@@ -428,7 +431,7 @@ def init_queue():
     with open(STATE_DIR / 'queue.json', 'w') as f:
         json.dump(queue, f, indent=2)
     
-    print("✅ Queue initialized")
+    print("✅ Queue initialized - KUN BRUGERE, IKKE JOBS!")
 
 def main():
     parser = argparse.ArgumentParser(description='Navision Global Database Scraper')
