@@ -8,58 +8,44 @@
       "notes": "TheirStack - FAKTISKE NAV BRUGERE (tech stack detection)"
     },
     {
-      "source": "linkedin_people",
-      "countries": ["DK", "SE", "NO", "FI", "DE", "UK", "NL", "BE", "US", "FR", "IT", "ES"],
+      "source": "global_jobs",
+      "countries": ["DK", "SE", "NO", "FI", "DE", "UK", "NL", "BE", "US", "FR", "IT", "ES", "PL", "IN", "CA", "AU", "JP", "KR", "NZ", "ZA", "BR", "MX", "AR", "CL", "CO", "PE"],
       "priority": 2,
       "repeat": true,
-      "notes": "LinkedIn job profiler - NAV/BC developers = NAV users"
-    },
-    {
-      "source": "linkedin_companies",
-      "countries": ["DK", "SE", "NO", "FI", "DE", "UK", "NL", "BE", "US"],
-      "priority": 3,
-      "repeat": true,
-      "notes": "LinkedIn company pages - job postings"
+      "notes": "Job postings - VIRKSOMHEDER der søger NAV folk = de BRUGER NAV (smoking gun!)"
     },
     {
       "source": "case_studies",
       "countries": ["DK", "SE", "NO", "FI", "DE", "UK", "NL", "BE", "US", "FR", "IT", "ES"],
-      "priority": 4,
+      "priority": 3,
       "repeat": true,
       "notes": "Case studies - kunder der har implementeret NAV"
     },
     {
       "source": "cepheo",
       "countries": ["DK", "SE", "NO", "FI", "DE", "UK", "NL", "BE"],
-      "priority": 5,
+      "priority": 4,
       "repeat": true,
       "notes": "Cepheo - kundelister"
     },
     {
       "source": "partners",
       "countries": ["DK", "SE", "NO", "FI", "DE", "UK", "NL", "BE", "US"],
-      "priority": 6,
+      "priority": 5,
       "repeat": true,
       "notes": "Microsoft partners - kundelister"
     },
     {
       "source": "mibuso",
       "countries": ["DK", "SE", "NO", "FI", "DE", "UK"],
-      "priority": 7,
+      "priority": 6,
       "repeat": true,
       "notes": "Mibuso.com - NAV community brugere"
-    },
-    {
-      "source": "global_jobs",
-      "countries": ["DK", "SE", "NO", "FI", "DE", "UK", "NL", "BE", "US", "FR", "IT", "ES", "PL", "IN", "CA", "AU", "JP", "KR", "NZ", "ZA", "BR", "MX", "AR", "CL", "CO", "PE"],
-      "priority": 8,
-      "repeat": true,
-      "notes": "Job postings - NAV/BC developers = NAV users (smoking gun!)"
     }
   ],
-  "completed_sources": [],
+  "completed_sources": ["linkedin_people", "linkedin_companies"],
   "last_run": null,
   "total_companies": 1979,
   "status": "running",
-  "notes": "KUN FAKTISKE NAV BRUGERE - Jobopslag er SMOKING GUNS!"
+  "notes": "KUN VIRKSOMHEDER DER BRUGER NAV - IKKE konsulenter/udviklere!"
 }
