@@ -1,48 +1,48 @@
 {
-  "total_companies": 42382,
-  "last_updated": "2026-03-30T22:08:08.963640Z",
+  "total_companies": 5807,
+  "last_updated": "2026-04-01T09:56:39.633641Z",
   "by_confidence": {
-    "5": 23,
-    "4": 2046,
-    "3": 3173,
-    "1": 37140
+    "5": 58,
+    "4": 4380,
+    "3": 1343,
+    "1": 26
   },
   "top_countries": {
-    "DK": 12035,
-    "SE": 4739,
-    "DE": 4068,
-    "NO": 3576,
-    "US": 2324,
-    "NL": 1922,
-    "UK": 1884,
-    "PL": 1708,
-    "FR": 1671,
-    "IN": 1671,
-    "BE": 1623,
-    "ES": 1499,
-    "IT": 1276,
-    "FI": 1183,
-    "GB": 278,
+    "DK": 2186,
+    "SE": 879,
+    "DE": 497,
+    "US": 273,
+    "NO": 234,
+    "NL": 186,
+    "BE": 140,
+    "IN": 128,
+    "PL": 127,
+    "FR": 124,
+    "IT": 124,
     "XX": 124,
-    "RO": 79,
-    "KR": 72,
-    "JP": 69,
-    "ZA": 54
+    "FI": 119,
+    "ES": 98,
+    "UK": 97,
+    "GB": 83,
+    "ZA": 51,
+    "BR": 46,
+    "SA": 37,
+    "CN": 30
   },
   "top_sources": {
-    "global_jobs": 37695,
-    "benelux_expansion_batch1": 276,
-    "global_expansion_batch2": 183,
-    "web_search": 182,
+    "global_jobs": 4057,
     "TheirStack": 178,
-    "cee_expansion_batch2": 158,
-    "emerging_markets_batch1": 153,
-    "theirstack": 140,
-    "europe_expansion_batch2": 135,
-    "nordics_expansion_batch1": 127
+    "web_search": 164,
+    "theirstack": 139,
+    "bulk_search": 123,
+    "theirstack_nordic_batch1": 69,
+    "theirstack_asia_batch2": 51,
+    "theirstack_africa_batch1": 50,
+    "theirstack_expansion_batch2": 50,
+    "theirstack_germany_batch1": 50
   },
   "date_range": {
     "first": "2026-03-20T18:08:51.494734Z",
-    "latest": "2026-03-30T22:07:33.760506Z"
+    "latest": "2026-04-01T09:53:56.931625Z"
   }
 }
