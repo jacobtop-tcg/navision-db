@@ -37,6 +37,31 @@ def log(message):
     with open(LOG_FILE, 'a') as f:
         f.write(log_line + '\n')
 
+def run_data_detective():
+    """Run data detective auto-creative experiments"""
+    log('🧪 Kører Data Detective eksperimenter...')
+    
+    try:
+        result = subprocess.run(
+            ['python3', str(SCRAPER_DIR / 'data-detective-auto.py')],
+            capture_output=True,
+            text=True,
+            timeout=300,
+            cwd=str(SCRAPER_DIR)
+        )
+        
+        if result.returncode == 0:
+            log('✅ Data Detective eksperiment completed')
+            if result.stdout:
+                log('Output: ' + result.stdout[:500])
+            return True
+        else:
+            log(f'❌ Data Detective failed: {result.stderr[:200]}')
+            return False
+    except Exception as e:
+        log(f'❌ Data Detective error: {e}')
+        return False
+
 def run_scraper():
     """Run the scraper and return success status"""
     log('🕷️  Kører scraper...')
