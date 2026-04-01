@@ -1,0 +1,71 @@
+{
+  "experiments": [
+    {
+      "id": "exp_001",
+      "name": "github_c/al_repos",
+      "description": "Find GitHub repos med C/AL eller NAV kode",
+      "query_template": "site:github.com \"C/AL\" OR \"Dynamics NAV\" OR \"Navision\" {country}",
+      "status": "pending",
+      "success_rate": 0.0,
+      "companies_found": 0,
+      "last_run": null,
+      "runs": 0
+    },
+    {
+      "id": "exp_002",
+      "name": "conference_attendees",
+      "description": "NAV/BC konference deltagerlister",
+      "query_template": "NAVUG Summit attendees OR \"Business Central\" conference participants OR \"Dynamics NAV\" workshop {country}",
+      "status": "pending",
+      "success_rate": 1.0,
+      "companies_found": 15,
+      "last_run": "2026-04-01T20:38:54.588615Z",
+      "runs": 1
+    },
+    {
+      "id": "exp_003",
+      "name": "public_procurement",
+      "description": "Offentlige udbud med Navision",
+      "query_template": "site:udbud.dk OR site:ted.europa.eu \"Navision\" OR \"Dynamics NAV\" {country}",
+      "status": "pending",
+      "success_rate": 0.0,
+      "companies_found": 0,
+      "last_run": null,
+      "runs": 0
+    },
+    {
+      "id": "exp_004",
+      "name": "isv_customers",
+      "description": "ISV partner kunder (Continia, Jet Reports, etc.)",
+      "query_template": "\"Continia\" customer OR \"Jet Reports\" customer OR \"autoinvoice\" Navision {country}",
+      "status": "pending",
+      "success_rate": 0.0,
+      "companies_found": 0,
+      "last_run": null,
+      "runs": 0
+    },
+    {
+      "id": "exp_005",
+      "name": "annual_reports",
+      "description": "\u00c5rsrapporter der n\u00e6vner NAV ERP",
+      "query_template": "site:cvr.dk OR site:virksomhed.dk \"Microsoft Dynamics NAV\" OR \"Navision\" \u00e5rsrapport {country}",
+      "status": "pending",
+      "success_rate": 0.0,
+      "companies_found": 0,
+      "last_run": null,
+      "runs": 0
+    },
+    {
+      "id": "exp_006",
+      "name": "stackoverflow_nav",
+      "description": "StackOverflow NAV sp\u00f8rgsm\u00e5l (virksomhedsdom\u00e6ner)",
+      "query_template": "site:stackoverflow.com \"Dynamics NAV\" OR \"Navision\" OR \"C/AL\"",
+      "status": "pending",
+      "success_rate": 0.0,
+      "companies_found": 0,
+      "last_run": null,
+      "runs": 0
+    }
+  ],
+  "last_updated": "2026-04-01T20:38:54.588633Z"
+}
