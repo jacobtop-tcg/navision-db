@@ -1,14 +1,10 @@
 {
-  "total_companies": 1853,
-  "last_updated": "2026-03-30T22:11:54.170733Z",
+  "total_companies": 4354,
+  "last_updated": "2026-04-01T10:07:46.387766Z",
   "quality_criteria": {
     "evidence_required": true,
     "source_url_required": true,
     "min_confidence": 4,
     "noise_filtered": true
-  },
-  "removed": {
-    "noise": 46,
-    "missing_evidence": 0
   }
 }
