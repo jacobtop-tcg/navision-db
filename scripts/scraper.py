@@ -168,7 +168,7 @@ def save_companies(companies, source, country):
             rejected_cdqo += 1
             # Log rejected companies for debugging
             if rejected_cdqo <= 10:
-                log(f"  🚫 CDQO AFVIST: {company.get('company_name', 'Unknown')} ({country})")
+                log_error(f"CDQO AFVIST: {company.get('company_name', 'Unknown')} (ikke bekræftet NAV)", source, country)
             continue
         
         try:
