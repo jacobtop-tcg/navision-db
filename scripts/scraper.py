@@ -110,8 +110,49 @@ def get_db_connection():
     conn.row_factory = sqlite3.Row
     return conn
 
+# CDQO NO COMPROMISE - Kun bekræftet NAV
+# BC-indikatorer (ALTID afvis)
+BC_PATTERNS = [
+    'business central', 'dynamics 365', 'bc 2019', 'bc 2020', 'bc 2021',
+    'bc 2022', 'bc 2023', 'bc 2024', 'al language', 'cloud erp', 'saas erp',
+]
+
+# NAV-indikatorer (SKAL nævnes for at blive godkendt)
+NAV_PATTERNS = [
+    'navision', 'dynamics nav', 'microsoft dynamics nav',
+    'nav 2013', 'nav 2015', 'nav 2016', 'nav 2017', 'nav 2018',
+    'c/al', 'nav udvikler', 'nav konsulent', 'nav developer',
+    'ns-webshop', 'ns-webtid', 'ns-edi', 'nav back-office',
+    'nav kunde', 'nav integration',
+]
+
+def passes_cdqo_check(company):
+    """
+    CDQO NO COMPROMISE: Tjek om virksomhed er 100% bekræftet NAV (ikke BC)
+    Returnerer True KUN hvis vi er sikre på det er NAV
+    """
+    text = str(company.get('evidence_text', '')).lower()
+    name = str(company.get('company_name', '')).lower()
+    url = str(company.get('source_url', '')).lower()
+    industry = str(company.get('industry', '')).lower()
+    
+    combined = f"{text} {name} {url} {industry}"
+    
+    # Tjek for BC først - hvis BC nævnes, AFVIS
+    for pattern in BC_PATTERNS:
+        if pattern in combined:
+            return False
+    
+    # Tjek for NAV - hvis NAV nævnes, GODKEND
+    for pattern in NAV_PATTERNS:
+        if pattern in combined:
+            return True
+    
+    # Hverken NAV eller BC nævnt = UKLART = AFVIS (no compromise!)
+    return False
+
 def save_companies(companies, source, country):
-    """Save companies to database"""
+    """Save companies to database (med CDQO NO COMPROMISE filter)"""
     if not companies:
         return 0
     
@@ -119,7 +160,17 @@ def save_companies(companies, source, country):
     cursor = conn.cursor()
     
     inserted = 0
+    rejected_cdqo = 0
+    
     for company in companies:
+        # CDQO NO COMPROMISE: Tjek før insert
+        if not passes_cdqo_check(company):
+            rejected_cdqo += 1
+            # Log rejected companies for debugging
+            if rejected_cdqo <= 10:
+                log(f"  🚫 CDQO AFVIST: {company.get('company_name', 'Unknown')} ({country})")
+            continue
+        
         try:
             cursor.execute('''
             INSERT OR IGNORE INTO companies 
@@ -149,6 +200,9 @@ def save_companies(companies, source, country):
                 inserted += 1
         except Exception as e:
             log_error(f"Failed to insert {company.get('company_name', 'Unknown')}: {e}", source, country)
+    
+    if rejected_cdqo > 0:
+        log(f"  CDQO: {rejected_cdqo} afvist (ikke bekræftet NAV)")
     
     # Update source stats
     cursor.execute('''
