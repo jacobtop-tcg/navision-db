@@ -1,0 +1,47 @@
+[2026-04-01T10:25:41.806126Z] ============================================================
+[2026-04-01T10:25:41.806301Z] CDQO STRICT MODE - NAV vs BC Audit
+[2026-04-01T10:25:41.806337Z] ============================================================
+[2026-04-01T10:25:41.835409Z] 
+=== RESULTATER ===
+[2026-04-01T10:25:41.835581Z] Total analyseret: 4450
+[2026-04-01T10:25:41.835693Z] ✅ Ægte NAV: 631 (14.2%)
+[2026-04-01T10:25:41.835739Z] ❌ Business Central: 110 (2.5%)
+[2026-04-01T10:25:41.835769Z] ❓ Uklart: 3709 (83.3%)
+[2026-04-01T10:25:41.835799Z] 
+=== BC VIRKSOMHEDER (SKAL FJERNES) ===
+[2026-04-01T10:27:03.834680Z] ============================================================
+[2026-04-01T10:27:03.834797Z] CDQO STRICT MODE - NAV vs BC Audit
+[2026-04-01T10:27:03.834834Z] ============================================================
+[2026-04-01T10:27:03.862936Z] 
+=== RESULTATER ===
+[2026-04-01T10:27:03.863080Z] Total analyseret: 4450
+[2026-04-01T10:27:03.863141Z] ✅ Ægte NAV: 631 (14.2%)
+[2026-04-01T10:27:03.863180Z] ❌ Business Central: 110 (2.5%)
+[2026-04-01T10:27:03.863211Z] ❓ Uklart: 3709 (83.3%)
+[2026-04-01T10:27:03.863240Z] 
+=== BC VIRKSOMHEDER (SKAL FJERNES) ===
+[2026-04-01T10:27:03.863269Z]   ❌ case studyM-SportMicrosoft Dynamics 365 Business Central (EU)
+[2026-04-01T10:27:03.863295Z]   ❌ case studyUnicard S.AMicrosoft Dynamics 365 Business Central (EU)
+[2026-04-01T10:27:03.863321Z]   ❌ Business Central ERP (DK)
+[2026-04-01T10:27:03.863345Z]   ❌ Dynamicsdanmark Dk (DK)
+[2026-04-01T10:27:03.863369Z]   ❌ Elbek Vejrup Dk (DK)
+[2026-04-01T10:27:03.863393Z]   ❌ Hvad er Navision? (DK)
+[2026-04-01T10:27:03.863416Z]   ❌ Cosmoconsult Com (SE)
+[2026-04-01T10:27:03.863439Z]   ❌ Dynapro No (NO)
+[2026-04-01T10:27:03.863462Z]   ❌ Greenstep Fi (FI)
+[2026-04-01T10:27:03.863486Z]   ❌ Navision, Dynamics NAV of Business Central? Zo zit het! (NL)
+[2026-04-01T10:27:03.863515Z]   ❌ Kilanowski Pl (PL)
+[2026-04-01T10:27:03.863540Z]   ❌ NAVISION.PL (PL)
+[2026-04-01T10:27:03.863623Z]   ❌ M-Sport (UK)
+[2026-04-01T10:27:03.863676Z]   ❌ Navision Es (ES)
+[2026-04-01T10:27:03.863714Z]   ❌ Inicio (ES)
+[2026-04-01T10:27:03.863748Z]   ❌ Netdynamics Es (ES)
+[2026-04-01T10:27:03.863774Z]   ❌ Adderit Es (ES)
+[2026-04-01T10:27:03.863798Z]   ❌ Consortio Dk (DK)
+[2026-04-01T10:27:03.863823Z]   ❌ Microsoft Dynamics 365 Business Central | ERP-järjestelmä (FI)
+[2026-04-01T10:27:03.863847Z]   ❌ Fraskrivestuen Dk (DK)
+[2026-04-01T10:27:03.863872Z] 
+=== KVALITETSMÅL ===
+[2026-04-01T10:27:03.863898Z] Nuværende NAV%: 14.2%
+[2026-04-01T10:27:03.863922Z] Mål: >95% ægte NAV
+[2026-04-01T10:27:03.863946Z] ⚠️  KVALITET FOR LAV! 110 BC virksomheder skal fjernes.

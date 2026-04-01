@@ -1,0 +1,85 @@
+{
+  "total_companies": 36746,
+  "total_pages": 3675,
+  "per_page": 10,
+  "url_base": "https://app.theirstack.com/search/companies/new?query=",
+  "navision_query": "N4IgdghgtgpiBcIDCB7KAHCYCWMDOABAK57ZgDmBAchAG7akpggA0IERALigPp4wQATgGMAFgk6CiMNh2586ceJOlsAjtMEBPBKGFpMYLT04wxYFABsU5Y3ktFyPFIIQBtcHQbYmIALpsLgAmMII8AEY68G6gAGa4lkEIIPpg8SFgwnBsIXjCElIwAL4scQlJiABWKOF4rCC5+cqFJWUwiclgRFA81bX1jQXSRX5FRUA",
+  "countries": {
+    "US": 2789,
+    "ES": 1659,
+    "DE": 1584,
+    "UK": 1177,
+    "NL": 825,
+    "CA": 702,
+    "FR": 555,
+    "IT": 445,
+    "BE": 387,
+    "DK": 373,
+    "CH": 350,
+    "IN": 334,
+    "SG": 208,
+    "SE": 183,
+    "AU": 175,
+    "NO": 159,
+    "AE": 118,
+    "IE": 113,
+    "PH": 103,
+    "PL": 94,
+    "AT": 91,
+    "ZA": 75,
+    "LT": 75,
+    "PT": 57,
+    "BR": 53,
+    "LU": 51
+  },
+  "continents": {
+    "Europe": 8498,
+    "North America": 3550,
+    "Asia": 1062,
+    "Oceania": 194,
+    "Africa": 115,
+    "South America": 82
+  },
+  "known_companies": [
+    [
+      "State Street",
+      "US"
+    ],
+    [
+      "DeepOcean",
+      "NO"
+    ],
+    [
+      "EY",
+      "UK"
+    ],
+    [
+      "L\u00f6wenstein Medical",
+      "DE"
+    ],
+    [
+      "BayernInvest Kapitalverwaltungsgesellschaft mbH",
+      "DE"
+    ],
+    [
+      "BNP Paribas",
+      "FR"
+    ],
+    [
+      "Citi",
+      "US"
+    ],
+    [
+      "Mastronardi Produce",
+      "CA"
+    ],
+    [
+      "BNY",
+      "US"
+    ],
+    [
+      "BNY Mellon",
+      "US"
+    ]
+  ]
+}
