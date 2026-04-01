@@ -202,7 +202,7 @@ def save_companies(companies, source, country):
             log_error(f"Failed to insert {company.get('company_name', 'Unknown')}: {e}", source, country)
     
     if rejected_cdqo > 0:
-        log(f"  CDQO: {rejected_cdqo} afvist (ikke bekræftet NAV)")
+        print(f"  CDQO: {rejected_cdqo} afvist (ikke bekræftet NAV)")
     
     # Update source stats
     cursor.execute('''
