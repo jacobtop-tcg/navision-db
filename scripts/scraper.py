@@ -119,11 +119,27 @@ BC_PATTERNS = [
 
 # NAV-indikatorer (SKAL nævnes for at blive godkendt)
 NAV_PATTERNS = [
+    # Navision/Dynamics NAV
     'navision', 'dynamics nav', 'microsoft dynamics nav',
     'nav 2013', 'nav 2015', 'nav 2016', 'nav 2017', 'nav 2018',
+    'nav 2019', 'nav 2020', 'nav 2021', 'nav 2022', 'nav 2023', 'nav 2024',
     'c/al', 'nav udvikler', 'nav konsulent', 'nav developer',
-    'ns-webshop', 'ns-webtid', 'ns-edi', 'nav back-office',
-    'nav kunde', 'nav integration',
+    'navision udvikler', 'navision konsulent', 'navision developer',
+    'dynamics nav developer', 'dynamics nav konsulent',
+    'nav developer', 'nav konsulent',
+    'nav back-office', 'nav backoffice',
+    'nav kunde', 'navision kunde',
+    'nav integration', 'navision integration',
+    # Job postings (smoking gun! - hvis de ansætter NAV dev, bruger de NAV)
+    'hiring nav', 'hiring navision', 'hiring dynamics nav',
+    'seeking nav', 'seeking navision', 'seeking dynamics nav',
+    'looking for nav', 'looking for navision', 'looking for dynamics nav',
+    'need nav', 'need navision', 'need dynamics nav',
+    'require nav', 'require navision', 'require dynamics nav',
+    # Tillægsløsninger
+    'ns-webshop', 'ns-webtid', 'ns-edi', 'ns-produktion',
+    'navision webshop', 'nav webshop',
+    'c/odbc', 'navision sdk',
 ]
 
 def passes_cdqo_check(company):

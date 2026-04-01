@@ -1,57 +1,65 @@
 {
   "pending_sources": [
     {
-      "source": "global_jobs",
-      "countries": [
-        "DK",
-        "DE",
-        "SE",
-        "NO",
-        "FI",
-        "NL",
-        "BE",
-        "PL",
-        "UK",
-        "US",
-        "FR",
-        "ES",
-        "IT",
-        "IN"
-      ],
+      "source": "theirstack",
+      "countries": ["DK", "SE", "NO", "FI", "DE", "UK", "NL", "BE", "US", "FR", "IT", "ES", "PL", "IN", "CA", "AU", "JP", "KR", "NZ", "ZA", "BR", "MX", "AR", "CL", "CO", "PE"],
       "priority": 1,
       "repeat": true,
-      "notes": "Primary source - finds companies via job postings"
+      "notes": "TheirStack - FAKTISKE NAV BRUGERE (tech stack detection)"
+    },
+    {
+      "source": "linkedin_people",
+      "countries": ["DK", "SE", "NO", "FI", "DE", "UK", "NL", "BE", "US", "FR", "IT", "ES"],
+      "priority": 2,
+      "repeat": true,
+      "notes": "LinkedIn job profiler - NAV/BC developers = NAV users"
+    },
+    {
+      "source": "linkedin_companies",
+      "countries": ["DK", "SE", "NO", "FI", "DE", "UK", "NL", "BE", "US"],
+      "priority": 3,
+      "repeat": true,
+      "notes": "LinkedIn company pages - job postings"
+    },
+    {
+      "source": "case_studies",
+      "countries": ["DK", "SE", "NO", "FI", "DE", "UK", "NL", "BE", "US", "FR", "IT", "ES"],
+      "priority": 4,
+      "repeat": true,
+      "notes": "Case studies - kunder der har implementeret NAV"
+    },
+    {
+      "source": "cepheo",
+      "countries": ["DK", "SE", "NO", "FI", "DE", "UK", "NL", "BE"],
+      "priority": 5,
+      "repeat": true,
+      "notes": "Cepheo - kundelister"
     },
     {
       "source": "partners",
-      "countries": [
-        "DK",
-        "NO",
-        "SE",
-        "FI",
-        "DE",
-        "UK",
-        "NL",
-        "BE",
-        "US"
-      ],
-      "priority": 2,
+      "countries": ["DK", "SE", "NO", "FI", "DE", "UK", "NL", "BE", "US"],
+      "priority": 6,
       "repeat": true,
-      "notes": "Partner customer lists - verify NAV vs BC"
-    }
-  ],
-  "removed_sources": [
+      "notes": "Microsoft partners - kundelister"
+    },
     {
-      "source": "nav_jobs",
-      "reason": "Returns 0 companies - C/AL jobs extremely rare",
-      "removed_at": "2026-03-26T16:30:00Z"
+      "source": "mibuso",
+      "countries": ["DK", "SE", "NO", "FI", "DE", "UK"],
+      "priority": 7,
+      "repeat": true,
+      "notes": "Mibuso.com - NAV community brugere"
+    },
+    {
+      "source": "global_jobs",
+      "countries": ["DK", "SE", "NO", "FI", "DE", "UK", "NL", "BE", "US", "FR", "IT", "ES", "PL", "IN", "CA", "AU", "JP", "KR", "NZ", "ZA", "BR", "MX", "AR", "CL", "CO", "PE"],
+      "priority": 8,
+      "repeat": true,
+      "notes": "Job postings - NAV/BC developers = NAV users (smoking gun!)"
     }
   ],
-  "completed_sources": [
-    "theirstack",
-    "linkedin_global"
-  ],
-  "last_run": "2026-03-26T16:26:00Z",
-  "total_companies": 7908,
-  "status": "running"
+  "completed_sources": [],
+  "last_run": null,
+  "total_companies": 1979,
+  "status": "running",
+  "notes": "KUN FAKTISKE NAV BRUGERE - Jobopslag er SMOKING GUNS!"
 }
