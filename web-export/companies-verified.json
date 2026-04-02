@@ -840,6 +840,26 @@
     "linkedin_url": null
   },
   {
+    "id": 1087938,
+    "company_name": "Dynamicsfanatics Com",
+    "country": "IN",
+    "website": "dynamicsfanatics.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: MicrosoftNavisionEnd of Life: What Your Business Should Do Next",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.dynamicsfanatics.com/post/microsoft-navision-end-of-life-what-it-means-for-your-business-next-steps",
+    "discovered_at": "2026-04-02T19:35:48.268150Z",
+    "created_at": "2026-04-02 19:35:48",
+    "updated_at": "2026-04-02T19:35:48.268151Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": ""
+  },
+  {
     "id": 1087636,
     "company_name": "Dynamicsfanatics Com",
     "country": "KR",
