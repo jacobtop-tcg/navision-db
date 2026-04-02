@@ -870,6 +870,36 @@
     "linkedin": ""
   },
   {
+    "name": "Slideshare Net",
+    "country": "IN",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: How microsoft dynamics nav streamlines processes in …",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "slideshare.net",
+    "source_url": "https://www.slideshare.net/slideshow/how-microsoft-dynamics-nav-streamlines-processes-in-manufacturing-industry-navision-india/159372310",
+    "discovered": "2026-04-02T17:00:18.807286Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
+    "name": "MicrosoftDynamicsNAV- Navision",
+    "country": "FR",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: MicrosoftDynamicsNAV- Navision - ERP international",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "dynamicsinternational.com",
+    "source_url": "https://dynamicsinternational.com/solutions/dynamics-nav/",
+    "discovered": "2026-04-02T16:59:50.641668Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Consultorianavision Com",
     "country": "CO",
     "industry": "",
