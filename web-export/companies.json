@@ -870,6 +870,36 @@
     "linkedin": ""
   },
   {
+    "name": "Educamando It",
+    "country": "IT",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Guida completa a MicrosoftNavision: Ottimizza la …",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "educamando.it",
+    "source_url": "https://educamando.it/blog/microsoft-navision/",
+    "discovered": "2026-04-02T16:50:31.145024Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
+    "name": "Dynamics NAV Versions List",
+    "country": "DK",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Dynamics NAV Versions List - Navision Planet",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "navisionplanet.com",
+    "source_url": "https://www.navisionplanet.com/dynamics-nav-versions-list/",
+    "discovered": "2026-04-02T16:49:08.384379Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "¿Qué esNavisiony para qué sirve?",
     "country": "PE",
     "industry": "",
