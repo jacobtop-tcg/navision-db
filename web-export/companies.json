@@ -870,6 +870,21 @@
     "linkedin": ""
   },
   {
+    "name": "Businesswith Dk",
+    "country": "DK",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: NavisionStat: WMS som optimerer | businesswith.dk",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "businesswith.dk",
+    "source_url": "https://businesswith.dk/system/navision-stat/",
+    "discovered": "2026-04-02T16:29:37.687226Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Microsoft Dynamics Nav",
     "country": "PE",
     "industry": "",
