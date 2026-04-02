@@ -620,6 +620,26 @@
     "linkedin_url": null
   },
   {
+    "id": 1105965,
+    "company_name": "Workcentrix De",
+    "country": "DE",
+    "website": "workcentrix.de",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: MicrosoftNavision\u2013 workcentrix",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://workcentrix.de/blog/navision",
+    "discovered_at": "2026-04-02T14:35:14.782496Z",
+    "created_at": "2026-04-02 14:35:14",
+    "updated_at": "2026-04-02T14:35:14.782497Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": ""
+  },
+  {
     "id": 1105755,
     "company_name": "Axial Erp Co",
     "country": "CL",
