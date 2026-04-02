@@ -1,9 +1,9 @@
 {
-  "total_companies": 6088,
-  "last_updated": "2026-04-02T22:23:31.697687Z",
+  "total_companies": 6089,
+  "last_updated": "2026-04-02T22:28:33.686251Z",
   "by_confidence": {
     "5": 58,
-    "4": 4661,
+    "4": 4662,
     "3": 1343,
     "1": 26
   },
@@ -30,7 +30,7 @@
     "SA": 37
   },
   "top_sources": {
-    "global_jobs": 4315,
+    "global_jobs": 4316,
     "TheirStack": 178,
     "web_search": 164,
     "theirstack": 162,
@@ -43,6 +43,6 @@
   },
   "date_range": {
     "first": "2026-03-20T18:08:51.494734Z",
-    "latest": "2026-04-02T22:12:56.795053Z"
+    "latest": "2026-04-02T22:24:15.506553Z"
   }
 }
