@@ -1616,3 +1616,211 @@
 [2026-04-02T14:19:15.868680] 😴 Venter 60 sekunder...
 [2026-04-02T14:20:15.868934] 
 📊 Run #47 - 2026-04-02T14:20:15.868901
+[2026-04-02T14:20:15.869232] 🕷️  Kører scraper...
+[2026-04-02T14:28:38.861511] ✅ Scraper completed successfully
+[2026-04-02T14:28:38.861724] Output: 📋 Queue: 6 pending, 2 completed
+✅ SearXNG healthy (3 engines, 6 results)
+🕷️  Running scraper: theirstack for DK
+🕷️  TheirStack scraper for DK
+  📍 Scraping DK page 1/5
+  ✅ Page 1: 10 companies (total: 10)
+  📍 Scraping DK page 2/5
+  ✅ Page 2: 10 companies (total: 20)
+  📍 Scraping DK page 3/5
+  ✅ Page 3: 10 companies (total: 30)
+  📍 Scraping DK page 4/5
+  ✅ Page 4: 10 companies (total: 40)
+  📍 Scraping DK page 5/5
+  ✅ Page 5: 10 companies (total: 50)
+✅ TheirStack/DK: 10 unique companies
+✅ theirstack/DK: Found 10 companies, inserted 0 new
+🕷️  Running scraper: theirstack for SE
+🕷️  TheirStack scraper for SE
+  📍 Scraping SE page 1/5
+  ✅ Page 1: 10 companies (total: 10)
+  📍 Scraping SE page 2/5
+  ✅ Page 2: 10 companies (total: 20)
+  📍 Scraping SE page 3/5
+  ✅ Page 3: 10 companies (total: 30)
+  📍 Scraping SE page 4/5
+  ✅ Page 4: 10 companies (total: 40)
+  📍 Scraping SE page 5/5
+  ✅ Page 5: 10 companies (total: 50)
+✅ TheirStack/SE: 9 unique companies
+✅ theirstack/SE: Found 9 companies, inserted
+[2026-04-02T14:28:38.862010] 😴 Venter 60 sekunder...
+[2026-04-02T14:29:38.862208] 
+📊 Run #48 - 2026-04-02T14:29:38.862183
+[2026-04-02T14:29:38.862420] 🕷️  Kører scraper...
+[2026-04-02T14:38:25.193668] ✅ Scraper completed successfully
+[2026-04-02T14:38:25.193880] Output: 📋 Queue: 6 pending, 2 completed
+✅ SearXNG healthy (5 engines, 11 results)
+🕷️  Running scraper: theirstack for DK
+🕷️  TheirStack scraper for DK
+  📍 Scraping DK page 1/5
+  ✅ Page 1: 10 companies (total: 10)
+  📍 Scraping DK page 2/5
+  ✅ Page 2: 10 companies (total: 20)
+  📍 Scraping DK page 3/5
+  ✅ Page 3: 10 companies (total: 30)
+  📍 Scraping DK page 4/5
+  ✅ Page 4: 10 companies (total: 40)
+  📍 Scraping DK page 5/5
+  ✅ Page 5: 10 companies (total: 50)
+✅ TheirStack/DK: 10 unique companies
+✅ theirstack/DK: Found 10 companies, inserted 0 new
+🕷️  Running scraper: theirstack for SE
+🕷️  TheirStack scraper for SE
+  📍 Scraping SE page 1/5
+  ✅ Page 1: 10 companies (total: 10)
+  📍 Scraping SE page 2/5
+  ✅ Page 2: 10 companies (total: 20)
+  📍 Scraping SE page 3/5
+  ✅ Page 3: 10 companies (total: 30)
+  📍 Scraping SE page 4/5
+  ✅ Page 4: 10 companies (total: 40)
+  📍 Scraping SE page 5/5
+  ✅ Page 5: 10 companies (total: 50)
+✅ TheirStack/SE: 9 unique companies
+✅ theirstack/SE: Found 9 companies, inserte
+[2026-04-02T14:38:25.194126] 😴 Venter 60 sekunder...
+[2026-04-02T14:39:25.194310] 
+📊 Run #49 - 2026-04-02T14:39:25.194287
+[2026-04-02T14:39:25.194540] 🕷️  Kører scraper...
+[2026-04-02T14:46:59.841874] ✅ Scraper completed successfully
+[2026-04-02T14:46:59.842101] Output: 📋 Queue: 6 pending, 2 completed
+✅ SearXNG healthy (5 engines, 11 results)
+🕷️  Running scraper: theirstack for DK
+🕷️  TheirStack scraper for DK
+  📍 Scraping DK page 1/5
+  ✅ Page 1: 10 companies (total: 10)
+  📍 Scraping DK page 2/5
+  ✅ Page 2: 10 companies (total: 20)
+  📍 Scraping DK page 3/5
+  ✅ Page 3: 10 companies (total: 30)
+  📍 Scraping DK page 4/5
+  ✅ Page 4: 10 companies (total: 40)
+  📍 Scraping DK page 5/5
+  ✅ Page 5: 10 companies (total: 50)
+✅ TheirStack/DK: 10 unique companies
+✅ theirstack/DK: Found 10 companies, inserted 0 new
+🕷️  Running scraper: theirstack for SE
+🕷️  TheirStack scraper for SE
+  📍 Scraping SE page 1/5
+  ✅ Page 1: 10 companies (total: 10)
+  📍 Scraping SE page 2/5
+  ✅ Page 2: 10 companies (total: 20)
+  📍 Scraping SE page 3/5
+  ✅ Page 3: 10 companies (total: 30)
+  📍 Scraping SE page 4/5
+  ✅ Page 4: 10 companies (total: 40)
+  📍 Scraping SE page 5/5
+  ✅ Page 5: 10 companies (total: 50)
+✅ TheirStack/SE: 9 unique companies
+✅ theirstack/SE: Found 9 companies, inserte
+[2026-04-02T14:46:59.842425] 😴 Venter 60 sekunder...
+[2026-04-02T14:47:59.842652] 
+📊 Run #50 - 2026-04-02T14:47:59.842629
+[2026-04-02T14:47:59.842861] 🕷️  Kører scraper...
+[2026-04-02T14:56:21.562909] ✅ Scraper completed successfully
+[2026-04-02T14:56:21.563123] Output: 📋 Queue: 6 pending, 2 completed
+✅ SearXNG healthy (5 engines, 10 results)
+🕷️  Running scraper: theirstack for DK
+🕷️  TheirStack scraper for DK
+  📍 Scraping DK page 1/5
+  ✅ Page 1: 10 companies (total: 10)
+  📍 Scraping DK page 2/5
+  ✅ Page 2: 10 companies (total: 20)
+  📍 Scraping DK page 3/5
+  ✅ Page 3: 10 companies (total: 30)
+  📍 Scraping DK page 4/5
+  ✅ Page 4: 10 companies (total: 40)
+  📍 Scraping DK page 5/5
+  ✅ Page 5: 10 companies (total: 50)
+✅ TheirStack/DK: 10 unique companies
+✅ theirstack/DK: Found 10 companies, inserted 0 new
+🕷️  Running scraper: theirstack for SE
+🕷️  TheirStack scraper for SE
+  📍 Scraping SE page 1/5
+  ✅ Page 1: 10 companies (total: 10)
+  📍 Scraping SE page 2/5
+  ✅ Page 2: 10 companies (total: 20)
+  📍 Scraping SE page 3/5
+  ✅ Page 3: 10 companies (total: 30)
+  📍 Scraping SE page 4/5
+  ✅ Page 4: 10 companies (total: 40)
+  📍 Scraping SE page 5/5
+  ✅ Page 5: 10 companies (total: 50)
+✅ TheirStack/SE: 9 unique companies
+✅ theirstack/SE: Found 9 companies, inserte
+[2026-04-02T14:56:21.563473] 😴 Venter 60 sekunder...
+[2026-04-02T14:57:21.563668] 
+📊 Run #51 - 2026-04-02T14:57:21.563642
+[2026-04-02T14:57:21.563939] 🕷️  Kører scraper...
+[2026-04-02T15:05:58.374459] ✅ Scraper completed successfully
+[2026-04-02T15:05:58.374689] Output: 📋 Queue: 6 pending, 2 completed
+✅ SearXNG healthy (5 engines, 11 results)
+🕷️  Running scraper: theirstack for DK
+🕷️  TheirStack scraper for DK
+  📍 Scraping DK page 1/5
+  ✅ Page 1: 10 companies (total: 10)
+  📍 Scraping DK page 2/5
+  ✅ Page 2: 10 companies (total: 20)
+  📍 Scraping DK page 3/5
+  ✅ Page 3: 10 companies (total: 30)
+  📍 Scraping DK page 4/5
+  ✅ Page 4: 10 companies (total: 40)
+  📍 Scraping DK page 5/5
+  ✅ Page 5: 10 companies (total: 50)
+✅ TheirStack/DK: 10 unique companies
+✅ theirstack/DK: Found 10 companies, inserted 0 new
+🕷️  Running scraper: theirstack for SE
+🕷️  TheirStack scraper for SE
+  📍 Scraping SE page 1/5
+  ✅ Page 1: 10 companies (total: 10)
+  📍 Scraping SE page 2/5
+  ✅ Page 2: 10 companies (total: 20)
+  📍 Scraping SE page 3/5
+  ✅ Page 3: 10 companies (total: 30)
+  📍 Scraping SE page 4/5
+  ✅ Page 4: 10 companies (total: 40)
+  📍 Scraping SE page 5/5
+  ✅ Page 5: 10 companies (total: 50)
+✅ TheirStack/SE: 9 unique companies
+✅ theirstack/SE: Found 9 companies, inserte
+[2026-04-02T15:05:58.374949] 😴 Venter 60 sekunder...
+[2026-04-02T15:06:58.375190] 
+📊 Run #52 - 2026-04-02T15:06:58.375162
+[2026-04-02T15:06:58.375468] 🕷️  Kører scraper...
+[2026-04-02T15:15:53.336430] ✅ Scraper completed successfully
+[2026-04-02T15:15:53.336698] Output: 📋 Queue: 6 pending, 2 completed
+✅ SearXNG healthy (5 engines, 11 results)
+🕷️  Running scraper: theirstack for DK
+🕷️  TheirStack scraper for DK
+  📍 Scraping DK page 1/5
+  ✅ Page 1: 10 companies (total: 10)
+  📍 Scraping DK page 2/5
+  ✅ Page 2: 10 companies (total: 20)
+  📍 Scraping DK page 3/5
+  ✅ Page 3: 10 companies (total: 30)
+  📍 Scraping DK page 4/5
+  ✅ Page 4: 10 companies (total: 40)
+  📍 Scraping DK page 5/5
+  ✅ Page 5: 10 companies (total: 50)
+✅ TheirStack/DK: 10 unique companies
+✅ theirstack/DK: Found 10 companies, inserted 0 new
+🕷️  Running scraper: theirstack for SE
+🕷️  TheirStack scraper for SE
+  📍 Scraping SE page 1/5
+  ✅ Page 1: 10 companies (total: 10)
+  📍 Scraping SE page 2/5
+  ✅ Page 2: 10 companies (total: 20)
+  📍 Scraping SE page 3/5
+  ✅ Page 3: 10 companies (total: 30)
+  📍 Scraping SE page 4/5
+  ✅ Page 4: 10 companies (total: 40)
+  📍 Scraping SE page 5/5
+  ✅ Page 5: 10 companies (total: 50)
+✅ TheirStack/SE: 9 unique companies
+✅ theirstack/SE: Found 9 companies, inserte
+[2026-04-02T15:15:53.337086] 😴 Venter 60 sekunder...

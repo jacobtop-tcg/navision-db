@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-02T15:12:19.825688Z",
+  "timestamp": "2026-04-02T15:17:33.291933Z",
   "original_total": 5827,
-  "kept": 1578,
+  "kept": 1606,
   "removed_bc": 248,
-  "removed_unclear": 4001,
-  "new_total": 1578,
+  "removed_unclear": 3973,
+  "new_total": 1606,
   "nav_percentage": 100.0
 }

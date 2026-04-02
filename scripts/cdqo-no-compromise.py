@@ -46,11 +46,29 @@ BC_PATTERNS = [
     'dynamics 365 supply chain',
 ]
 
-# IKKE-VIRKSOMHEDER - TOM LISTE
-# Alle kunder er valide - ministerier, hospitaler, kommuner osv. bruger også NAV!
-# Vi fjerner KUN Business Central og helt uklare poster
+# IKKE-VALIDE ENTITETER (MEGET KONSERVATIV - fjern kun helt åbenlyse)
+# Beholder: ALLE virksomheder/institutioner der bruger NAV (ministerier, hospitaler, kommuner, etc.)
+# Fjerner KUN: Åbenlyse jobtitler og produkter (ikke rigtige entiteter)
 NON_COMPANY_PATTERNS = [
-    # Ingen filtre - behold alle NAV-kunder uanset type
+    # KUN helt åbenlyse jobtitler (når navnet ER en jobtitel)
+    # Beholder: "ABC Konsulent A/S" - det er en rigtig virksomhed
+    # Fjerner: "Konsulent" alene - det er ikke en virksomhed
+]
+
+# Mønstre der indikerer IKKE EN VIRKSOMHED (meget strikse - kun når navnet ER mønsteret)
+INVALID_NAME_PATTERNS = [
+    r'^nav$',  # Kun "Nav" alene
+    r'^nav\s*$',  # "Nav " med whitespace
+    r'^konsulent$',  # Kun "Konsulent" alene
+    r'^udvikler$',  # Kun "Udvikler" alene
+    r'^consultant$',  # Kun "Consultant" alene
+    r'^developer$',  # Kun "Developer" alene
+    r'^freelancer?$',  # Kun "Freelance" eller "Freelancer" alene
+    r'^self[-_]?employed$',  # Kun "Self-employed" alene
+    r'^addon$',  # Kun "Addon" alene
+    r'^plugin$',  # Kun "Plugin" alene
+    r'^#erp$',  # Kun "#ERP"
+    r'^#nav$',  # Kun "#NAV"
 ]
 
 def log(message):
@@ -63,8 +81,10 @@ def log(message):
 def is_definitely_nav(evidence_text, company_name, source_url, industry):
     """
     Returnerer True KUN hvis vi er 100% sikre på det er NAV (ikke BC)
-    OG at det er en kommerciel virksomhed (ikke offentlig institution)
+    Beholder ALLE virksomheder/institutioner - også offentlige kunder!
     """
+    import re
+    
     text = str(evidence_text or '').lower()
     name = str(company_name or '').lower()
     url = str(source_url or '').lower()
@@ -72,15 +92,15 @@ def is_definitely_nav(evidence_text, company_name, source_url, industry):
     
     combined = f"{text} {name} {url} {ind}"
     
-    # Tjek for IKKE-VIRKSOMHED først - offentlige institutioner = fjern
-    for pattern in NON_COMPANY_PATTERNS:
-        if pattern in combined:
-            return False  # Offentlig institution = fjern
-    
     # Tjek for BC først - hvis BC nævnes, er det IKKE NAV
     for pattern in BC_PATTERNS:
         if pattern in combined:
             return False  # BC = fjern
+    
+    # Tjek for IKKE-VALID navnemønstre (kun helt åbenlyse: "Konsulent" alene, ikke "ABC Konsulent A/S")
+    for pattern in INVALID_NAME_PATTERNS:
+        if re.search(pattern, name, re.IGNORECASE):
+            return False  # Ikke en virksomhed = fjern
     
     # Tjek for NAV - hvis NAV nævnes OG ikke BC, er det NAV
     for pattern in NAV_PATTERNS:
