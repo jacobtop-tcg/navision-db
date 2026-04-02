@@ -46,6 +46,13 @@ BC_PATTERNS = [
     'dynamics 365 supply chain',
 ]
 
+# IKKE-VIRKSOMHEDER - TOM LISTE
+# Alle kunder er valide - ministerier, hospitaler, kommuner osv. bruger også NAV!
+# Vi fjerner KUN Business Central og helt uklare poster
+NON_COMPANY_PATTERNS = [
+    # Ingen filtre - behold alle NAV-kunder uanset type
+]
+
 def log(message):
     timestamp = datetime.utcnow().isoformat() + 'Z'
     line = f"[{timestamp}] {message}"
@@ -56,6 +63,7 @@ def log(message):
 def is_definitely_nav(evidence_text, company_name, source_url, industry):
     """
     Returnerer True KUN hvis vi er 100% sikre på det er NAV (ikke BC)
+    OG at det er en kommerciel virksomhed (ikke offentlig institution)
     """
     text = str(evidence_text or '').lower()
     name = str(company_name or '').lower()
@@ -63,6 +71,11 @@ def is_definitely_nav(evidence_text, company_name, source_url, industry):
     ind = str(industry or '').lower()
     
     combined = f"{text} {name} {url} {ind}"
+    
+    # Tjek for IKKE-VIRKSOMHED først - offentlige institutioner = fjern
+    for pattern in NON_COMPANY_PATTERNS:
+        if pattern in combined:
+            return False  # Offentlig institution = fjern
     
     # Tjek for BC først - hvis BC nævnes, er det IKKE NAV
     for pattern in BC_PATTERNS:

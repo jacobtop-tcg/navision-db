@@ -75,6 +75,68 @@ def export_verified():
         log(f"Verified export error: {e}")
         return 0
 
+def git_commit_push():
+    """Commit og push ændringer til GitHub"""
+    import subprocess
+    from datetime import datetime
+    
+    navision_dir = SCRIPT_DIR.parent
+    
+    try:
+        # Tjek om der er ændringer
+        status = subprocess.run(
+            ['git', 'status', '--porcelain', 'web-export/'],
+            capture_output=True,
+            text=True,
+            cwd=str(navision_dir)
+        )
+        
+        if not status.stdout.strip():
+            log("Git: Ingen ændringer at committe")
+            return False
+        
+        # Git add
+        subprocess.run(['git', 'add', 'web-export/'], cwd=str(navision_dir), capture_output=True)
+        
+        # Git commit
+        timestamp = datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')
+        commit_msg = f"Auto-update: {timestamp}"
+        commit_result = subprocess.run(
+            ['git', 'commit', '-m', commit_msg],
+            capture_output=True,
+            text=True,
+            cwd=str(navision_dir)
+        )
+        
+        if commit_result.returncode != 0:
+            log(f"Git commit failed: {commit_result.stderr}")
+            return False
+        
+        log(f"Git: Committet - {commit_msg}")
+        
+        # Git push
+        push_result = subprocess.run(
+            ['git', 'push'],
+            capture_output=True,
+            text=True,
+            cwd=str(navision_dir),
+            timeout=30
+        )
+        
+        if push_result.returncode != 0:
+            log(f"Git push failed: {push_result.stderr}")
+            return False
+        
+        log("Git: Pushed til GitHub ✅")
+        return True
+        
+    except subprocess.TimeoutExpired:
+        log("Git push timeout")
+        return False
+    except Exception as e:
+        log(f"Git error: {e}")
+        return False
+
 def export_data():
     """Kør export scriptet"""
     try:
@@ -93,6 +155,8 @@ def export_data():
                 f.write(datetime.utcnow().isoformat() + 'Z')
             # Kør også verified export
             export_verified()
+            # Auto commit og push til GitHub
+            git_commit_push()
         else:
             log(f"Export failed: {result.stderr}")
     except Exception as e:

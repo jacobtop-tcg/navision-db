@@ -59,3 +59,33 @@ echo "📈 Progress: $(echo "scale=1; $NEW_COUNT * 100 / 20000" | bc)%"
 
 echo ""
 echo "🦅 CONTINUING EXPANSION..."
+
+# ===========================================
+# 🖥️  STREAMLIT DASHBOARD - AUTO-START
+# ===========================================
+echo ""
+echo "🖥️  Checking Streamlit dashboard..."
+
+# Check if Streamlit is already running
+if pgrep -f "streamlit run streamlit_app.py" > /dev/null 2>&1; then
+    echo "✅ Streamlit already running"
+else
+    echo "🚀 Starting Streamlit dashboard..."
+    cd /mnt/data/openclaw/workspace/.openclaw/workspace/navision-db
+    nohup streamlit run streamlit_app.py \
+        --server.port 8501 \
+        --server.address 127.0.0.1 \
+        --server.headless true \
+        > logs/streamlit.out 2>&1 &
+    sleep 3
+    
+    # Verify it started
+    if curl -s -o /dev/null -w "%{http_code}" http://127.0.0.1:8501 | grep -q "200"; then
+        echo "✅ Streamlit started successfully (port 8501)"
+    else
+        echo "⚠️  Streamlit may need manual restart"
+    fi
+fi
+
+echo ""
+echo "📊 Dashboard URL: http://127.0.0.1:8501"

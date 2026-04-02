@@ -1,13 +1,612 @@
 {
-  "last_run": "2026-04-01T10:41:44.121063Z",
-  "total_companies": 1849,
-  "countries_processed": [
-    "DK"
-  ],
+  "last_run": "2026-04-02T15:14:35.380864Z",
+  "total_companies": 2278,
+  "countries_processed": [],
   "sources_processed": [
-    "theirstack",
-    "linkedin_global"
+    "linkedin_people",
+    "linkedin_companies"
   ],
   "queue": [],
-  "errors": []
+  "errors": [
+    {
+      "timestamp": "2026-04-02T15:13:24.595116Z",
+      "source": "global_jobs",
+      "country": "ES",
+      "error": "CDQO AFVIST: Casosde\u00e9xito (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:24.596685Z",
+      "source": "global_jobs",
+      "country": "ES",
+      "error": "CDQO AFVIST: csm iberia_CASE_STUDY_ES (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:24.597662Z",
+      "source": "global_jobs",
+      "country": "ES",
+      "error": "CDQO AFVIST: Navision Es (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:24.598837Z",
+      "source": "global_jobs",
+      "country": "ES",
+      "error": "CDQO AFVIST: Ckh Comillas Edu (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:24.599758Z",
+      "source": "global_jobs",
+      "country": "ES",
+      "error": "CDQO AFVIST: Planningpme Es (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:24.600784Z",
+      "source": "global_jobs",
+      "country": "ES",
+      "error": "CDQO AFVIST: Ioniaconsult Es (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:24.601813Z",
+      "source": "global_jobs",
+      "country": "ES",
+      "error": "CDQO AFVIST: Ioniasolutions Com (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:24.602752Z",
+      "source": "global_jobs",
+      "country": "ES",
+      "error": "CDQO AFVIST: Ioniabc Com (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:24.603771Z",
+      "source": "global_jobs",
+      "country": "ES",
+      "error": "CDQO AFVIST: Advancesoluciones Com (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:24.604660Z",
+      "source": "global_jobs",
+      "country": "ES",
+      "error": "CDQO AFVIST: Joseluisrodriguez Dev (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:31.990707Z",
+      "source": "global_jobs",
+      "country": "PL",
+      "error": "CDQO AFVIST: Nav24 Pl (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:31.992353Z",
+      "source": "global_jobs",
+      "country": "PL",
+      "error": "CDQO AFVIST: Biogened_case study_final (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:31.994212Z",
+      "source": "global_jobs",
+      "country": "PL",
+      "error": "CDQO AFVIST: Dynamicsnav Pl (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:31.995605Z",
+      "source": "global_jobs",
+      "country": "PL",
+      "error": "CDQO AFVIST: Microsoft Przewodnik po systemie (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:31.997009Z",
+      "source": "global_jobs",
+      "country": "PL",
+      "error": "CDQO AFVIST: Dynamics365Bc Pl (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:31.998610Z",
+      "source": "global_jobs",
+      "country": "PL",
+      "error": "CDQO AFVIST: Intersys Pl (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:31.999971Z",
+      "source": "global_jobs",
+      "country": "PL",
+      "error": "CDQO AFVIST: Nmierp Pl (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:32.001319Z",
+      "source": "global_jobs",
+      "country": "PL",
+      "error": "CDQO AFVIST: BusinessCentralw Polsce (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:32.002604Z",
+      "source": "global_jobs",
+      "country": "PL",
+      "error": "CDQO AFVIST: Itvision Pl (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:32.003788Z",
+      "source": "global_jobs",
+      "country": "PL",
+      "error": "CDQO AFVIST: Sii Pl (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:41.041101Z",
+      "source": "global_jobs",
+      "country": "IN",
+      "error": "CDQO AFVIST: Samadhanindia Com (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:41.042572Z",
+      "source": "global_jobs",
+      "country": "IN",
+      "error": "CDQO AFVIST: Navisionindia In (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:41.044073Z",
+      "source": "global_jobs",
+      "country": "IN",
+      "error": "CDQO AFVIST: Godrejinfotech Com (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:41.045464Z",
+      "source": "global_jobs",
+      "country": "IN",
+      "error": "CDQO AFVIST: Msdynamicsworld Com (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:41.047551Z",
+      "source": "global_jobs",
+      "country": "IN",
+      "error": "CDQO AFVIST: Dataman In (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:41.048471Z",
+      "source": "global_jobs",
+      "country": "IN",
+      "error": "CDQO AFVIST: Bearingpoint Com (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:41.050116Z",
+      "source": "global_jobs",
+      "country": "IN",
+      "error": "CDQO AFVIST: Aegissofttech Com (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:41.051335Z",
+      "source": "global_jobs",
+      "country": "IN",
+      "error": "CDQO AFVIST: Direction Biz (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:41.052522Z",
+      "source": "global_jobs",
+      "country": "IN",
+      "error": "CDQO AFVIST: Preeminentsoft Com (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:41.053514Z",
+      "source": "global_jobs",
+      "country": "IN",
+      "error": "CDQO AFVIST: Tabdelta Com (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:48.735680Z",
+      "source": "global_jobs",
+      "country": "CA",
+      "error": "CDQO AFVIST: Cloudtango Net (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:48.737279Z",
+      "source": "global_jobs",
+      "country": "CA",
+      "error": "CDQO AFVIST: Loganconsulting Com (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:48.738986Z",
+      "source": "global_jobs",
+      "country": "CA",
+      "error": "CDQO AFVIST: CaseStudies (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:48.741115Z",
+      "source": "global_jobs",
+      "country": "CA",
+      "error": "CDQO AFVIST: Casestudies Com (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:48.742467Z",
+      "source": "global_jobs",
+      "country": "CA",
+      "error": "CDQO AFVIST: Dynamicssquare Ca (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:48.743900Z",
+      "source": "global_jobs",
+      "country": "CA",
+      "error": "CDQO AFVIST: The365People Com (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:48.745302Z",
+      "source": "global_jobs",
+      "country": "CA",
+      "error": "CDQO AFVIST: Endeavoursolutions Ca (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:48.746751Z",
+      "source": "global_jobs",
+      "country": "CA",
+      "error": "CDQO AFVIST: Dynamicssolution Com (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:48.748121Z",
+      "source": "global_jobs",
+      "country": "CA",
+      "error": "CDQO AFVIST: DynamicsNAVPartner inCanadaand the US (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:48.749368Z",
+      "source": "global_jobs",
+      "country": "CA",
+      "error": "CDQO AFVIST: Learners Dynamicscommunities Com (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:56.516117Z",
+      "source": "global_jobs",
+      "country": "AU",
+      "error": "CDQO AFVIST: Community Dynamics Com (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:56.517712Z",
+      "source": "global_jobs",
+      "country": "AU",
+      "error": "CDQO AFVIST: Cloudcollective Com Au (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:56.520430Z",
+      "source": "global_jobs",
+      "country": "AU",
+      "error": "CDQO AFVIST: Walkerscott Co (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:56.521795Z",
+      "source": "global_jobs",
+      "country": "AU",
+      "error": "CDQO AFVIST: Casestudies Com (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:56.523140Z",
+      "source": "global_jobs",
+      "country": "AU",
+      "error": "CDQO AFVIST: Australdynamics Com (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:56.524521Z",
+      "source": "global_jobs",
+      "country": "AU",
+      "error": "CDQO AFVIST: Dynamics 365 Business Central (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:56.525883Z",
+      "source": "global_jobs",
+      "country": "AU",
+      "error": "CDQO AFVIST: Netinfluencer Com (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:56.527262Z",
+      "source": "global_jobs",
+      "country": "AU",
+      "error": "CDQO AFVIST: Nexon Com Au (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:56.528540Z",
+      "source": "global_jobs",
+      "country": "AU",
+      "error": "CDQO AFVIST: Fenwick Com Au (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:13:56.529931Z",
+      "source": "global_jobs",
+      "country": "AU",
+      "error": "CDQO AFVIST: Dynamicssmartz Com (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:01.633639Z",
+      "source": "global_jobs",
+      "country": "JP",
+      "error": "CDQO AFVIST: Hitachi Solutions Co Jp (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:01.634657Z",
+      "source": "global_jobs",
+      "country": "JP",
+      "error": "CDQO AFVIST: Panasonic Com (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:01.635837Z",
+      "source": "global_jobs",
+      "country": "JP",
+      "error": "CDQO AFVIST: Jptokyo Co Jp (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:01.636761Z",
+      "source": "global_jobs",
+      "country": "JP",
+      "error": "CDQO AFVIST: Jbs Co Jp (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:01.637621Z",
+      "source": "global_jobs",
+      "country": "JP",
+      "error": "CDQO AFVIST: NAV-RETAIL | \u5bcc\u58eb\u30d5\u30a4\u30eb\u30e0PBC\u682a\u5f0f\u4f1a\u793e (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:01.639708Z",
+      "source": "global_jobs",
+      "country": "JP",
+      "error": "CDQO AFVIST: News Mynavi Jp (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:01.641049Z",
+      "source": "global_jobs",
+      "country": "JP",
+      "error": "CDQO AFVIST: Dynamics365 Customer Service\u306e\u57fa\u672c\u64cd\u4f5c\u3068\u9867\u5ba2\u5bfe\u5fdc\u4f8b (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:01.642167Z",
+      "source": "global_jobs",
+      "country": "JP",
+      "error": "CDQO AFVIST: Nsk Japan Co Jp (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:01.643187Z",
+      "source": "global_jobs",
+      "country": "JP",
+      "error": "CDQO AFVIST: Calsoft Co Jp (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:01.644248Z",
+      "source": "global_jobs",
+      "country": "JP",
+      "error": "CDQO AFVIST: Planningpme Jp (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:09.213213Z",
+      "source": "global_jobs",
+      "country": "KR",
+      "error": "CDQO AFVIST: Framework Lens Com (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:09.214733Z",
+      "source": "global_jobs",
+      "country": "KR",
+      "error": "CDQO AFVIST: Academic Naver Com (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:09.216280Z",
+      "source": "global_jobs",
+      "country": "KR",
+      "error": "CDQO AFVIST: Dynamics365 Co Kr (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:09.217675Z",
+      "source": "global_jobs",
+      "country": "KR",
+      "error": "CDQO AFVIST: Deex Co Kr (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:09.220056Z",
+      "source": "global_jobs",
+      "country": "KR",
+      "error": "CDQO AFVIST: About DEEX Korea \ub515\uc2a4\ucf54\ub9ac\uc544\ub97c \ub9d0\ud558\ub2e4 (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:09.221461Z",
+      "source": "global_jobs",
+      "country": "KR",
+      "error": "CDQO AFVIST: MicrosoftBusinessCentralERP for Growing Businesses (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:09.223053Z",
+      "source": "global_jobs",
+      "country": "KR",
+      "error": "CDQO AFVIST: MicrosoftDynamics365 \uc804\ubb38 \ucee8\uc124\ud305 (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:09.224661Z",
+      "source": "global_jobs",
+      "country": "KR",
+      "error": "CDQO AFVIST: AXI4CNS ERP (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:09.226174Z",
+      "source": "global_jobs",
+      "country": "KR",
+      "error": "CDQO AFVIST: Finance Naver Com (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:09.227812Z",
+      "source": "global_jobs",
+      "country": "KR",
+      "error": "CDQO AFVIST: \uc6b0\ub9ac \ud68c\uc0ac\uc5d0 \ub9de\ub294 ERP \uc2dc\uc2a4\ud15c\uc740? (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:17.794070Z",
+      "source": "global_jobs",
+      "country": "NZ",
+      "error": "CDQO AFVIST: Walkerscott Co (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:17.795439Z",
+      "source": "global_jobs",
+      "country": "NZ",
+      "error": "CDQO AFVIST: Erp365 Nz (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:17.797231Z",
+      "source": "global_jobs",
+      "country": "NZ",
+      "error": "CDQO AFVIST: Dynamicssmartz Com (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:17.798487Z",
+      "source": "global_jobs",
+      "country": "NZ",
+      "error": "CDQO AFVIST: Concettolabs Com (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:17.799861Z",
+      "source": "global_jobs",
+      "country": "NZ",
+      "error": "CDQO AFVIST: Dynamics 365BusinessCentralSpecialists (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:17.801319Z",
+      "source": "global_jobs",
+      "country": "NZ",
+      "error": "CDQO AFVIST: StrategicBusinessCentralExpertise (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:17.802664Z",
+      "source": "global_jobs",
+      "country": "NZ",
+      "error": "CDQO AFVIST: Cloud Collective Co Nz (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:17.803869Z",
+      "source": "global_jobs",
+      "country": "NZ",
+      "error": "CDQO AFVIST: Deltainsights Solutions (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:17.805115Z",
+      "source": "global_jobs",
+      "country": "NZ",
+      "error": "CDQO AFVIST: Bestcrmsoftware Com (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:17.806291Z",
+      "source": "global_jobs",
+      "country": "NZ",
+      "error": "CDQO AFVIST: erp365 Limited (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:30.572043Z",
+      "source": "global_jobs",
+      "country": "ZA",
+      "error": "CDQO AFVIST: CaseStudies (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:30.573283Z",
+      "source": "global_jobs",
+      "country": "ZA",
+      "error": "CDQO AFVIST: Za Mintgroup Net (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:30.574818Z",
+      "source": "global_jobs",
+      "country": "ZA",
+      "error": "CDQO AFVIST: Strategix Uk (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:30.576520Z",
+      "source": "global_jobs",
+      "country": "ZA",
+      "error": "CDQO AFVIST: Strategix Co Za (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:30.577389Z",
+      "source": "global_jobs",
+      "country": "ZA",
+      "error": "CDQO AFVIST: Casestudies Com (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:30.578450Z",
+      "source": "global_jobs",
+      "country": "ZA",
+      "error": "CDQO AFVIST: Just Dynamics Co Za (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:30.579456Z",
+      "source": "global_jobs",
+      "country": "ZA",
+      "error": "CDQO AFVIST: Astral Co Za (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:30.580737Z",
+      "source": "global_jobs",
+      "country": "ZA",
+      "error": "CDQO AFVIST: Brightpointinfotech Com (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:30.581779Z",
+      "source": "global_jobs",
+      "country": "ZA",
+      "error": "CDQO AFVIST: Dynamicsconsultingafrica Com (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:30.582833Z",
+      "source": "global_jobs",
+      "country": "ZA",
+      "error": "CDQO AFVIST: Correlative Co Za (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:35.368776Z",
+      "source": "global_jobs",
+      "country": "BR",
+      "error": "CDQO AFVIST: CasosdeSucesso | NAV | AX (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:35.370316Z",
+      "source": "global_jobs",
+      "country": "BR",
+      "error": "CDQO AFVIST: EstudosdeCaso- Casoteca (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:35.371774Z",
+      "source": "global_jobs",
+      "country": "BR",
+      "error": "CDQO AFVIST: Planningpme Pt (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:35.372956Z",
+      "source": "global_jobs",
+      "country": "BR",
+      "error": "CDQO AFVIST: CASE STUDIES (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:35.374722Z",
+      "source": "global_jobs",
+      "country": "BR",
+      "error": "CDQO AFVIST: Community Dynamics Com (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:35.376043Z",
+      "source": "global_jobs",
+      "country": "BR",
+      "error": "CDQO AFVIST: Cadia Consulting Com Br (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:35.377372Z",
+      "source": "global_jobs",
+      "country": "BR",
+      "error": "CDQO AFVIST: Fenixconsultoria Com (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:35.378652Z",
+      "source": "global_jobs",
+      "country": "BR",
+      "error": "CDQO AFVIST: Cadia Com Br (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:35.379760Z",
+      "source": "global_jobs",
+      "country": "BR",
+      "error": "CDQO AFVIST: Cadia Consulting Com (ikke bekr\u00e6ftet NAV)"
+    },
+    {
+      "timestamp": "2026-04-02T15:14:35.380858Z",
+      "source": "global_jobs",
+      "country": "BR",
+      "error": "CDQO AFVIST: Businesscentralbrasil Com Br (ikke bekr\u00e6ftet NAV)"
+    }
+  ]
 }

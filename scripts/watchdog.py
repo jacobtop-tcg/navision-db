@@ -13,6 +13,7 @@ import subprocess
 import sys
 from datetime import datetime
 from pathlib import Path
+from time import sleep
 
 SCRIPT_DIR = Path(__file__).parent.resolve()
 WORKSPACE = SCRIPT_DIR.parent
@@ -65,6 +66,52 @@ def check_searxng() -> bool:
     except Exception as e:
         log(f"❌ SearXNG: Unreachable - {e}")
         return False
+
+def check_streamlit() -> bool:
+    """Check if Streamlit dashboard is running"""
+    try:
+        import requests
+        resp = requests.get('http://127.0.0.1:8501', timeout=10)
+        if resp.status_code == 200:
+            log(f"✅ Streamlit: Running (HTTP {resp.status_code})")
+            return True
+        else:
+            log(f"❌ Streamlit: Unhealthy (HTTP {resp.status_code})")
+            return False
+    except Exception as e:
+        log(f"❌ Streamlit: Unreachable - {e}")
+        return False
+
+def check_streamlit() -> bool:
+    """Check if Streamlit dashboard is running and healthy"""
+    try:
+        import requests
+        resp = requests.get('http://127.0.0.1:8501', timeout=10)
+        if resp.status_code == 200:
+            log(f"✅ Streamlit: Healthy (HTTP {resp.status_code})")
+            return True
+        else:
+            log(f"❌ Streamlit: Unhealthy (HTTP {resp.status_code})")
+            return False
+    except Exception as e:
+        log(f"❌ Streamlit: Unreachable - {e}")
+        return False
+
+def restart_streamlit():
+    """Restart Streamlit dashboard"""
+    log("🔄 Restarting Streamlit...")
+    
+    # Kill existing
+    subprocess.run(['pkill', '-f', 'streamlit run streamlit_app.py'], capture_output=True)
+    
+    # Start new
+    navision_dir = WORKSPACE / 'navision-db'
+    if navision_dir.exists():
+        nohup_cmd = f"cd {navision_dir} && nohup streamlit run streamlit_app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true > logs/streamlit.out 2>&1 &"
+        subprocess.run(nohup_cmd, shell=True)
+        log("✅ Streamlit restarted (port 8501)")
+    else:
+        log("❌ Streamlit: Directory not found")
 
 def check_database_growth() -> bool:
     """Check if database is growing (not stuck)"""
@@ -145,6 +192,21 @@ def restart_searxng():
     
     log("✅ SearXNG restarted")
 
+def restart_streamlit():
+    """Restart Streamlit dashboard"""
+    log("🔄 Restarting Streamlit...")
+    
+    # Kill existing
+    subprocess.run(['pkill', '-f', 'streamlit run streamlit_app.py'], capture_output=True)
+    sleep(2)  # Wait for port to be released
+    
+    # Start new
+    navision_dir = WORKSPACE / 'navision-db'
+    nohup_cmd = f"cd {navision_dir} && nohup streamlit run streamlit_app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true > logs/streamlit.out 2>&1 &"
+    subprocess.run(nohup_cmd, shell=True)
+    
+    log("✅ Streamlit restarted")
+
 def main():
     log("=" * 60)
     log("WATCHDOG CHECK START")
@@ -158,6 +220,10 @@ def main():
     # Check daemon
     if not check_process('Daemon', 'daemon-247.py'):
         issues.append('daemon')
+    
+    # Check Streamlit dashboard
+    if not check_streamlit():
+        issues.append('streamlit')
     
     # Check scraper (should be running or recently completed)
     if not check_process('Scraper', 'scraper.py --auto'):
@@ -175,6 +241,10 @@ def main():
     if 'daemon' in issues:
         log("⚠️  Daemon is down - attempting restart...")
         restart_daemon()
+    
+    if 'streamlit' in issues:
+        log("⚠️  Streamlit is down - attempting restart...")
+        restart_streamlit()
     
     if 'database_stuck' in issues:
         log("⚠️  Database not growing - may be stuck")

@@ -2,48 +2,144 @@
   "pending_sources": [
     {
       "source": "theirstack",
-      "countries": ["DK", "SE", "NO", "FI", "DE", "UK", "NL", "BE", "US", "FR", "IT", "ES", "PL", "IN", "CA", "AU", "JP", "KR", "NZ", "ZA", "BR", "MX", "AR", "CL", "CO", "PE"],
+      "countries": [
+        "DK",
+        "SE",
+        "NO",
+        "FI",
+        "DE",
+        "UK",
+        "NL",
+        "BE",
+        "US",
+        "FR",
+        "IT",
+        "ES",
+        "PL",
+        "IN",
+        "CA",
+        "AU",
+        "JP",
+        "KR",
+        "NZ",
+        "ZA",
+        "BR",
+        "MX",
+        "AR",
+        "CL",
+        "CO",
+        "PE"
+      ],
       "priority": 1,
       "repeat": true,
       "notes": "TheirStack - FAKTISKE NAV BRUGERE (tech stack detection)"
     },
     {
       "source": "global_jobs",
-      "countries": ["DK", "SE", "NO", "FI", "DE", "UK", "NL", "BE", "US", "FR", "IT", "ES", "PL", "IN", "CA", "AU", "JP", "KR", "NZ", "ZA", "BR", "MX", "AR", "CL", "CO", "PE"],
+      "countries": [
+        "DK",
+        "SE",
+        "NO",
+        "FI",
+        "DE",
+        "UK",
+        "NL",
+        "BE",
+        "US",
+        "FR",
+        "IT",
+        "ES",
+        "PL",
+        "IN",
+        "CA",
+        "AU",
+        "JP",
+        "KR",
+        "NZ",
+        "ZA",
+        "BR",
+        "MX",
+        "AR",
+        "CL",
+        "CO",
+        "PE"
+      ],
       "priority": 2,
       "repeat": true,
-      "notes": "Job postings - VIRKSOMHEDER der søger NAV folk = de BRUGER NAV (smoking gun!)"
+      "notes": "Job postings - VIRKSOMHEDER der s\u00f8ger NAV folk = de BRUGER NAV (smoking gun!)"
     },
     {
       "source": "case_studies",
-      "countries": ["DK", "SE", "NO", "FI", "DE", "UK", "NL", "BE", "US", "FR", "IT", "ES"],
+      "countries": [
+        "DK",
+        "SE",
+        "NO",
+        "FI",
+        "DE",
+        "UK",
+        "NL",
+        "BE",
+        "US",
+        "FR",
+        "IT",
+        "ES"
+      ],
       "priority": 3,
       "repeat": true,
       "notes": "Case studies - kunder der har implementeret NAV"
     },
     {
       "source": "cepheo",
-      "countries": ["DK", "SE", "NO", "FI", "DE", "UK", "NL", "BE"],
+      "countries": [
+        "DK",
+        "SE",
+        "NO",
+        "FI",
+        "DE",
+        "UK",
+        "NL",
+        "BE"
+      ],
       "priority": 4,
       "repeat": true,
       "notes": "Cepheo - kundelister"
     },
     {
       "source": "partners",
-      "countries": ["DK", "SE", "NO", "FI", "DE", "UK", "NL", "BE", "US"],
+      "countries": [
+        "DK",
+        "SE",
+        "NO",
+        "FI",
+        "DE",
+        "UK",
+        "NL",
+        "BE",
+        "US"
+      ],
       "priority": 5,
       "repeat": true,
       "notes": "Microsoft partners - kundelister"
     },
     {
       "source": "mibuso",
-      "countries": ["DK", "SE", "NO", "FI", "DE", "UK"],
+      "countries": [
+        "DK",
+        "SE",
+        "NO",
+        "FI",
+        "DE",
+        "UK"
+      ],
       "priority": 6,
       "repeat": true,
       "notes": "Mibuso.com - NAV community brugere"
     }
   ],
-  "completed_sources": ["linkedin_people", "linkedin_companies"],
+  "completed_sources": [
+    "linkedin_people",
+    "linkedin_companies"
+  ],
   "last_run": null,
   "total_companies": 1979,
   "status": "running",

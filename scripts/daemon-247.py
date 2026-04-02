@@ -71,7 +71,7 @@ def run_scraper():
             ['python3', str(SCRAPER_DIR / 'scraper.py'), '--auto'],
             capture_output=True,
             text=True,
-            timeout=300,  # 5 min timeout
+            timeout=1800,  # 30 min timeout - øget fra 5 min pga. timeout issues
             cwd=str(SCRAPER_DIR)
         )
         
