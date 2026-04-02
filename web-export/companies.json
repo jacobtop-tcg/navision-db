@@ -585,6 +585,36 @@
     "linkedin": ""
   },
   {
+    "name": "Insightsoftware Com",
+    "country": "FR",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Étudedecas: L'analystedeDynamics NAV permet aux utilisateurs d ...",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "insightsoftware.com",
+    "source_url": "https://insightsoftware.com/fr/customer-stories/bpl-plasma-inc/",
+    "discovered": "2026-04-02T14:53:48.559949Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
+    "name": "navision-db/GLOBAL-EXPANSION-CHANGES.md at master",
+    "country": "FR",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: navision-db/GLOBAL-EXPANSION-CHANGES.md at master - GitHub",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "github.com",
+    "source_url": "https://github.com/jacobtop-tcg/navision-db/blob/master/GLOBAL-EXPANSION-CHANGES.md",
+    "discovered": "2026-04-02T14:53:48.558220Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Workcentrix De",
     "country": "DE",
     "industry": "",
