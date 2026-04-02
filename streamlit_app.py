@@ -103,7 +103,15 @@ def load_data(use_verified=True):
         metadata_response.raise_for_status()
         metadata = metadata_response.json()
         
-        return pd.DataFrame(companies), metadata, data_type
+        # Konverter til DataFrame og omdøb kolonner
+        df = pd.DataFrame(companies)
+        df = df.rename(columns={
+            'company_name': 'name',
+            'confidence_score': 'confidence',
+            'evidence_text': 'evidence'
+        })
+        
+        return df, metadata, data_type
     except Exception as e:
         st.error(f"❌ Fejl: {type(e).__name__}")
         st.error(f"Detaljer: {str(e)}")
