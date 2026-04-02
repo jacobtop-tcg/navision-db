@@ -840,6 +840,26 @@
     "linkedin_url": null
   },
   {
+    "id": 1086902,
+    "company_name": "DynamicsNav( Navision ) leverand\u00f8rer",
+    "country": "DK",
+    "website": "dynamicsmagento.dk",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: DynamicsNav( Navision ) leverand\u00f8rer - DynamicsMagento",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.dynamicsmagento.dk/dynamics-navision-leverandoerer/",
+    "discovered_at": "2026-04-02T19:06:24.006251Z",
+    "created_at": "2026-04-02 19:06:24",
+    "updated_at": "2026-04-02T19:06:24.006254Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": ""
+  },
+  {
     "id": 1086323,
     "company_name": "Dynamicsfanatics Com",
     "country": "SE",
