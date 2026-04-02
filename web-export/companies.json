@@ -585,6 +585,36 @@
     "linkedin": ""
   },
   {
+    "name": "Wat isNavision? [+ Hoe het nu heet]",
+    "country": "NL",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Wat isNavision? [+ Hoe het nu heet] - wsb-solutions.nl",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "wsb-solutions.nl",
+    "source_url": "https://wsb-solutions.nl/begrippenlijst/navision/",
+    "discovered": "2026-04-02T15:03:00.028705Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
+    "name": "Cetastech Com",
+    "country": "SE",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Microsoft Dynamics NAV Implementation: A Complete …",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "cetastech.com",
+    "source_url": "https://cetastech.com/microsoft-dynamics-nav-implementation/",
+    "discovered": "2026-04-02T15:02:17.245732Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Insightsoftware Com",
     "country": "FR",
     "industry": "",
