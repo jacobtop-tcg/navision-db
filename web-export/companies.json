@@ -870,6 +870,36 @@
     "linkedin": ""
   },
   {
+    "name": "Insightdata Be",
+    "country": "BE",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Navision- insightdata.be",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "insightdata.be",
+    "source_url": "https://www.insightdata.be/en/integrations/navision-financial-and-operational-reporting",
+    "discovered": "2026-04-02T22:12:56.795053Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
+    "name": "Elian Solutions Com",
+    "country": "BE",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Productonstudycase- Elian Solutions -NavisionNAV …",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "elian-solutions.com",
+    "source_url": "https://www.elian-solutions.com/references/case-studies/producton-study-case/",
+    "discovered": "2026-04-02T22:12:56.794909Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Sterling Team Com",
     "country": "AR",
     "industry": "",
