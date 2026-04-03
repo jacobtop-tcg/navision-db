@@ -18880,6 +18880,26 @@
     "linkedin_url": null
   },
   {
+    "id": 1127146,
+    "company_name": "Inria Hal Science",
+    "country": "DK",
+    "website": "inria.hal.science",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: The Story ofNavisionandNavisionStat",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://inria.hal.science/hal-01301402v1/document",
+    "discovered_at": "2026-04-03T15:05:26.605685Z",
+    "created_at": "2026-04-03 15:05:26",
+    "updated_at": "2026-04-03T15:05:26.605695Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": ""
+  },
+  {
     "id": 1125028,
     "company_name": "Dynamicssquare Com",
     "country": "NL",
