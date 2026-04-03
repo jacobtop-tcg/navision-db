@@ -18880,6 +18880,26 @@
     "linkedin_url": null
   },
   {
+    "id": 1131321,
+    "company_name": "Planningpme Pt",
+    "country": "BR",
+    "website": "planningpme.pt",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Explore o mundo do Navision e doDynamics365: Um guia completo",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.planningpme.pt/navision-dynamics-365-on-premise-cloud.htm",
+    "discovered_at": "2026-04-03T17:06:10.212942Z",
+    "created_at": "2026-04-03 17:06:10",
+    "updated_at": "2026-04-03T17:06:10.212946Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": ""
+  },
+  {
     "id": 1129005,
     "company_name": "Navision Guide Dk",
     "country": "DK",
