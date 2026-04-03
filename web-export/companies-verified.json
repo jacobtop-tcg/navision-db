@@ -620,6 +620,26 @@
     "linkedin_url": null
   },
   {
+    "id": 1109893,
+    "company_name": "Dynamicssquare Co Uk",
+    "country": "UK",
+    "website": "dynamicssquare.co.uk",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: MicrosoftDynamicsNAV: Navision Support PartnerUK",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.dynamicssquare.co.uk/products/microsoft-dynamics-nav/",
+    "discovered_at": "2026-04-03T06:35:47.768158Z",
+    "created_at": "2026-04-03 06:35:47",
+    "updated_at": "2026-04-03T06:35:47.768159Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": ""
+  },
+  {
     "id": 1108985,
     "company_name": "Dynamicsinternational Com",
     "country": "FR",
