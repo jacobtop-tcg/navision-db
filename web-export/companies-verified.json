@@ -620,6 +620,26 @@
     "linkedin_url": null
   },
   {
+    "id": 1111144,
+    "company_name": "Dynamicssquare Com",
+    "country": "BE",
+    "website": "dynamicssquare.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: What is Microsoft Dynamics NAV?",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.dynamicssquare.com/blog/everything-know-about-microsoft-dynamics-nav/",
+    "discovered_at": "2026-04-03T07:12:02.855000Z",
+    "created_at": "2026-04-03 07:12:02",
+    "updated_at": "2026-04-03T07:12:02.855001Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": ""
+  },
+  {
     "id": 1109893,
     "company_name": "Dynamicssquare Co Uk",
     "country": "UK",
