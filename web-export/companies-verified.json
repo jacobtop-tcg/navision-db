@@ -620,6 +620,26 @@
     "linkedin_url": null
   },
   {
+    "id": 1112679,
+    "company_name": "Digital Experts Com",
+    "country": "DE",
+    "website": "digital-experts.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Navision Support mit \ufe0f Langj\u00e4hriger Erfahrung",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://digital-experts.com/bc/leistungen/navision-support/",
+    "discovered_at": "2026-04-03T07:55:22.222575Z",
+    "created_at": "2026-04-03 07:55:22",
+    "updated_at": "2026-04-03T07:55:22.222580Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": ""
+  },
+  {
     "id": 1111521,
     "company_name": "Sterling Team Com",
     "country": "MX",
