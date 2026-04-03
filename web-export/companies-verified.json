@@ -840,6 +840,26 @@
     "linkedin_url": null
   },
   {
+    "id": 1099550,
+    "company_name": "Sterling Team Com",
+    "country": "PE",
+    "website": "sterling-team.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: What is MicrosoftNavisionERP? An In-Depth Look at Dynamics NAV",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.sterling-team.com/news/en/what-is-microsoft-navision-erp-an-in-depth-look-at-dynamics-nav/",
+    "discovered_at": "2026-04-03T01:22:20.048630Z",
+    "created_at": "2026-04-03 01:22:20",
+    "updated_at": "2026-04-03T01:22:20.048632Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": ""
+  },
+  {
     "id": 1098001,
     "company_name": "Sterling Team Com",
     "country": "CL",
