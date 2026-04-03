@@ -1,9 +1,9 @@
 {
-  "total_companies": 6131,
-  "last_updated": "2026-04-03T01:35:05.937678Z",
+  "total_companies": 6135,
+  "last_updated": "2026-04-03T01:40:09.607426Z",
   "by_confidence": {
     "5": 58,
-    "4": 4704,
+    "4": 4708,
     "3": 1343,
     "1": 26
   },
@@ -30,7 +30,7 @@
     "JP": 40
   },
   "top_sources": {
-    "global_jobs": 4358,
+    "global_jobs": 4362,
     "TheirStack": 178,
     "web_search": 164,
     "theirstack": 162,
@@ -43,6 +43,6 @@
   },
   "date_range": {
     "first": "2026-03-20T18:08:51.494734Z",
-    "latest": "2026-04-03T01:30:18.287525Z"
+    "latest": "2026-04-03T01:39:35.146139Z"
   }
 }
