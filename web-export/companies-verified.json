@@ -620,6 +620,26 @@
     "linkedin_url": null
   },
   {
+    "id": 1115118,
+    "company_name": "Naviators Dk",
+    "country": "DK",
+    "website": "naviators.dk",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Implementering og r\u00e5dgivning af l\u00f8sninger baseret p\u00e5 Dynamics NAV",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://naviators.dk/",
+    "discovered_at": "2026-04-03T09:09:09.168554Z",
+    "created_at": "2026-04-03 09:09:09",
+    "updated_at": "2026-04-03T09:09:09.168554Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": ""
+  },
+  {
     "id": 1112679,
     "company_name": "Digital Experts Com",
     "country": "DE",
