@@ -672,6 +672,27 @@
     "lead_type": "upgrade"
   },
   {
+    "id": 1083939,
+    "company_name": "Dynamicsfanatics Com",
+    "country": "FI",
+    "website": "dynamicsfanatics.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: MicrosoftNavisionEnd of Life: What Your Business Should Do Next",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.dynamicsfanatics.com/post/microsoft-navision-end-of-life-what-it-means-for-your-business-next-steps",
+    "discovered_at": "2026-04-04T19:32:46.471999Z",
+    "created_at": "2026-04-04 19:32:46",
+    "updated_at": "2026-04-04T19:32:46.472010Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": null
+  },
+  {
     "id": 1083716,
     "company_name": "Sterling Team Com",
     "country": "BR",
