@@ -600,6 +600,21 @@
     "linkedin": ""
   },
   {
+    "name": "Inria Hal Science",
+    "country": "DK",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: The Story ofNavisionandNavisionStat",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "inria.hal.science",
+    "source_url": "https://inria.hal.science/hal-01301402v1/document",
+    "discovered": "2026-04-04T21:41:53.468489Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "MicrosoftDynamicsNav- CONSULTORÍA NAVISION",
     "country": "CO",
     "industry": "",
