@@ -600,6 +600,36 @@
     "linkedin": ""
   },
   {
+    "name": "Consultorianavision Com",
+    "country": "ES",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: MicrosoftDynamicsNav- CONSULTORÍA NAVISION",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "consultorianavision.com",
+    "source_url": "https://www.consultorianavision.com/",
+    "discovered": "2026-04-04T21:52:23.579359Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
+    "name": "Microsoft Dynamics NAV: ERP per PMI",
+    "country": "IT",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Microsoft Dynamics NAV: ERP per PMI - Serinf",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "serinf.it",
+    "source_url": "https://www.serinf.it/software-pmi/erp/microsoft-dynamics-nav/",
+    "discovered": "2026-04-04T21:52:16.441032Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Inria Hal Science",
     "country": "DK",
     "industry": "",
