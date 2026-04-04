@@ -18880,6 +18880,26 @@
     "linkedin_url": null
   },
   {
+    "id": 1166682,
+    "company_name": "Dynamicssquare Com Au",
+    "country": "DK",
+    "website": "dynamicssquare.com.au",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Microsoft DynamicsNavision: A Comprehensive Guide",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.dynamicssquare.com.au/blog/dynamics-nav/",
+    "discovered_at": "2026-04-04T10:06:53.370774Z",
+    "created_at": "2026-04-04 10:06:53",
+    "updated_at": "2026-04-04T10:06:53.370775Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": ""
+  },
+  {
     "id": 1165745,
     "company_name": "Microsoft Dynamics NAV",
     "country": "NO",
