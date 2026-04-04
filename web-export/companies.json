@@ -600,6 +600,36 @@
     "linkedin": ""
   },
   {
+    "name": "Dailygrid Net",
+    "country": "KR",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: [Case Study]한국야금, Microsoft Dynamics NAV 구축사례",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "dailygrid.net",
+    "source_url": "http://www.dailygrid.net/news/articleView.html?idxno=16194",
+    "discovered": "2026-04-04T19:34:20.378036Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
+    "name": "Dynamicssquare Com",
+    "country": "NL",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: What is Microsoft Dynamics NAV?",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "dynamicssquare.com",
+    "source_url": "https://www.dynamicssquare.com/blog/everything-know-about-microsoft-dynamics-nav/",
+    "discovered": "2026-04-04T19:33:10.447371Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Dynamicsfanatics Com",
     "country": "FI",
     "industry": "",
