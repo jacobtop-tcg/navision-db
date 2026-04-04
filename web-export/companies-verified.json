@@ -18880,6 +18880,26 @@
     "linkedin_url": null
   },
   {
+    "id": 1158361,
+    "company_name": "Reuffel De",
+    "country": "DE",
+    "website": "reuffel.de",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Ein praxisorientierter Einstieg in MicrosoftNavision",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.reuffel.de/ebooks/kostenlos_ger/detail/ISBN-9783639113280/Schmid-Tobias/Ein-praxisorientierter-Einstieg-in-Microsoft-Navision",
+    "discovered_at": "2026-04-04T06:12:39.390069Z",
+    "created_at": "2026-04-04 06:12:39",
+    "updated_at": "2026-04-04T06:12:39.390073Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": ""
+  },
+  {
     "id": 1156121,
     "company_name": "Dynamicsfanatics Com",
     "country": "NL",
