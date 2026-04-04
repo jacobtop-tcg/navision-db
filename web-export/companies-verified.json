@@ -18880,6 +18880,26 @@
     "linkedin_url": null
   },
   {
+    "id": 1181859,
+    "company_name": "Dynamics365Partners Es",
+    "country": "ES",
+    "website": "dynamics365partners.es",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Si est\u00e1s buscando un Partner Navison te ayudamos a encontrar a la \u2026",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://dynamics365partners.es/partner-navision/",
+    "discovered_at": "2026-04-04T17:07:09.254874Z",
+    "created_at": "2026-04-04 17:07:09",
+    "updated_at": "2026-04-04T17:07:09.254875Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": ""
+  },
+  {
     "id": 1181836,
     "company_name": "Dynamicsfanatics Com",
     "country": "US",
