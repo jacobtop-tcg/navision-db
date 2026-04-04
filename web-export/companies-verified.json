@@ -18880,6 +18880,26 @@
     "linkedin_url": null
   },
   {
+    "id": 1148210,
+    "company_name": "CNPJ: 59.993.070/0001-30 -NavisionTecnologia Ltda",
+    "country": "BR",
+    "website": "informecadastral.com.br",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: CNPJ: 59.993.070/0001-30 -NavisionTecnologia Ltda - Informe Cadastral",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.informecadastral.com.br/cnpj/navision-tecnologia-ltda-59993070000130",
+    "discovered_at": "2026-04-04T01:23:28.591402Z",
+    "created_at": "2026-04-04 01:23:28",
+    "updated_at": "2026-04-04T01:23:28.591403Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": ""
+  },
+  {
     "id": 1147890,
     "company_name": "Dynamicsfanatics Com",
     "country": "CO",
