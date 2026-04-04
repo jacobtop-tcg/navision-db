@@ -18880,6 +18880,26 @@
     "linkedin_url": null
   },
   {
+    "id": 1162665,
+    "company_name": "Microsoft Dynamics NAV (Navision)",
+    "country": "CA",
+    "website": "endeavoursolutions.ca",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Microsoft Dynamics NAV (Navision) - Endeavour \u2026",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.endeavoursolutions.ca/NAV/",
+    "discovered_at": "2026-04-04T08:12:16.325168Z",
+    "created_at": "2026-04-04 08:12:16",
+    "updated_at": "2026-04-04T08:12:16.325171Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": ""
+  },
+  {
     "id": 1162339,
     "company_name": "Rejestr Io",
     "country": "PL",
