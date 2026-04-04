@@ -18880,6 +18880,26 @@
     "linkedin_url": null
   },
   {
+    "id": 1179556,
+    "company_name": "MicrosoftDynamicsNAVPartner",
+    "country": "US",
+    "website": "saglobal.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: MicrosoftDynamicsNAVPartner - sa.global US",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.saglobal.com/en-us/microsoft-business-applications/erp-and-crm-apps/microsoft-dynamics-navision-erp-implementation-and-support-partner.html",
+    "discovered_at": "2026-04-04T16:03:16.733735Z",
+    "created_at": "2026-04-04 16:03:16",
+    "updated_at": "2026-04-04T16:03:16.733740Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": ""
+  },
+  {
     "id": 1178971,
     "company_name": "O que \u00e9 o MicrosoftNavision(NAV)?",
     "country": "BR",
