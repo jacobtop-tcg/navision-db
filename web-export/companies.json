@@ -27960,6 +27960,21 @@
     "linkedin": ""
   },
   {
+    "name": "Microsoft Dynamics NAV",
+    "country": "DK",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Microsoft Dynamics NAV - samler økonomien i ét system - Inforevision",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "inforevision.dk",
+    "source_url": "https://inforevision.dk/it/erp-systemer/microsoft-dynamics-nav/",
+    "discovered": "2026-04-04T00:49:38.976061Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Sterling Team Com",
     "country": "CO",
     "industry": "",

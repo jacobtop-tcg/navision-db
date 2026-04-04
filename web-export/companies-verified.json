@@ -18880,6 +18880,26 @@
     "linkedin_url": null
   },
   {
+    "id": 1146967,
+    "company_name": "Microsoft Dynamics NAV",
+    "country": "DK",
+    "website": "inforevision.dk",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Microsoft Dynamics NAV - samler \u00f8konomien i \u00e9t system - Inforevision",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://inforevision.dk/it/erp-systemer/microsoft-dynamics-nav/",
+    "discovered_at": "2026-04-04T00:49:38.976061Z",
+    "created_at": "2026-04-04 00:49:38",
+    "updated_at": "2026-04-04T00:49:38.976062Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": ""
+  },
+  {
     "id": 1139290,
     "company_name": "Sterling Team Com",
     "country": "CO",
