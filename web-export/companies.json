@@ -27960,6 +27960,21 @@
     "linkedin": ""
   },
   {
+    "name": "Microsoft Dynamics NAV",
+    "country": "NO",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Microsoft Dynamics NAV - HG-Gruppen",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "hg-gruppen.no",
+    "source_url": "https://hg-gruppen.no/microsoft-dynamics-nav-2/",
+    "discovered": "2026-04-04T09:38:25.213921Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Microsoft Dynamics NAV (Navision)",
     "country": "CA",
     "industry": "",
