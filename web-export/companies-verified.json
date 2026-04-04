@@ -18880,6 +18880,26 @@
     "linkedin_url": null
   },
   {
+    "id": 1159492,
+    "company_name": "Microsoft Dynamics Nav",
+    "country": "PE",
+    "website": "consultorianavision.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Microsoft Dynamics Nav - CONSULTOR\u00cdANAVISION- EVOTEC",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.consultorianavision.com/",
+    "discovered_at": "2026-04-04T06:42:53.391542Z",
+    "created_at": "2026-04-04 06:42:53",
+    "updated_at": "2026-04-04T06:42:53.391546Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": ""
+  },
+  {
     "id": 1159408,
     "company_name": "MicrosoftDynamicsNAV(Navision)",
     "country": "PL",
