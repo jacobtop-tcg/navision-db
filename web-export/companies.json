@@ -27960,6 +27960,36 @@
     "linkedin": ""
   },
   {
+    "name": "Rejestr Io",
+    "country": "PL",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: NAVISION.PL | Rejestr.io",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "rejestr.io",
+    "source_url": "https://rejestr.io/krs/761201",
+    "discovered": "2026-04-04T08:02:56.428002Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
+    "name": "NAVISION- Microsoft Dynamics NAV",
+    "country": "PL",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: NAVISION- Microsoft Dynamics NAV - opis systemu - wdrożenia i serwis",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "mediadat.pl",
+    "source_url": "https://mediadat.pl/navision.html",
+    "discovered": "2026-04-04T08:02:56.427846Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Microsoft Dynamics Nav",
     "country": "PE",
     "industry": "",
