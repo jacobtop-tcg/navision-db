@@ -672,6 +672,27 @@
     "lead_type": "upgrade"
   },
   {
+    "id": 1081143,
+    "company_name": "Ugma Com Mx",
+    "country": "MX",
+    "website": "ugma.com.mx",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: \u00bfQu\u00e9 es Microsoft Dynamics NAV y por qu\u00e9 tuempresalo necesita?",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://ugma.com.mx/que-es-microsoft-dynamics-nav-y-por-que-tu-empresa-lo-necesita/",
+    "discovered_at": "2026-04-04T18:12:53.988095Z",
+    "created_at": "2026-04-04 18:12:53",
+    "updated_at": "2026-04-04T18:12:53.988097Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": null
+  },
+  {
     "id": 1081000,
     "company_name": "Connectify Dk",
     "country": "DK",
