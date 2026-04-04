@@ -18880,6 +18880,26 @@
     "linkedin_url": null
   },
   {
+    "id": 1178971,
+    "company_name": "O que \u00e9 o MicrosoftNavision(NAV)?",
+    "country": "BR",
+    "website": "imwechsel.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: O que \u00e9 o MicrosoftNavision(NAV)? - Software de gest\u00e3o ... - Wechsel",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://imwechsel.com/pt/o-que-e-navision/",
+    "discovered_at": "2026-04-04T15:46:35.265495Z",
+    "created_at": "2026-04-04 15:46:35",
+    "updated_at": "2026-04-04T15:46:35.265499Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": ""
+  },
+  {
     "id": 1172324,
     "company_name": "Atpress Ne Jp",
     "country": "JP",
