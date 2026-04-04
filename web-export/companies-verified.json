@@ -18880,6 +18880,26 @@
     "linkedin_url": null
   },
   {
+    "id": 1159408,
+    "company_name": "MicrosoftDynamicsNAV(Navision)",
+    "country": "PL",
+    "website": "cstore.pl",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: MicrosoftDynamicsNAV(Navision) - platforma B2B | CStore",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.cstore.pl/sprzedaz-hurtowa-b2b/microsoft-dynamics-nav/",
+    "discovered_at": "2026-04-04T06:41:23.007653Z",
+    "created_at": "2026-04-04 06:41:23",
+    "updated_at": "2026-04-04T06:41:23.007655Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": ""
+  },
+  {
     "id": 1158361,
     "company_name": "Reuffel De",
     "country": "DE",
