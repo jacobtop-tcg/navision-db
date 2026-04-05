@@ -600,6 +600,21 @@
     "linkedin": ""
   },
   {
+    "name": "NavExperts",
+    "country": "NL",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: NavExperts - Dé ERP expert op gebied van Microsoft Dynamics",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "navexperts.nl",
+    "source_url": "https://www.navexperts.nl/",
+    "discovered": "2026-04-05T14:15:11.834798Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Wat isNavision? [+ Hoe het nu heet]",
     "country": "NL",
     "industry": "",

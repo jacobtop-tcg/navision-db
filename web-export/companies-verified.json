@@ -672,6 +672,27 @@
     "lead_type": "upgrade"
   },
   {
+    "id": 1115561,
+    "company_name": "NavExperts",
+    "country": "NL",
+    "website": "navexperts.nl",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: NavExperts - D\u00e9 ERP expert op gebied van Microsoft Dynamics",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.navexperts.nl/",
+    "discovered_at": "2026-04-05T14:15:11.834798Z",
+    "created_at": "2026-04-05 14:15:11",
+    "updated_at": "2026-04-05T14:15:11.834801Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": null
+  },
+  {
     "id": 1115328,
     "company_name": "Wat isNavision? [+ Hoe het nu heet]",
     "country": "NL",
