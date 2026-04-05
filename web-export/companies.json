@@ -600,6 +600,21 @@
     "linkedin": ""
   },
   {
+    "name": "Dynamicsinternational Com",
+    "country": "FR",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Microsoft Dynamics NAV -Navision- ERP international",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "dynamicsinternational.com",
+    "source_url": "https://dynamicsinternational.com/solutions/dynamics-nav/",
+    "discovered": "2026-04-05T05:43:25.454906Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Profikurs Microsoft Dynamics NAV: Einführung",
     "country": "DE",
     "industry": "",
