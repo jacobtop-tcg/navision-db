@@ -2565,21 +2565,6 @@
     "linkedin": ""
   },
   {
-    "name": "#ERP",
-    "country": "PL",
-    "industry": "Market Research",
-    "evidence_type": "technology_stack",
-    "evidence": "Listed on TheirStack as Microsoft Dynamics NAV user",
-    "confidence": 4,
-    "source": "theirstack",
-    "website": "",
-    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
-    "discovered": "2026-04-04T17:31:32.721220Z",
-    "employees": "1",
-    "address": "",
-    "linkedin": ""
-  },
-  {
     "name": "Centrufficio SpA - CUFMilano",
     "country": "IT",
     "industry": "Office Furniture and Fixtures Manufacturing",
