@@ -600,6 +600,36 @@
     "linkedin": ""
   },
   {
+    "name": "Microsoft Dynamics NAV (Navision)",
+    "country": "CA",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Microsoft Dynamics NAV (Navision) - Endeavour …",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "endeavoursolutions.ca",
+    "source_url": "https://www.endeavoursolutions.ca/NAV/",
+    "discovered": "2026-04-05T15:57:02.501461Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
+    "name": "Navision is end of live",
+    "country": "NL",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Navision is end of live - wat zijn de gevolgen? - bluace.nl",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "bluace.nl",
+    "source_url": "https://bluace.nl/nieuws/gevolgen-einde-microsoft-navision/",
+    "discovered": "2026-04-05T15:56:11.252146Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Partner ERPNavisionSantiago Microsoft Dynamics NAV ...",
     "country": "CL",
     "industry": "",
