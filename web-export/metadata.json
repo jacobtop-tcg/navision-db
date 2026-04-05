@@ -1,9 +1,9 @@
 {
-  "total_companies": 1840,
-  "last_updated": "2026-04-05T08:07:25.350645Z",
+  "total_companies": 1841,
+  "last_updated": "2026-04-05T08:12:27.070472Z",
   "by_confidence": {
     "5": 40,
-    "4": 810,
+    "4": 811,
     "3": 968,
     "1": 22
   },
@@ -19,7 +19,7 @@
     "PL": 71,
     "ZA": 60,
     "BR": 57,
-    "ES": 48,
+    "ES": 49,
     "CA": 46,
     "BE": 43,
     "FR": 43,
@@ -30,7 +30,7 @@
     "KR": 32
   },
   "top_sources": {
-    "global_jobs": 514,
+    "global_jobs": 515,
     "TheirStack": 172,
     "theirstack": 162,
     "theirstack_nordic_batch1": 69,
@@ -43,6 +43,6 @@
   },
   "date_range": {
     "first": "2026-03-20T18:08:51.494734Z",
-    "latest": "2026-04-05T07:59:22.540031Z"
+    "latest": "2026-04-05T08:08:28.759354Z"
   }
 }
