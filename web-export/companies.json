@@ -600,6 +600,21 @@
     "linkedin": ""
   },
   {
+    "name": "Vision Data",
+    "country": "DK",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Vision Data - Rådgivning i Dynamics NAV, lagerstyring og ...",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "visiondata.dk",
+    "source_url": "https://www.visiondata.dk/",
+    "discovered": "2026-04-05T00:47:56.406091Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Microsoft Dynamics NAV (antesNavision)",
     "country": "PE",
     "industry": "",
