@@ -600,6 +600,36 @@
     "linkedin": ""
   },
   {
+    "name": "Dynamics365Partner De",
+    "country": "DE",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Vier Gründe, Ihr NAVISION hinter sich zu lassen -Dynamics365 Partner",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "dynamics365partner.de",
+    "source_url": "https://dynamics365partner.de/blog/vier-gruende-ihr-navision-hinter-sich-zu-lassen/",
+    "discovered": "2026-04-05T04:19:32.495317Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
+    "name": "Obtain Dk",
+    "country": "DK",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: MicrosoftNavision/NAV |ERP-Software til mindre virksomheder",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "obtain.dk",
+    "source_url": "https://obtain.dk/dynamics-nav/",
+    "discovered": "2026-04-05T04:19:03.556884Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Microsoft Dynamics NAV Implementation |NavisionERP",
     "country": "SE",
     "industry": "",
