@@ -600,6 +600,21 @@
     "linkedin": ""
   },
   {
+    "name": "Naviators Dk",
+    "country": "DK",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Implementering og rådgivning af løsninger baseret på Dynamics NAV",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "naviators.dk",
+    "source_url": "https://naviators.dk/",
+    "discovered": "2026-04-05T11:45:41.134441Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "#ERP",
     "country": "PL",
     "industry": "Market Research",
