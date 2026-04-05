@@ -672,6 +672,27 @@
     "lead_type": "upgrade"
   },
   {
+    "id": 1121750,
+    "company_name": "The 10 Best Wedding Venues in Montgomery",
+    "country": "DK",
+    "website": "weddingwire.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: The 10 Best Wedding Venues in Montgomery - WeddingWire",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.weddingwire.com/c/al-alabama/montgomery-dothan/wedding-venues/698-11-rca.html",
+    "discovered_at": "2026-04-05T18:11:48.313478Z",
+    "created_at": "2026-04-05 18:11:48",
+    "updated_at": "2026-04-05T18:11:48.313483Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": null
+  },
+  {
     "id": 1118206,
     "company_name": "Microsoft Dynamics NAV (Navision)",
     "country": "CA",
