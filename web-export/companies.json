@@ -600,6 +600,36 @@
     "linkedin": ""
   },
   {
+    "name": "Microsoft Dynamics NAV 4",
+    "country": "AU",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Microsoft Dynamics NAV 4 - Microsoft Dynamics Partner …",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "sandynamics.com",
+    "source_url": "https://sandynamics.com/en-au/microsoft-dynamics-nav4/",
+    "discovered": "2026-04-05T18:23:36.744510Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
+    "name": "Austral Dynamics",
+    "country": "AU",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Austral Dynamics - Microsoft Dynamics NAV ERP Software at ... - LinkedIn",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "au.linkedin.com",
+    "source_url": "https://au.linkedin.com/in/austral-dynamics-229a1024",
+    "discovered": "2026-04-05T18:23:36.744376Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "The 10 Best Wedding Venues in Montgomery",
     "country": "DK",
     "industry": "",
