@@ -600,6 +600,36 @@
     "linkedin": ""
   },
   {
+    "name": "Consultorianavision Com",
+    "country": "CO",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: MicrosoftDynamicsNav- CONSULTORÍA NAVISION",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "consultorianavision.com",
+    "source_url": "https://www.consultorianavision.com/",
+    "discovered": "2026-04-05T09:22:38.810797Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
+    "name": "Eynasofteam Com",
+    "country": "MX",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: DeNavision2.6 al control totaldesu plantade…",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "eynasofteam.com",
+    "source_url": "https://www.eynasofteam.com/grupo-torre-digitaliza-su-fabrica-centenaria/",
+    "discovered": "2026-04-05T09:22:16.236183Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Leyesytecnologia Com",
     "country": "ES",
     "industry": "",
