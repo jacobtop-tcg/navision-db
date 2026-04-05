@@ -600,6 +600,21 @@
     "linkedin": ""
   },
   {
+    "name": "Correlative Co Za",
+    "country": "ZA",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Microsoft Dynamics NAV | Correlative Solutions |SouthAfrica",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "correlative.co.za",
+    "source_url": "https://correlative.co.za/microsoft-dynamics-nav/",
+    "discovered": "2026-04-05T13:20:19.798799Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Encorebusiness Com",
     "country": "US",
     "industry": "",
