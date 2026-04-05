@@ -672,6 +672,27 @@
     "lead_type": "upgrade"
   },
   {
+    "id": 1115871,
+    "company_name": "Navision| TCServi",
+    "country": "PE",
+    "website": "tcservi.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Navision| TCServi - Microsoft Official Partner",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://tcservi.com/navision/",
+    "discovered_at": "2026-04-05T14:25:47.858920Z",
+    "created_at": "2026-04-05 14:25:47",
+    "updated_at": "2026-04-05T14:25:47.858921Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": null
+  },
+  {
     "id": 1115561,
     "company_name": "NavExperts",
     "country": "NL",
