@@ -600,6 +600,21 @@
     "linkedin": ""
   },
   {
+    "name": "#ERP",
+    "country": "PL",
+    "industry": "Market Research",
+    "evidence_type": "technology_stack",
+    "evidence": "Listed on TheirStack as Microsoft Dynamics NAV user",
+    "confidence": 4,
+    "source": "theirstack",
+    "website": "",
+    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
+    "discovered": "2026-04-05T11:26:36.217252Z",
+    "employees": "1",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Microsoft DynamicsNavision: Guía Completa 2026",
     "country": "AR",
     "industry": "",
