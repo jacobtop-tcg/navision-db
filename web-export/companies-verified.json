@@ -672,6 +672,27 @@
     "lead_type": "upgrade"
   },
   {
+    "id": 1117688,
+    "company_name": "Abcebusiness Nl",
+    "country": "NL",
+    "website": "abcebusiness.nl",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Wat is Microsoft Navision (DynamicsNAV)? | ABC E BUSINESS",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.abcebusiness.nl/blogs/wat-is-microsoft-navision-dynamics-nav",
+    "discovered_at": "2026-04-05T15:38:17.692664Z",
+    "created_at": "2026-04-05 15:38:17",
+    "updated_at": "2026-04-05T15:38:17.692668Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": null
+  },
+  {
     "id": 1115871,
     "company_name": "Navision| TCServi",
     "country": "PE",

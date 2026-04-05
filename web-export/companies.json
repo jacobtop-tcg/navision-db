@@ -600,6 +600,21 @@
     "linkedin": ""
   },
   {
+    "name": "Abcebusiness Nl",
+    "country": "NL",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Wat is Microsoft Navision (DynamicsNAV)? | ABC E BUSINESS",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "abcebusiness.nl",
+    "source_url": "https://www.abcebusiness.nl/blogs/wat-is-microsoft-navision-dynamics-nav",
+    "discovered": "2026-04-05T15:38:17.692664Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Navision| TCServi",
     "country": "PE",
     "industry": "",
