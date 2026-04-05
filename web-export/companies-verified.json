@@ -672,6 +672,27 @@
     "lead_type": "upgrade"
   },
   {
+    "id": 1113265,
+    "company_name": "Encorebusiness Com",
+    "country": "US",
+    "website": "encorebusiness.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Dynamics NAV Partner | Encore Business Solutions",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.encorebusiness.com/solutions/microsoft-dynamics-nav/",
+    "discovered_at": "2026-04-05T12:43:01.374164Z",
+    "created_at": "2026-04-05 12:43:01",
+    "updated_at": "2026-04-05T12:43:01.374169Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": null
+  },
+  {
     "id": 1111896,
     "company_name": "Naviators Dk",
     "country": "DK",

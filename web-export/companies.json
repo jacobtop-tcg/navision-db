@@ -600,6 +600,21 @@
     "linkedin": ""
   },
   {
+    "name": "Encorebusiness Com",
+    "country": "US",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Dynamics NAV Partner | Encore Business Solutions",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "encorebusiness.com",
+    "source_url": "https://www.encorebusiness.com/solutions/microsoft-dynamics-nav/",
+    "discovered": "2026-04-05T12:43:01.374164Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Naviators Dk",
     "country": "DK",
     "industry": "",
