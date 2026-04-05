@@ -600,6 +600,36 @@
     "linkedin": ""
   },
   {
+    "name": "Profikurs Microsoft Dynamics NAV: Einführung",
+    "country": "DE",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Profikurs Microsoft Dynamics NAV: Einführung - Springer",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "link.springer.com",
+    "source_url": "https://link.springer.com/book/10.1007/978-3-8348-9535-6",
+    "discovered": "2026-04-05T05:14:41.689986Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
+    "name": "NavisionBeratung vom Profi",
+    "country": "DE",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: NavisionBeratung vom Profi - digital-experts.com",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "digital-experts.com",
+    "source_url": "https://digital-experts.com/bc/navision-beratung/",
+    "discovered": "2026-04-05T05:14:41.689683Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Dynamics365Partner De",
     "country": "DE",
     "industry": "",
