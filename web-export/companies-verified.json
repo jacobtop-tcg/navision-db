@@ -672,6 +672,27 @@
     "lead_type": "upgrade"
   },
   {
+    "id": 1165887,
+    "company_name": "Biconseil Fr",
+    "country": "FR",
+    "website": "biconseil.fr",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: BI conseil:application informatique (logiciel) ERP (pgi) Navison ...",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.biconseil.fr/navision.html",
+    "discovered_at": "2026-04-06T21:13:22.084035Z",
+    "created_at": "2026-04-06 21:13:22",
+    "updated_at": "2026-04-06T21:13:22.084039Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": null
+  },
+  {
     "id": 1165334,
     "company_name": "NAVISIONDOBRASILLTDA em S\u00e3o Paulo, SP",
     "country": "BR",
