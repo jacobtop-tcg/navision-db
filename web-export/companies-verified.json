@@ -672,6 +672,27 @@
     "lead_type": "upgrade"
   },
   {
+    "id": 1157335,
+    "company_name": "Programadorbc Es",
+    "country": "CO",
+    "website": "programadorbc.es",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: \u00bfNavisionque es y c\u00f3mo puede beneficiar a tuempresa?",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://programadorbc.es/post/navision/que-es-navision/",
+    "discovered_at": "2026-04-06T16:43:18.810197Z",
+    "created_at": "2026-04-06 16:43:18",
+    "updated_at": "2026-04-06T16:43:18.810200Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": null
+  },
+  {
     "id": 1156990,
     "company_name": "Casosde\u00e9xito",
     "country": "AR",
