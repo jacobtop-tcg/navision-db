@@ -600,6 +600,36 @@
     "linkedin": ""
   },
   {
+    "name": "Guía EsencialdeERPNavisionDynamics para 2026",
+    "country": "MX",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Guía EsencialdeERPNavisionDynamics para 2026 - kube.systems",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "kube.systems",
+    "source_url": "https://kube.systems/erp-navision-dynamics/",
+    "discovered": "2026-04-06T23:48:15.799679Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
+    "name": "Kube Systems",
+    "country": "MX",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Guía EsencialdeERP Microsoft DynamicsNavision2026",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "kube.systems",
+    "source_url": "https://kube.systems/erp-microsoft-dynamics-navision/",
+    "discovered": "2026-04-06T23:48:15.799140Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Insightdata Be",
     "country": "BE",
     "industry": "",
