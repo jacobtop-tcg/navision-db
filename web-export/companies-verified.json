@@ -672,6 +672,27 @@
     "lead_type": "upgrade"
   },
   {
+    "id": 1156990,
+    "company_name": "Casosde\u00e9xito",
+    "country": "AR",
+    "website": "aitana.es",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Casosde\u00e9xito - Historias realesdeclientesdeDynamics NAV, \u2026",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.aitana.es/caso-de-exito/",
+    "discovered_at": "2026-04-06T16:33:52.590828Z",
+    "created_at": "2026-04-06 16:33:52",
+    "updated_at": "2026-04-06T16:33:52.590831Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": null
+  },
+  {
     "id": 1155303,
     "company_name": "Dynamicssquare Com",
     "country": "BE",
