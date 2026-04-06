@@ -672,6 +672,27 @@
     "lead_type": "upgrade"
   },
   {
+    "id": 1133867,
+    "company_name": "\u00bfPor qu\u00e9 debes apostar porNavision(Dynamics NAV)",
+    "country": "PE",
+    "website": "nunsys.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: \u00bfPor qu\u00e9 debes apostar porNavision(Dynamics NAV) - Nunsys",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.nunsys.com/navision-dynamics-nav-gestion-iva-sii/",
+    "discovered_at": "2026-04-06T01:58:34.788055Z",
+    "created_at": "2026-04-06 01:58:34",
+    "updated_at": "2026-04-06T01:58:34.788056Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": null
+  },
+  {
     "id": 1132644,
     "company_name": "MicrosoftDynamicsNavision",
     "country": "IN",
