@@ -600,6 +600,36 @@
     "linkedin": ""
   },
   {
+    "name": "Insightdata Be",
+    "country": "BE",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Navision- insightdata.be",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "insightdata.be",
+    "source_url": "https://www.insightdata.be/en/integrations/navision-financial-and-operational-reporting",
+    "discovered": "2026-04-06T22:50:25.043294Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
+    "name": "Reuffel De",
+    "country": "DE",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Ein praxisorientierter Einstieg in MicrosoftNavision",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "reuffel.de",
+    "source_url": "https://www.reuffel.de/ebooks/kostenlos_ger/detail/ISBN-9783639113280/Schmid-Tobias/Ein-praxisorientierter-Einstieg-in-Microsoft-Navision",
+    "discovered": "2026-04-06T22:50:01.528936Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Dairaps Com",
     "country": "AR",
     "industry": "",
