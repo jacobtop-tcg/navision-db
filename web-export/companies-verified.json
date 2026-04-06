@@ -672,6 +672,27 @@
     "lead_type": "upgrade"
   },
   {
+    "id": 1164627,
+    "company_name": "Kundeservice Xyz",
+    "country": "NO",
+    "website": "kundeservice.xyz",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Nav Kundeservice Kontaktinformasjon",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://kundeservice.xyz/nav-kundeservice-kontaktinformasjon/",
+    "discovered_at": "2026-04-06T20:36:19.615689Z",
+    "created_at": "2026-04-06 20:36:19",
+    "updated_at": "2026-04-06T20:36:19.615695Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": null
+  },
+  {
     "id": 1163530,
     "company_name": "NavisionMedical Healthcare",
     "country": "ZA",
