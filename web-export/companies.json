@@ -600,6 +600,21 @@
     "linkedin": ""
   },
   {
+    "name": "Empresadois Com Br",
+    "country": "BR",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: NAVISIONDOBRASILLTDA CNPJ 04642619000150",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "empresadois.com.br",
+    "source_url": "https://empresadois.com.br/cnpj/navision-do-brasil-ltda-04642619000150",
+    "discovered": "2026-04-07T04:05:04.250934Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Coev E Conocimiento Org",
     "country": "MX",
     "industry": "",

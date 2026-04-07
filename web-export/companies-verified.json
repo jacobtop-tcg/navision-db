@@ -672,6 +672,27 @@
     "lead_type": "upgrade"
   },
   {
+    "id": 1180103,
+    "company_name": "Empresadois Com Br",
+    "country": "BR",
+    "website": "empresadois.com.br",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: NAVISIONDOBRASILLTDA CNPJ 04642619000150",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://empresadois.com.br/cnpj/navision-do-brasil-ltda-04642619000150",
+    "discovered_at": "2026-04-07T04:05:04.250934Z",
+    "created_at": "2026-04-07 04:05:04",
+    "updated_at": "2026-04-07T04:05:04.250937Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": null
+  },
+  {
     "id": 1178482,
     "company_name": "Coev E Conocimiento Org",
     "country": "MX",
