@@ -600,6 +600,21 @@
     "linkedin": ""
   },
   {
+    "name": "Evidi | NAV (Microsoft Dynamics NAV)",
+    "country": "SE",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Evidi | NAV (Microsoft Dynamics NAV) - NaviPro",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "evidi.com",
+    "source_url": "https://www.evidi.com/se/teknologiordbok/nav-microsoft-dynamics-nav",
+    "discovered": "2026-04-07T05:51:32.875005Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Mprise Nl",
     "country": "NL",
     "industry": "",
