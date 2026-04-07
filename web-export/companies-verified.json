@@ -672,6 +672,27 @@
     "lead_type": "upgrade"
   },
   {
+    "id": 1171389,
+    "company_name": "Casosde\u00e9xito",
+    "country": "MX",
+    "website": "aitana.es",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Casosde\u00e9xito - Historias realesdeclientesdeDynamics NAV, \u2026",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.aitana.es/caso-de-exito/",
+    "discovered_at": "2026-04-06T23:57:22.875682Z",
+    "created_at": "2026-04-06 23:57:22",
+    "updated_at": "2026-04-06T23:57:22.875697Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": null
+  },
+  {
     "id": 1171067,
     "company_name": "Gu\u00eda EsencialdeERPNavisionDynamics para 2026",
     "country": "MX",
