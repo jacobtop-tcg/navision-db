@@ -600,6 +600,21 @@
     "linkedin": ""
   },
   {
+    "name": "Urlm Co",
+    "country": "US",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: www.Dynamicsbook.com -Go-Livewith DynamicsNavisionthe book",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "urlm.co",
+    "source_url": "http://urlm.co/www.dynamicsbook.com",
+    "discovered": "2026-04-07T05:15:56.705203Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "MicrosoftDynamicsNav- CONSULTORÍA NAVISION",
     "country": "CL",
     "industry": "",
