@@ -600,6 +600,21 @@
     "linkedin": ""
   },
   {
+    "name": "Mprise Nl",
+    "country": "NL",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Microsoft Dynamics NAV ofNavision- Mprise",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "mprise.nl",
+    "source_url": "https://www.mprise.nl/business-solutions/dynamics-nav-navision",
+    "discovered": "2026-04-07T05:43:17.550472Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Urlm Co",
     "country": "US",
     "industry": "",
