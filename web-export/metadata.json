@@ -1,9 +1,9 @@
 {
-  "total_companies": 7357,
-  "last_updated": "2026-04-08T20:54:06.640850Z",
+  "total_companies": 7356,
+  "last_updated": "2026-04-08T20:59:09.526157Z",
   "by_confidence": {
     "5": 40,
-    "4": 2060,
+    "4": 2059,
     "3": 5235,
     "1": 22
   },
@@ -15,7 +15,7 @@
     "IN": 251,
     "GB": 217,
     "NL": 215,
-    "PL": 210,
+    "PL": 209,
     "SE": 197,
     "IT": 192,
     "NO": 187,
@@ -34,7 +34,7 @@
     "linkedin": 750,
     "global_jobs": 729,
     "TheirStack": 172,
-    "theirstack": 162,
+    "theirstack": 161,
     "job_posting": 106,
     "theirstack_nordic_batch1": 69,
     "country_expansion_v5_de": 55,
