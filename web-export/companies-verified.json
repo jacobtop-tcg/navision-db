@@ -672,27 +672,6 @@
     "lead_type": "upgrade"
   },
   {
-    "id": 1268462,
-    "company_name": "#ERP",
-    "country": "PL",
-    "website": "",
-    "industry": "Market Research",
-    "employees": "1",
-    "revenue": "",
-    "evidence_type": "technology_stack",
-    "evidence_text": "Listed on TheirStack as Microsoft Dynamics NAV user",
-    "confidence_score": 4,
-    "source": "theirstack",
-    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
-    "discovered_at": "2026-04-08T15:29:31.008507Z",
-    "created_at": "2026-04-08 15:29:31",
-    "updated_at": "2026-04-08T15:29:31.008514Z",
-    "is_verified": 0,
-    "headquarters_address": "",
-    "linkedin_url": "",
-    "lead_type": null
-  },
-  {
     "id": 1267880,
     "company_name": "Dynamics NAV Database Reporting Cheat Sheet",
     "country": "DK",
