@@ -600,6 +600,36 @@
     "linkedin": ""
   },
   {
+    "name": "DynamicsNAVMigration Pitfalls USA 2026",
+    "country": "IN",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: DynamicsNAVMigration Pitfalls USA 2026 - NavisionIndia",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "navisionindia.in",
+    "source_url": "https://navisionindia.in/blog/dynamics-nav-migration-pitfalls-usa-2026/",
+    "discovered": "2026-04-08T09:51:13.137724Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
+    "name": "#ERP",
+    "country": "PL",
+    "industry": "Market Research",
+    "evidence_type": "technology_stack",
+    "evidence": "Listed on TheirStack as Microsoft Dynamics NAV user",
+    "confidence": 4,
+    "source": "theirstack",
+    "website": "",
+    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
+    "discovered": "2026-04-08T09:48:27.091427Z",
+    "employees": "1",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Get notified about new Navision jobs in **United States**.",
     "country": "SE",
     "industry": "",
