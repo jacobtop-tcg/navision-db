@@ -600,6 +600,36 @@
     "linkedin": ""
   },
   {
+    "name": "Casestudies Com",
+    "country": "BE",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Altus DynamicsCaseStudy: Avon Maitland District School Board – …",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "casestudies.com",
+    "source_url": "https://www.casestudies.com/company/altus-dynamics/case-study/avon-maitland-district-school-board-selects-microsoft-navision-and-altus-dynamics",
+    "discovered": "2026-04-08T11:32:25.128457Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
+    "name": "#ERP",
+    "country": "PL",
+    "industry": "Market Research",
+    "evidence_type": "technology_stack",
+    "evidence": "Listed on TheirStack as Microsoft Dynamics NAV user",
+    "confidence": 4,
+    "source": "theirstack",
+    "website": "",
+    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
+    "discovered": "2026-04-08T11:30:20.883384Z",
+    "employees": "1",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Navisionindia In",
     "country": "KR",
     "industry": "",
