@@ -672,27 +672,6 @@
     "lead_type": "upgrade"
   },
   {
-    "id": 1455022,
-    "company_name": "#ERP",
-    "country": "PL",
-    "website": "",
-    "industry": "Market Research",
-    "employees": "1",
-    "revenue": "",
-    "evidence_type": "technology_stack",
-    "evidence_text": "Listed on TheirStack as Microsoft Dynamics NAV user",
-    "confidence_score": 4,
-    "source": "theirstack",
-    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
-    "discovered_at": "2026-04-08T21:40:10.562104Z",
-    "created_at": "2026-04-08 21:40:10",
-    "updated_at": "2026-04-08T21:40:10.562110Z",
-    "is_verified": 0,
-    "headquarters_address": "",
-    "linkedin_url": "",
-    "lead_type": null
-  },
-  {
     "id": 1454950,
     "company_name": "Aarhus Universitet",
     "country": "DK",
@@ -711,7 +690,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454949,
@@ -732,7 +711,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454948,
@@ -753,7 +732,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454947,
@@ -774,7 +753,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454946,
@@ -795,7 +774,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454945,
@@ -816,7 +795,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454944,
@@ -837,7 +816,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454943,
@@ -858,7 +837,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454942,
@@ -879,7 +858,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454941,
@@ -900,7 +879,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454940,
@@ -921,7 +900,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454939,
@@ -942,7 +921,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454938,
@@ -963,7 +942,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454937,
@@ -984,7 +963,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454936,
@@ -1005,7 +984,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454935,
@@ -1026,7 +1005,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454934,
@@ -1047,7 +1026,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454933,
@@ -1068,7 +1047,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454932,
@@ -1089,7 +1068,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454931,
@@ -1110,7 +1089,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454930,
@@ -1131,7 +1110,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454929,
@@ -1152,7 +1131,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454928,
@@ -1173,7 +1152,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454927,
@@ -1194,7 +1173,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454926,
@@ -1215,7 +1194,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454925,
@@ -1236,7 +1215,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454924,
@@ -1257,7 +1236,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454923,
@@ -1278,7 +1257,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454922,
@@ -1299,7 +1278,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454921,
@@ -1320,7 +1299,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454920,
@@ -1341,7 +1320,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454919,
@@ -1362,7 +1341,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454918,
@@ -1383,7 +1362,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454917,
@@ -1404,7 +1383,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454916,
@@ -1425,7 +1404,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454915,
@@ -1446,7 +1425,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454914,
@@ -1467,7 +1446,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454913,
@@ -1488,7 +1467,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454912,
@@ -1509,7 +1488,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454911,
@@ -1530,7 +1509,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454910,
@@ -1551,7 +1530,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454909,
@@ -1572,7 +1551,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454908,
@@ -1593,7 +1572,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454907,
@@ -1614,7 +1593,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454906,
@@ -1635,7 +1614,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454905,
@@ -1656,7 +1635,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454904,
@@ -1677,7 +1656,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454903,
@@ -1698,7 +1677,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454902,
@@ -1719,7 +1698,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454901,
@@ -1740,7 +1719,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454900,
@@ -1761,7 +1740,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454899,
@@ -1782,7 +1761,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454898,
@@ -1803,7 +1782,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454897,
@@ -1824,7 +1803,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454896,
@@ -1845,7 +1824,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454895,
@@ -1866,7 +1845,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454894,
@@ -1887,7 +1866,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454893,
@@ -1908,7 +1887,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454892,
@@ -1929,7 +1908,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454891,
@@ -1950,7 +1929,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454890,
@@ -1971,7 +1950,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454889,
@@ -1992,7 +1971,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1454708,
