@@ -600,6 +600,21 @@
     "linkedin": ""
   },
   {
+    "name": "Dynamicsconsult Com",
+    "country": "AU",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: NavisionSuccess Cases | Dynamics Consult",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "dynamicsconsult.com",
+    "source_url": "https://www.dynamicsconsult.com/index.php/en/navision-success-cases/",
+    "discovered": "2026-04-08T16:22:25.820191Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Dynamicssquare Com Au",
     "country": "DK",
     "industry": "",
@@ -611,21 +626,6 @@
     "source_url": "https://www.dynamicssquare.com.au/blog/dynamics-nav/",
     "discovered": "2026-04-08T16:19:52.292191Z",
     "employees": "",
-    "address": "",
-    "linkedin": ""
-  },
-  {
-    "name": "#ERP",
-    "country": "PL",
-    "industry": "Market Research",
-    "evidence_type": "technology_stack",
-    "evidence": "Listed on TheirStack as Microsoft Dynamics NAV user",
-    "confidence": 4,
-    "source": "theirstack",
-    "website": "",
-    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
-    "discovered": "2026-04-08T16:18:35.219368Z",
-    "employees": "1",
     "address": "",
     "linkedin": ""
   },
