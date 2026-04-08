@@ -672,6 +672,27 @@
     "lead_type": "upgrade"
   },
   {
+    "id": 1243912,
+    "company_name": "#ERP",
+    "country": "PL",
+    "website": "",
+    "industry": "Market Research",
+    "employees": "1",
+    "revenue": "",
+    "evidence_type": "technology_stack",
+    "evidence_text": "Listed on TheirStack as Microsoft Dynamics NAV user",
+    "confidence_score": 4,
+    "source": "theirstack",
+    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
+    "discovered_at": "2026-04-08T09:12:13.733199Z",
+    "created_at": "2026-04-08 09:12:13",
+    "updated_at": "2026-04-08T09:12:13.733203Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": null
+  },
+  {
     "id": 1243410,
     "company_name": "PECO Pallet Manages New Growth with Dynamics NAV",
     "country": "CA",
