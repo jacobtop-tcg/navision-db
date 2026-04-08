@@ -1,48 +1,48 @@
 {
-  "total_companies": 19645,
-  "last_updated": "2026-04-08T21:04:12.473211Z",
+  "total_companies": 177692,
+  "last_updated": "2026-04-08T21:09:18.502568Z",
   "by_confidence": {
     "5": 40,
-    "4": 2060,
-    "3": 17523,
+    "4": 10881,
+    "3": 166749,
     "1": 22
   },
   "top_countries": {
-    "DE": 1231,
-    "US": 1177,
-    "DK": 1144,
-    "FR": 1097,
-    "NL": 1019,
-    "ES": 972,
-    "CA": 953,
-    "IT": 942,
-    "IN": 905,
-    "BE": 801,
-    "AU": 718,
-    "SE": 689,
-    "NO": 652,
-    "PL": 600,
-    "SG": 558,
-    "UK": 523,
-    "GB": 518,
-    "BR": 424,
-    "CH": 402,
-    "AE": 401
+    "US": 5006,
+    "FR": 4975,
+    "NL": 4833,
+    "DE": 4791,
+    "IT": 4785,
+    "DK": 4766,
+    "ES": 4757,
+    "CA": 4668,
+    "SE": 4483,
+    "BE": 4464,
+    "AU": 4400,
+    "NO": 4295,
+    "GB": 4231,
+    "PL": 3751,
+    "IN": 3681,
+    "MX": 3580,
+    "SG": 3555,
+    "ZA": 3471,
+    "BR": 3457,
+    "CH": 3368
   },
   "top_sources": {
+    "linkedin_full": 149752,
+    "wayback": 8822,
     "theirstack_full": 6425,
     "competitor": 3262,
     "news": 1937,
     "microsoft_partner": 920,
     "linkedin": 750,
     "global_jobs": 729,
-    "reddit": 664,
     "TheirStack": 172,
-    "theirstack": 162,
-    "job_posting": 106
+    "theirstack": 161
   },
   "date_range": {
     "first": "2026-03-20T18:08:51.494734Z",
-    "latest": "2026-04-08T21:02:57.844726"
+    "latest": "2026-04-08T21:09:13.689160"
   }
 }
