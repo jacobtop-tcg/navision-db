@@ -1,48 +1,48 @@
 {
-  "total_companies": 13853,
-  "last_updated": "2026-04-08T21:34:58.327359Z",
+  "total_companies": 13870,
+  "last_updated": "2026-04-08T21:40:01.871820Z",
   "by_confidence": {
     "5": 40,
-    "4": 2131,
-    "3": 11660,
+    "4": 2145,
+    "3": 11663,
     "1": 22
   },
   "top_countries": {
-    "DE": 928,
-    "US": 859,
-    "DK": 853,
-    "FR": 758,
-    "NL": 704,
-    "ES": 669,
+    "DE": 922,
+    "DK": 906,
+    "US": 847,
+    "FR": 757,
+    "NL": 700,
+    "ES": 667,
     "IT": 628,
-    "CA": 610,
+    "CA": 609,
     "IN": 585,
     "BE": 543,
     "UK": 523,
-    "CH": 403,
-    "SE": 382,
-    "AU": 367,
-    "NO": 345,
-    "PL": 307,
+    "CH": 402,
+    "SE": 381,
+    "AU": 362,
+    "NO": 347,
+    "PL": 305,
     "SG": 304,
     "AE": 220,
-    "GB": 220,
-    "BR": 167
+    "GB": 217,
+    "IE": 167
   },
   "top_sources": {
     "theirstack_full": 6425,
     "microsoft_partner": 920,
-    "linkedin": 778,
+    "linkedin": 750,
     "global_jobs": 729,
     "TheirStack": 172,
-    "theirstack": 162,
+    "theirstack": 161,
     "job_posting": 106,
     "theirstack_nordic_batch1": 69,
-    "country_expansion_v5_de": 55,
-    "country_expansion_v4_de": 53
+    "manual_research": 62,
+    "country_expansion_v5_de": 55
   },
   "date_range": {
     "first": "2026-03-20T18:08:51.494734Z",
-    "latest": "2026-04-08T21:31:16.034969"
+    "latest": "2026-04-08T21:37:58.272301"
   }
 }
