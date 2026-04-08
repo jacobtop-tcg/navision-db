@@ -1,48 +1,48 @@
 {
-  "total_companies": 1939,
-  "last_updated": "2026-04-07T07:50:17.766149Z",
+  "total_companies": 5496,
+  "last_updated": "2026-04-08T08:26:42.854898Z",
   "by_confidence": {
     "5": 40,
-    "4": 909,
-    "3": 968,
+    "4": 982,
+    "3": 4452,
     "1": 22
   },
   "top_countries": {
-    "DK": 308,
-    "US": 164,
-    "DE": 134,
-    "NL": 103,
-    "IN": 84,
-    "SE": 84,
-    "NO": 82,
-    "GB": 79,
-    "PL": 72,
-    "ZA": 64,
-    "BR": 61,
-    "ES": 49,
-    "BE": 47,
-    "CA": 47,
-    "FR": 45,
-    "IT": 40,
-    "JP": 39,
-    "SA": 37,
-    "AU": 34,
-    "FI": 33
+    "DK": 413,
+    "DE": 362,
+    "US": 252,
+    "FR": 221,
+    "IN": 209,
+    "NL": 174,
+    "GB": 169,
+    "PL": 167,
+    "IT": 152,
+    "NO": 144,
+    "AU": 140,
+    "ES": 135,
+    "SE": 130,
+    "BR": 123,
+    "BE": 121,
+    "ZA": 107,
+    "CA": 81,
+    "FI": 81,
+    "JP": 71,
+    "TH": 66
   },
   "top_sources": {
-    "global_jobs": 613,
+    "global_jobs": 686,
     "TheirStack": 172,
     "theirstack": 162,
     "theirstack_nordic_batch1": 69,
+    "country_expansion_v5_de": 55,
+    "country_expansion_v4_de": 53,
     "theirstack_asia_batch2": 51,
     "theirstack_africa_batch1": 50,
     "theirstack_expansion_batch2": 50,
-    "theirstack_expansion_batch3": 49,
-    "theirstack_final_batch1": 49,
-    "theirstack_india_batch1": 49
+    "theirstack_expansion_batch3": 49
   },
   "date_range": {
     "first": "2026-03-20T18:08:51.494734Z",
-    "latest": "2026-04-07T06:41:41.946486Z"
+    "latest": "2026-04-08T08:22:24.705259Z"
   }
 }

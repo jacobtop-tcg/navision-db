@@ -672,6 +672,1560 @@
     "lead_type": "upgrade"
   },
   {
+    "id": 1242315,
+    "company_name": "#ERP",
+    "country": "PL",
+    "website": "",
+    "industry": "Market Research",
+    "employees": "1",
+    "revenue": "",
+    "evidence_type": "technology_stack",
+    "evidence_text": "Listed on TheirStack as Microsoft Dynamics NAV user",
+    "confidence_score": 4,
+    "source": "theirstack",
+    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
+    "discovered_at": "2026-04-08T08:22:24.705259Z",
+    "created_at": "2026-04-08 08:22:24",
+    "updated_at": "2026-04-08T08:22:24.705263Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": null
+  },
+  {
+    "id": 1239929,
+    "company_name": "Occ Com Mx",
+    "country": "MX",
+    "website": "occ.com.mx",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Bolsa de trabajo paranavisionen Ciudad deM\u00e9xico| OCC",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.occ.com.mx/empleos/de-navision/en-ciudad-de-mexico/",
+    "discovered_at": "2026-04-08T07:12:58.981882Z",
+    "created_at": "2026-04-08 07:12:58",
+    "updated_at": "2026-04-08T07:12:58.981884Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1239836,
+    "company_name": "Workcentrix De",
+    "country": "DE",
+    "website": "workcentrix.de",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: MicrosoftNavision\u2013 workcentrix",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://workcentrix.de/blog/navision",
+    "discovered_at": "2026-04-08T07:10:52.070336Z",
+    "created_at": "2026-04-08 07:10:52",
+    "updated_at": "2026-04-08T07:10:52.070337Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1239834,
+    "company_name": "Prodwaregroup Com",
+    "country": "DE",
+    "website": "prodwaregroup.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Microsoft Dynamics NAV (Navision) | ERP L\u00f6sung f\u00fcr den \u2026",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.prodwaregroup.com/de-de/loesungen/microsoft-erp-crm-loesungen/microsoft-dynamics-nav/",
+    "discovered_at": "2026-04-08T07:10:52.070070Z",
+    "created_at": "2026-04-08 07:10:52",
+    "updated_at": "2026-04-08T07:10:52.070071Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1236362,
+    "company_name": "NavisionIndia- Overview, CEO, Products, Business",
+    "country": "IN",
+    "website": "easyleadz.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: NavisionIndia- Overview, CEO, Products, Business - Easyleadz",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.easyleadz.com/company/navision-india",
+    "discovered_at": "2026-04-08T05:31:09.686717Z",
+    "created_at": "2026-04-08 05:31:09",
+    "updated_at": "2026-04-08T05:31:09.686719Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1236302,
+    "company_name": "Casestudies Com",
+    "country": "UK",
+    "website": "casestudies.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Altus DynamicsCaseStudy: Avon Maitland District School Board \u2013 \u2026",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.casestudies.com/company/altus-dynamics/case-study/avon-maitland-district-school-board-selects-microsoft-navision-and-altus-dynamics",
+    "discovered_at": "2026-04-08T05:30:16.870430Z",
+    "created_at": "2026-04-08 05:30:16",
+    "updated_at": "2026-04-08T05:30:16.870438Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1234769,
+    "company_name": "Guiadocnpj Com Br",
+    "country": "BR",
+    "website": "guiadocnpj.com.br",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: \u2611 CNPJ daNAVISIONDOBRASILLTDA \u00e9 04.642.6 ...",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://guiadocnpj.com.br/sp/sao-paulo/navision-do-brasil-ltda/04642619000150",
+    "discovered_at": "2026-04-08T04:47:23.523555Z",
+    "created_at": "2026-04-08 04:47:23",
+    "updated_at": "2026-04-08T04:47:23.523556Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1234321,
+    "company_name": "OpgraderingafNavisionStat",
+    "country": "DK",
+    "website": "oes.dk",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: OpgraderingafNavisionStat - oes.dk",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://oes.dk/digitale-loesninger/udvikling-og-udbud/opgradering-af-navision-stat/",
+    "discovered_at": "2026-04-08T04:34:53.188880Z",
+    "created_at": "2026-04-08 04:34:53",
+    "updated_at": "2026-04-08T04:34:53.188883Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "upgrade"
+  },
+  {
+    "id": 1233743,
+    "company_name": "Formation Dynamics Nav",
+    "country": "FR",
+    "website": "delphisoft.fr",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Formation Dynamics Nav - delphisoft.fr",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.delphisoft.fr/formations/formation-dynamics-nav",
+    "discovered_at": "2026-04-08T04:16:58.170413Z",
+    "created_at": "2026-04-08 04:16:58",
+    "updated_at": "2026-04-08T04:16:58.170418Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1228555,
+    "company_name": "Microsoft DynamicsNavision: Gu\u00eda Completa 2026",
+    "country": "PE",
+    "website": "kube.systems",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Microsoft DynamicsNavision: Gu\u00eda Completa 2026 - kube.systems",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://kube.systems/microsoft-dynamics-navision/",
+    "discovered_at": "2026-04-08T01:38:06.564601Z",
+    "created_at": "2026-04-08 01:38:06",
+    "updated_at": "2026-04-08T01:38:06.564603Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "active"
+  },
+  {
+    "id": 1227625,
+    "company_name": "MicrosoftDynamicsNav- CONSULTOR\u00cdA NAVISION",
+    "country": "PE",
+    "website": "consultorianavision.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: MicrosoftDynamicsNav- CONSULTOR\u00cdA NAVISION - EVOTEC",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.consultorianavision.com/",
+    "discovered_at": "2026-04-08T01:11:01.648847Z",
+    "created_at": "2026-04-08 01:11:01",
+    "updated_at": "2026-04-08T01:11:01.648853Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1227227,
+    "company_name": "NavisionERP systeem",
+    "country": "NL",
+    "website": "hbsmarttrade.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: NavisionERP systeem - HB Smarttrade",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://hbsmarttrade.com/software/navision-erp-systeem.php",
+    "discovered_at": "2026-04-08T01:00:46.765240Z",
+    "created_at": "2026-04-08 01:00:46",
+    "updated_at": "2026-04-08T01:00:46.765242Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1226974,
+    "company_name": "\u5546\u54c1\u304b\u3089\u63a2\u3059",
+    "country": "JP",
+    "website": "navision.iwakiseiyaku.co.jp",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: \u5546\u54c1\u304b\u3089\u63a2\u3059 - \u30ca\u30d3\u30b8\u30e7\u30f3Dr",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://navision.iwakiseiyaku.co.jp/allproduct.html",
+    "discovered_at": "2026-04-08T00:52:12.606116Z",
+    "created_at": "2026-04-08 00:52:12",
+    "updated_at": "2026-04-08T00:52:12.606123Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1226900,
+    "company_name": "MicrosoftDynamicsTech Support & ERP Services",
+    "country": "US",
+    "website": "navisiontech.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: MicrosoftDynamicsTech Support & ERP Services - Navisiontech",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.navisiontech.com/tech-support/",
+    "discovered_at": "2026-04-08T00:50:49.969325Z",
+    "created_at": "2026-04-08 00:50:49",
+    "updated_at": "2026-04-08T00:50:49.969330Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1226639,
+    "company_name": "Navision| TCServi",
+    "country": "MX",
+    "website": "tcservi.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Navision| TCServi - Microsoft Official Partner",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://tcservi.com/navision/",
+    "discovered_at": "2026-04-08T00:42:07.285570Z",
+    "created_at": "2026-04-08 00:42:07",
+    "updated_at": "2026-04-08T00:42:07.285574Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1226637,
+    "company_name": "Consultoria Dynamics Nav Mexico",
+    "country": "MX",
+    "website": "instagram.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Consultoria Dynamics Nav Mexico - Instagram",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.instagram.com/popular/consultoria-dynamics-nav-mexico/",
+    "discovered_at": "2026-04-08T00:42:07.275136Z",
+    "created_at": "2026-04-08 00:42:07",
+    "updated_at": "2026-04-08T00:42:07.275139Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1226601,
+    "company_name": "DynamicsNAV& Navision",
+    "country": "AU",
+    "website": "fenwick.com.au",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: DynamicsNAV& Navision - Fenwick Software",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "http://www.fenwick.com.au/solutions/dynamics-nav/",
+    "discovered_at": "2026-04-08T00:41:22.958404Z",
+    "created_at": "2026-04-08 00:41:22",
+    "updated_at": "2026-04-08T00:41:22.958409Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1226599,
+    "company_name": "CaseStudy- Power BI connects with Dynamics NAV 2016",
+    "country": "AU",
+    "website": "linkedin.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: CaseStudy- Power BI connects with Dynamics NAV 2016 - LinkedIn",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.linkedin.com/pulse/case-study-power-bi-connects-dynamics-nav-2016-neeraj-gargi",
+    "discovered_at": "2026-04-08T00:41:22.956175Z",
+    "created_at": "2026-04-08 00:41:22",
+    "updated_at": "2026-04-08T00:41:22.956181Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1226583,
+    "company_name": "Microsoft Dynamics NAV Implementation |NavisionERP",
+    "country": "IN",
+    "website": "inoday.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Microsoft Dynamics NAV Implementation |NavisionERP - inoday",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://inoday.com/microsoft-dynamics-nav-service-providers/navision-implementation/",
+    "discovered_at": "2026-04-08T00:41:07.535608Z",
+    "created_at": "2026-04-08 00:41:07",
+    "updated_at": "2026-04-08T00:41:07.535613Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1226534,
+    "company_name": "Microsoft Dynamics NAV On-Premises Support",
+    "country": "US",
+    "website": "velosio.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Microsoft Dynamics NAV On-Premises Support - Velosio",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.velosio.com/products/dynamics-on-premises-erp/microsoft-dynamics-nav/",
+    "discovered_at": "2026-04-08T00:40:29.996196Z",
+    "created_at": "2026-04-08 00:40:29",
+    "updated_at": "2026-04-08T00:40:29.996198Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1226520,
+    "company_name": "NAVcommerce | Dynamics NAV",
+    "country": "NL",
+    "website": "n.vision",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: NAVcommerce | Dynamics NAV - Magento integration - NVision",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://n.vision/products/navcommerce/",
+    "discovered_at": "2026-04-08T00:40:14.546176Z",
+    "created_at": "2026-04-08 00:40:14",
+    "updated_at": "2026-04-08T00:40:14.546177Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1226496,
+    "company_name": "Nexovadynamics Ch",
+    "country": "DE",
+    "website": "nexovadynamics.ch",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: MicrosoftNavision: Das ERP-System und warum Upgraden?",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.nexovadynamics.ch/microsoft-navision-erp/",
+    "discovered_at": "2026-04-08T00:39:57.885487Z",
+    "created_at": "2026-04-08 00:39:57",
+    "updated_at": "2026-04-08T00:39:57.885488Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1226476,
+    "company_name": "Navtech Net",
+    "country": "SE",
+    "website": "navtech.net",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: History ofNavision- Navtech Group",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://navtech.net/categories/52-history-of-navision",
+    "discovered_at": "2026-04-08T00:39:31.440700Z",
+    "created_at": "2026-04-08 00:39:31",
+    "updated_at": "2026-04-08T00:39:31.440716Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1226462,
+    "company_name": "Hvad du skal vide omopgraderingaf Dynamics NAV til ...",
+    "country": "DK",
+    "website": "dk.linkedin.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Hvad du skal vide omopgraderingaf Dynamics NAV til ... - LinkedIn",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://dk.linkedin.com/pulse/what-you-need-know-upgrading-dynamics-nav-365-xxe9f?tl=da",
+    "discovered_at": "2026-04-08T00:39:21.644367Z",
+    "created_at": "2026-04-08 00:39:21",
+    "updated_at": "2026-04-08T00:39:21.644369Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "upgrade"
+  },
+  {
+    "id": 1224211,
+    "company_name": "Medarbejdere Au Dk",
+    "country": "DK",
+    "website": "medarbejdere.au.dk",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Grundl\u00e6ggende vejledningNavision- Aarhus Universitet",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://medarbejdere.au.dk/fileadmin/www.medarbejdere.au.dk/Institutter/AU_oekonomi/Oekonomisystemer/Navision/Intro_til_Navision.pdf",
+    "discovered_at": "2026-04-07T23:34:48.067501Z",
+    "created_at": "2026-04-07 23:34:48",
+    "updated_at": "2026-04-07T23:34:48.067503Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1224050,
+    "company_name": "Maybecloud Es",
+    "country": "PE",
+    "website": "maybecloud.es",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Soporte Navision yBusinessCentralLima -Per\u00fa",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.maybecloud.es/soporte-navision-y-business-lima-peru/",
+    "discovered_at": "2026-04-07T23:26:37.398006Z",
+    "created_at": "2026-04-07 23:26:37",
+    "updated_at": "2026-04-07T23:26:37.398011Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1223045,
+    "company_name": "Casestudies Com",
+    "country": "CA",
+    "website": "casestudies.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Altus DynamicsCaseStudy: Avon Maitland District School Board \u2013 \u2026",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.casestudies.com/company/altus-dynamics/case-study/avon-maitland-district-school-board-selects-microsoft-navision-and-altus-dynamics",
+    "discovered_at": "2026-04-07T22:57:28.794530Z",
+    "created_at": "2026-04-07 22:57:28",
+    "updated_at": "2026-04-07T22:57:28.794536Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1222988,
+    "company_name": "Riscript Nl",
+    "country": "NL",
+    "website": "riscript.nl",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: De ontwikkelingen van hetNavisionERP systeem \u2022 Riscript",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.riscript.nl/de-ontwikkelingen-van-het-navision-erp-systeem/",
+    "discovered_at": "2026-04-07T22:56:24.694516Z",
+    "created_at": "2026-04-07 22:56:24",
+    "updated_at": "2026-04-07T22:56:24.694518Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1222321,
+    "company_name": "Casestudies Com",
+    "country": "FI",
+    "website": "casestudies.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Altus DynamicsCaseStudy: Avon Maitland District School Board \u2013 \u2026",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.casestudies.com/company/altus-dynamics/case-study/avon-maitland-district-school-board-selects-microsoft-navision-and-altus-dynamics",
+    "discovered_at": "2026-04-07T22:36:34.874194Z",
+    "created_at": "2026-04-07 22:36:34",
+    "updated_at": "2026-04-07T22:36:34.874199Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1220549,
+    "company_name": "Dynamics NAV (Navision)",
+    "country": "US",
+    "website": "avantiico.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Dynamics NAV (Navision) - Avantiico",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://avantiico.com/solutions/microsoft-legacy-dynamics/dynamics-nav/",
+    "discovered_at": "2026-04-07T21:43:10.409234Z",
+    "created_at": "2026-04-07 21:43:10",
+    "updated_at": "2026-04-07T21:43:10.409235Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1219635,
+    "company_name": "Educamando It",
+    "country": "IT",
+    "website": "educamando.it",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Guida completa a MicrosoftNavision: Ottimizza la \u2026",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://educamando.it/blog/microsoft-navision/",
+    "discovered_at": "2026-04-07T21:16:11.486513Z",
+    "created_at": "2026-04-07 21:16:11",
+    "updated_at": "2026-04-07T21:16:11.486516Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1219587,
+    "company_name": "Theseus Fi",
+    "country": "FI",
+    "website": "theseus.fi",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Microsoft Dynamics NAV oppimisymp\u00e4rist\u00f6n kehitt\u00e4minen:Case\u2026",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.theseus.fi/bitstream/handle/10024/15745/Hamalainen_Antti.pdf",
+    "discovered_at": "2026-04-07T21:15:18.102277Z",
+    "created_at": "2026-04-07 21:15:18",
+    "updated_at": "2026-04-07T21:15:18.102280Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1218503,
+    "company_name": "Consultorianavision Com",
+    "country": "PE",
+    "website": "consultorianavision.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: MicrosoftDynamicsNav- CONSULTOR\u00cdA NAVISION",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.consultorianavision.com/",
+    "discovered_at": "2026-04-07T20:42:12.515299Z",
+    "created_at": "2026-04-07 20:42:12",
+    "updated_at": "2026-04-07T20:42:12.515303Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1217300,
+    "company_name": "Dynamics Connect Co Uk",
+    "country": "CL",
+    "website": "dynamics-connect.co.uk",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: What is MicrosoftNavision? Dynamics Nav Explained",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://dynamics-connect.co.uk/Blog/what-is-microsoft-navision-dynamics-nav-explained",
+    "discovered_at": "2026-04-07T20:04:06.534022Z",
+    "created_at": "2026-04-07 20:04:06",
+    "updated_at": "2026-04-07T20:04:06.534031Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1216663,
+    "company_name": "Dynamics Connect Co Uk",
+    "country": "CA",
+    "website": "dynamics-connect.co.uk",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: What is MicrosoftNavision? Dynamics Nav Explained",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://dynamics-connect.co.uk/Blog/what-is-microsoft-navision-dynamics-nav-explained",
+    "discovered_at": "2026-04-07T19:43:47.884485Z",
+    "created_at": "2026-04-07 19:43:47",
+    "updated_at": "2026-04-07T19:43:47.884501Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1216418,
+    "company_name": "Dynamics Connect Co Uk",
+    "country": "CO",
+    "website": "dynamics-connect.co.uk",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: What is MicrosoftNavision? Dynamics Nav Explained",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://dynamics-connect.co.uk/Blog/what-is-microsoft-navision-dynamics-nav-explained",
+    "discovered_at": "2026-04-07T19:35:29.566247Z",
+    "created_at": "2026-04-07 19:35:29",
+    "updated_at": "2026-04-07T19:35:29.566253Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1216125,
+    "company_name": "Dynamics Connect Co Uk",
+    "country": "PE",
+    "website": "dynamics-connect.co.uk",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: What is MicrosoftNavision? Dynamics Nav Explained",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://dynamics-connect.co.uk/Blog/what-is-microsoft-navision-dynamics-nav-explained",
+    "discovered_at": "2026-04-07T19:26:22.628631Z",
+    "created_at": "2026-04-07 19:26:22",
+    "updated_at": "2026-04-07T19:26:22.628643Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1216110,
+    "company_name": "Dynamics Connect Co Uk",
+    "country": "AR",
+    "website": "dynamics-connect.co.uk",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: What is MicrosoftNavision? Dynamics Nav Explained",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://dynamics-connect.co.uk/Blog/what-is-microsoft-navision-dynamics-nav-explained",
+    "discovered_at": "2026-04-07T19:26:04.908394Z",
+    "created_at": "2026-04-07 19:26:04",
+    "updated_at": "2026-04-07T19:26:04.908398Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1216102,
+    "company_name": "Dynamics Connect Co Uk",
+    "country": "MX",
+    "website": "dynamics-connect.co.uk",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: What is MicrosoftNavision? Dynamics Nav Explained",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://dynamics-connect.co.uk/Blog/what-is-microsoft-navision-dynamics-nav-explained",
+    "discovered_at": "2026-04-07T19:25:58.287511Z",
+    "created_at": "2026-04-07 19:25:58",
+    "updated_at": "2026-04-07T19:25:58.287516Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1216097,
+    "company_name": "Dynamics Connect Co Uk",
+    "country": "BR",
+    "website": "dynamics-connect.co.uk",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: What is MicrosoftNavision? Dynamics Nav Explained",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://dynamics-connect.co.uk/Blog/what-is-microsoft-navision-dynamics-nav-explained",
+    "discovered_at": "2026-04-07T19:25:54.620355Z",
+    "created_at": "2026-04-07 19:25:54",
+    "updated_at": "2026-04-07T19:25:54.620360Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1216085,
+    "company_name": "Dynamics Connect Co Uk",
+    "country": "KR",
+    "website": "dynamics-connect.co.uk",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: What is MicrosoftNavision? Dynamics Nav Explained",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://dynamics-connect.co.uk/Blog/what-is-microsoft-navision-dynamics-nav-explained",
+    "discovered_at": "2026-04-07T19:25:37.300574Z",
+    "created_at": "2026-04-07 19:25:37",
+    "updated_at": "2026-04-07T19:25:37.300602Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1216082,
+    "company_name": "Dynamics Connect Co Uk",
+    "country": "JP",
+    "website": "dynamics-connect.co.uk",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: What is MicrosoftNavision? Dynamics Nav Explained",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://dynamics-connect.co.uk/Blog/what-is-microsoft-navision-dynamics-nav-explained",
+    "discovered_at": "2026-04-07T19:25:30.515647Z",
+    "created_at": "2026-04-07 19:25:30",
+    "updated_at": "2026-04-07T19:25:30.515659Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1216076,
+    "company_name": "Dynamics Connect Co Uk",
+    "country": "AU",
+    "website": "dynamics-connect.co.uk",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: What is MicrosoftNavision? Dynamics Nav Explained",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://dynamics-connect.co.uk/Blog/what-is-microsoft-navision-dynamics-nav-explained",
+    "discovered_at": "2026-04-07T19:25:24.126509Z",
+    "created_at": "2026-04-07 19:25:24",
+    "updated_at": "2026-04-07T19:25:24.126520Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1216069,
+    "company_name": "Dynamics Connect Co Uk",
+    "country": "IN",
+    "website": "dynamics-connect.co.uk",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: What is MicrosoftNavision? Dynamics Nav Explained",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://dynamics-connect.co.uk/Blog/what-is-microsoft-navision-dynamics-nav-explained",
+    "discovered_at": "2026-04-07T19:25:14.165083Z",
+    "created_at": "2026-04-07 19:25:14",
+    "updated_at": "2026-04-07T19:25:14.165087Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1216063,
+    "company_name": "Dynamics Connect Co Uk",
+    "country": "PL",
+    "website": "dynamics-connect.co.uk",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: What is MicrosoftNavision? Dynamics Nav Explained",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://dynamics-connect.co.uk/Blog/what-is-microsoft-navision-dynamics-nav-explained",
+    "discovered_at": "2026-04-07T19:25:07.475354Z",
+    "created_at": "2026-04-07 19:25:07",
+    "updated_at": "2026-04-07T19:25:07.475360Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1216043,
+    "company_name": "Dynamics Connect Co Uk",
+    "country": "IT",
+    "website": "dynamics-connect.co.uk",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: What is MicrosoftNavision? Dynamics Nav Explained",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://dynamics-connect.co.uk/Blog/what-is-microsoft-navision-dynamics-nav-explained",
+    "discovered_at": "2026-04-07T19:24:57.176320Z",
+    "created_at": "2026-04-07 19:24:57",
+    "updated_at": "2026-04-07T19:24:57.176325Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1216019,
+    "company_name": "Dynamics Connect Co Uk",
+    "country": "NL",
+    "website": "dynamics-connect.co.uk",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: What is MicrosoftNavision? Dynamics Nav Explained",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://dynamics-connect.co.uk/Blog/what-is-microsoft-navision-dynamics-nav-explained",
+    "discovered_at": "2026-04-07T19:24:33.531942Z",
+    "created_at": "2026-04-07 19:24:33",
+    "updated_at": "2026-04-07T19:24:33.531953Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1216010,
+    "company_name": "Dynamics Connect Co Uk",
+    "country": "DE",
+    "website": "dynamics-connect.co.uk",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: What is MicrosoftNavision? Dynamics Nav Explained",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://dynamics-connect.co.uk/Blog/what-is-microsoft-navision-dynamics-nav-explained",
+    "discovered_at": "2026-04-07T19:24:23.150850Z",
+    "created_at": "2026-04-07 19:24:23",
+    "updated_at": "2026-04-07T19:24:23.150854Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1216004,
+    "company_name": "Dynamics Connect Co Uk",
+    "country": "FI",
+    "website": "dynamics-connect.co.uk",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: What is MicrosoftNavision? Dynamics Nav Explained",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://dynamics-connect.co.uk/Blog/what-is-microsoft-navision-dynamics-nav-explained",
+    "discovered_at": "2026-04-07T19:24:15.280475Z",
+    "created_at": "2026-04-07 19:24:15",
+    "updated_at": "2026-04-07T19:24:15.280486Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1216001,
+    "company_name": "Dynamics Connect Co Uk",
+    "country": "NO",
+    "website": "dynamics-connect.co.uk",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: What is MicrosoftNavision? Dynamics Nav Explained",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://dynamics-connect.co.uk/Blog/what-is-microsoft-navision-dynamics-nav-explained",
+    "discovered_at": "2026-04-07T19:24:12.318165Z",
+    "created_at": "2026-04-07 19:24:12",
+    "updated_at": "2026-04-07T19:24:12.318172Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1215997,
+    "company_name": "Dynamics Connect Co Uk",
+    "country": "SE",
+    "website": "dynamics-connect.co.uk",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: What is MicrosoftNavision? Dynamics Nav Explained",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://dynamics-connect.co.uk/Blog/what-is-microsoft-navision-dynamics-nav-explained",
+    "discovered_at": "2026-04-07T19:24:04.461521Z",
+    "created_at": "2026-04-07 19:24:04",
+    "updated_at": "2026-04-07T19:24:04.461534Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1215769,
+    "company_name": "Priority Software Com",
+    "country": "NL",
+    "website": "priority-software.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: MicrosoftNavisionEnd-of-Life Explained | Priority",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.priority-software.com/blog/microsoft-navision-end-of-life/",
+    "discovered_at": "2026-04-07T19:15:47.484431Z",
+    "created_at": "2026-04-07 19:15:47",
+    "updated_at": "2026-04-07T19:15:47.484435Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1215567,
+    "company_name": "Microchannel Asia",
+    "country": "KR",
+    "website": "microchannel.asia",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Navision- Now Microsoft Dynamics NAV | MicroChannel",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.microchannel.asia/microsoft-dynamics-nav/navision/",
+    "discovered_at": "2026-04-07T19:08:11.281967Z",
+    "created_at": "2026-04-07 19:08:11",
+    "updated_at": "2026-04-07T19:08:11.281973Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1215081,
+    "company_name": "DynamicsNAVMigration PitfallsUSA2026",
+    "country": "US",
+    "website": "navisionindia.in",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: DynamicsNAVMigration PitfallsUSA2026 - Navision India",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://navisionindia.in/blog/dynamics-nav-migration-pitfalls-usa-2026/",
+    "discovered_at": "2026-04-07T18:49:39.551036Z",
+    "created_at": "2026-04-07 18:49:39",
+    "updated_at": "2026-04-07T18:49:39.551042Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "active"
+  },
+  {
+    "id": 1214843,
+    "company_name": "Priority Software Com",
+    "country": "US",
+    "website": "priority-software.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: MicrosoftNavisionEnd-of-Life Explained | Priority",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.priority-software.com/blog/microsoft-navision-end-of-life/",
+    "discovered_at": "2026-04-07T18:39:51.950283Z",
+    "created_at": "2026-04-07 18:39:51",
+    "updated_at": "2026-04-07T18:39:51.950290Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1214336,
+    "company_name": "DescubreNavision: El ERP de los negocios",
+    "country": "AR",
+    "website": "adn.eu",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: DescubreNavision: El ERP de los negocios - ADN",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.adn.eu/descubre-navision-el-erp-de-los-negocios/",
+    "discovered_at": "2026-04-07T18:23:00.976361Z",
+    "created_at": "2026-04-07 18:23:00",
+    "updated_at": "2026-04-07T18:23:00.976362Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1213678,
+    "company_name": "Datadrivensolutions Com Au",
+    "country": "NZ",
+    "website": "datadrivensolutions.com.au",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Microsoft DynamicsNavision: A reportingcasestudy",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://datadrivensolutions.com.au/blog/f/microsoft-dynamics-navision-a-reporting-case-study",
+    "discovered_at": "2026-04-07T18:03:13.748134Z",
+    "created_at": "2026-04-07 18:03:13",
+    "updated_at": "2026-04-07T18:03:13.748140Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1211016,
+    "company_name": "Ascendit Dk",
+    "country": "DK",
+    "website": "ascendit.dk",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Dynamics NAV & BC | Ascendit",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.ascendit.dk/dynamics-365-bc",
+    "discovered_at": "2026-04-07T16:45:16.378469Z",
+    "created_at": "2026-04-07 16:45:16",
+    "updated_at": "2026-04-07T16:45:16.378473Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1205034,
+    "company_name": "Brochure Navision3 A4",
+    "country": "IT",
+    "website": "comptech.it",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Brochure Navision3 A4 - comptech.it",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.comptech.it/05_supporto/archiviodocumenti/doc/Brochure_Navision.pdf",
+    "discovered_at": "2026-04-07T15:03:28.194719Z",
+    "created_at": "2026-04-07 15:03:28",
+    "updated_at": "2026-04-07T15:03:28.194725Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1203352,
+    "company_name": "Elian Solutions Com",
+    "country": "FI",
+    "website": "elian-solutions.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Productonstudycase- Elian Solutions -NavisionNAV \u2026",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.elian-solutions.com/references/case-studies/producton-study-case/",
+    "discovered_at": "2026-04-07T14:16:39.968820Z",
+    "created_at": "2026-04-07 14:16:39",
+    "updated_at": "2026-04-07T14:16:39.968828Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1203115,
+    "company_name": "NavisionJobs (with Salaries)",
+    "country": "AU",
+    "website": "seek.com.au",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: NavisionJobs (with Salaries) - SEEK",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.seek.com.au/navision-jobs",
+    "discovered_at": "2026-04-07T14:08:45.724795Z",
+    "created_at": "2026-04-07 14:08:45",
+    "updated_at": "2026-04-07 15:52:41",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1203057,
+    "company_name": "Alistar Net",
+    "country": "BE",
+    "website": "alistar.net",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Dynamics NAV ofNavisionexperts worden schaars",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://alistar.net/nl/blog/dynamics-nav-navision-experts-worden-schaars/",
+    "discovered_at": "2026-04-07T14:07:36.837635Z",
+    "created_at": "2026-04-07 14:07:36",
+    "updated_at": "2026-04-07T14:07:36.837636Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1202738,
+    "company_name": "FormationNavision\u00e9ligible OPCO, CPF,Francetravail",
+    "country": "FR",
+    "website": "fr.optedif-formation.fr",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: FormationNavision\u00e9ligible OPCO, CPF,Francetravail - P\u00f4le emploi (\u00e0 ...",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://fr.optedif-formation.fr/formation/formation-navision,a-la-marche_58400/",
+    "discovered_at": "2026-04-07T13:58:20.242158Z",
+    "created_at": "2026-04-07 13:58:20",
+    "updated_at": "2026-04-07T13:58:20.242161Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1198718,
+    "company_name": "Prodwaregroup Com",
+    "country": "CO",
+    "website": "prodwaregroup.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: MicrosoftDynamicsNAV(navision) | programa ERP",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.prodwaregroup.com/es-es/soluciones/soluciones-erp-crm-microsoft/microsoft-dynamics-nav/",
+    "discovered_at": "2026-04-07T12:47:18.783379Z",
+    "created_at": "2026-04-07 12:47:18",
+    "updated_at": "2026-04-07T12:47:18.783385Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1198717,
+    "company_name": "Tipsa Net",
+    "country": "CO",
+    "website": "tipsa.net",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: MicrosoftDynamicsNAV- Navision | Tipsa.net",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.tipsa.net/microsoft/dynamics-nav-navision/",
+    "discovered_at": "2026-04-07T12:47:18.782305Z",
+    "created_at": "2026-04-07 12:47:18",
+    "updated_at": "2026-04-07T12:47:18.782309Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1198716,
+    "company_name": "Grupoactive Es",
+    "country": "CO",
+    "website": "grupoactive.es",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Navision de Microsoft -DynamicsNav- Grupo Active",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://grupoactive.es/es/software/erp/navision-dynamics-nav",
+    "discovered_at": "2026-04-07T12:47:18.782203Z",
+    "created_at": "2026-04-07 12:47:18",
+    "updated_at": "2026-04-07T12:47:18.782208Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1198714,
+    "company_name": "Navision| Dynamics NAV",
+    "country": "CO",
+    "website": "ekamat.es",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Navision| Dynamics NAV - Softwaredegesti\u00f3n ERP para PYME",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://ekamat.es/navision/",
+    "discovered_at": "2026-04-07T12:47:18.779087Z",
+    "created_at": "2026-04-07 12:47:18",
+    "updated_at": "2026-04-07T12:47:18.779092Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1198713,
+    "company_name": "Casode\u00e9xito implantaci\u00f3n Dynamics NAV",
+    "country": "CO",
+    "website": "nbdynamics.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Casode\u00e9xito implantaci\u00f3n Dynamics NAV - nbDynamics",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.nbdynamics.com/caso-exito-implantacion-dynamics-nav/",
+    "discovered_at": "2026-04-07T12:47:18.777713Z",
+    "created_at": "2026-04-07 12:47:18",
+    "updated_at": "2026-04-07T12:47:18.777725Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1197370,
+    "company_name": "Dynamics NAV Support",
+    "country": "AU",
+    "website": "ebs.com.au",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Dynamics NAV Support - Evolution Business Systems",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://ebs.com.au/dynamics-nav",
+    "discovered_at": "2026-04-07T12:29:25.498575Z",
+    "created_at": "2026-04-07 12:29:25",
+    "updated_at": "2026-04-07T12:29:25.498581Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1196286,
+    "company_name": "Community Dynamics Com",
+    "country": "DK",
+    "website": "community.dynamics.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: The journey of Microsoft Dynamics NAV | PCPlus to MADEIRA",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://community.dynamics.com/blogs/post/?postid=cb8f6e77-27d5-45df-9712-d7bab3d48eb0",
+    "discovered_at": "2026-04-07T11:58:49.544247Z",
+    "created_at": "2026-04-07 11:58:49",
+    "updated_at": "2026-04-07T11:58:49.544248Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1194644,
+    "company_name": "Navision-forhandler breder sig p\u00e5 Sj\u00e6lland",
+    "country": "DK",
+    "website": "computerworld.dk",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Navision-forhandler breder sig p\u00e5 Sj\u00e6lland - Computerworld",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.computerworld.dk/art/23676/navision-forhandler-breder-sig-paa-sjaelland",
+    "discovered_at": "2026-04-07T11:19:48.372677Z",
+    "created_at": "2026-04-07 11:19:48",
+    "updated_at": "2026-04-07T11:19:48.372680Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1193659,
+    "company_name": "Inbiz Se",
+    "country": "SE",
+    "website": "inbiz.se",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Microsoft Dynamics NAV (Navision) | Aff\u00e4rssysteml\u00f6sningar fr\u00e5n InBiz",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.inbiz.se/vara-losningar/",
+    "discovered_at": "2026-04-07T11:00:16.909377Z",
+    "created_at": "2026-04-07 11:00:16",
+    "updated_at": "2026-04-07T11:00:16.909379Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1192690,
+    "company_name": "DanskNavision-version udskudt",
+    "country": "DK",
+    "website": "computerworld.dk",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: DanskNavision-version udskudt - Computerworld",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.computerworld.dk/art/25627/dansk-navision-version-udskudt",
+    "discovered_at": "2026-04-07T10:32:36.130272Z",
+    "created_at": "2026-04-07 10:32:36",
+    "updated_at": "2026-04-07T10:32:36.130275Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1188527,
+    "company_name": "DescubreNavision: El ERPdelos negocios",
+    "country": "CL",
+    "website": "adn.eu",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: DescubreNavision: El ERPdelos negocios - ADN",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.adn.eu/descubre-navision-el-erp-de-los-negocios/",
+    "discovered_at": "2026-04-07T08:37:39.958051Z",
+    "created_at": "2026-04-07 08:37:39",
+    "updated_at": "2026-04-07T08:37:39.958057Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
     "id": 1185578,
     "company_name": "Navision\u00bfqu\u00e9 es? | Microsoft Dynamics NAV",
     "country": "MX",
@@ -690,7 +2244,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1183799,
@@ -711,7 +2265,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1183504,
@@ -732,7 +2286,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1182537,
@@ -753,7 +2307,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1180752,
@@ -774,7 +2328,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1180439,
@@ -795,7 +2349,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1180438,
@@ -816,7 +2370,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1180327,
@@ -837,7 +2391,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1180326,
@@ -858,7 +2412,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1180103,
@@ -879,7 +2433,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1178482,
@@ -900,7 +2454,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1178072,
@@ -921,7 +2475,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1177511,
@@ -942,7 +2496,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1177509,
@@ -963,7 +2517,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1174636,
@@ -984,7 +2538,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1174634,
@@ -1005,7 +2559,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1174632,
@@ -1026,7 +2580,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "active"
   },
   {
     "id": 1172668,
@@ -1047,7 +2601,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1172342,
@@ -1068,7 +2622,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1172339,
@@ -1089,7 +2643,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1172333,
@@ -1110,7 +2664,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1172307,
@@ -1131,7 +2685,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1172284,
@@ -1152,7 +2706,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1172052,
@@ -1173,7 +2727,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1172042,
@@ -1194,7 +2748,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1172040,
@@ -1215,7 +2769,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1172024,
@@ -1236,7 +2790,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1171970,
@@ -1257,7 +2811,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1171389,
@@ -1278,7 +2832,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1171067,
@@ -1299,7 +2853,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "active"
   },
   {
     "id": 1171066,
@@ -1320,7 +2874,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "active"
   },
   {
     "id": 1169031,
@@ -1341,7 +2895,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1169005,
@@ -1362,7 +2916,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1168478,
@@ -1383,7 +2937,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1168477,
@@ -1404,7 +2958,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1168474,
@@ -1425,7 +2979,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1167689,
@@ -1446,7 +3000,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1165887,
@@ -1467,7 +3021,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1165334,
@@ -1488,7 +3042,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1165333,
@@ -1509,7 +3063,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1165332,
@@ -1530,7 +3084,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1164627,
@@ -1551,7 +3105,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1163530,
@@ -1572,7 +3126,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1163528,
@@ -1593,7 +3147,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1163439,
@@ -1614,7 +3168,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1163434,
@@ -1635,7 +3189,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1163429,
@@ -1656,7 +3210,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1160838,
@@ -1677,7 +3231,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1158286,
@@ -1698,7 +3252,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1158285,
@@ -1719,7 +3273,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1157335,
@@ -1740,7 +3294,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1156990,
@@ -1761,7 +3315,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1155303,
@@ -1782,7 +3336,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1155301,
@@ -1803,7 +3357,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1152838,
@@ -1824,7 +3378,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1150929,
@@ -1845,7 +3399,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1150924,
@@ -1866,7 +3420,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1145570,
@@ -1887,7 +3441,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1144281,
@@ -1908,7 +3462,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1138796,
@@ -1929,7 +3483,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1137599,
@@ -1950,7 +3504,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1137581,
@@ -1971,7 +3525,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1133867,
@@ -1992,7 +3546,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1132644,
@@ -2013,7 +3567,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1131741,
@@ -2034,7 +3588,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1131709,
@@ -2055,7 +3609,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1131658,
@@ -2076,7 +3630,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1131603,
@@ -2097,7 +3651,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1131404,
@@ -2118,7 +3672,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1131402,
@@ -2139,7 +3693,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1131399,
@@ -2160,7 +3714,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1131343,
@@ -2181,7 +3735,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1130237,
@@ -2202,7 +3756,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1127976,
@@ -2223,7 +3777,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1127975,
@@ -2244,7 +3798,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1127235,
@@ -2265,7 +3819,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1125313,
@@ -2286,7 +3840,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "upgrade"
   },
   {
     "id": 1123470,
@@ -2307,7 +3861,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1122043,
@@ -2328,7 +3882,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1122042,
@@ -2349,7 +3903,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1121750,
@@ -2370,7 +3924,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1118206,
@@ -2391,7 +3945,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1118172,
@@ -2412,7 +3966,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1117989,
@@ -2433,7 +3987,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1117688,
@@ -2454,7 +4008,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1115871,
@@ -2475,7 +4029,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1115561,
@@ -2496,7 +4050,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1115328,
@@ -2517,7 +4071,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1114465,
@@ -2538,7 +4092,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1114227,
@@ -2559,7 +4113,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1113265,
@@ -2580,7 +4134,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1111896,
@@ -2601,28 +4155,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
-  },
-  {
-    "id": 1111418,
-    "company_name": "#ERP",
-    "country": "PL",
-    "website": "",
-    "industry": "Market Research",
-    "employees": "1",
-    "revenue": "",
-    "evidence_type": "technology_stack",
-    "evidence_text": "Listed on TheirStack as Microsoft Dynamics NAV user",
-    "confidence_score": 4,
-    "source": "theirstack",
-    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
-    "discovered_at": "2026-04-05T11:26:36.217252Z",
-    "created_at": "2026-04-05 11:26:36",
-    "updated_at": "2026-04-05T11:26:36.217257Z",
-    "is_verified": 0,
-    "headquarters_address": "",
-    "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1110606,
@@ -4109,7 +5642,7 @@
     "source_url": "https://www.glassdoor.ca/Job/microsoft-dynamics-navision-jobs-SRCH_KO0,27.htm",
     "discovered_at": "2026-04-05T00:30:46.774074Z",
     "created_at": "2026-04-05 00:30:46",
-    "updated_at": "2026-04-05T00:30:46.774077Z",
+    "updated_at": "2026-04-07 15:52:41",
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
@@ -7952,7 +9485,7 @@
     "source_url": "https://www.llconsultingservices.com/microsoft-dynamics-nav-support-upgrades-migration/",
     "discovered_at": "2026-04-01T00:39:40.076271Z",
     "created_at": "2026-04-01 00:39:40",
-    "updated_at": "2026-04-01T00:39:40.076272Z",
+    "updated_at": "2026-04-07 15:52:41",
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
