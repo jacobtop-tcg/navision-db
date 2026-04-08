@@ -600,6 +600,36 @@
     "linkedin": ""
   },
   {
+    "name": "#ERP",
+    "country": "PL",
+    "industry": "Market Research",
+    "evidence_type": "technology_stack",
+    "evidence": "Listed on TheirStack as Microsoft Dynamics NAV user",
+    "confidence": 4,
+    "source": "theirstack",
+    "website": "",
+    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
+    "discovered": "2026-04-08T09:30:48.637373Z",
+    "employees": "1",
+    "address": "",
+    "linkedin": ""
+  },
+  {
+    "name": "Get notified about new Navision jobs in **United States**.",
+    "country": "SE",
+    "industry": "",
+    "evidence_type": "job_posting",
+    "evidence": "Job posting: Get notified about new Navision jobs in **United States**.",
+    "confidence": 4,
+    "source": "job_posting",
+    "website": "",
+    "source_url": "https://www.linkedin.com/jobs/search/?keywords=Navision&location=Sverige",
+    "discovered": "2026-04-08T09:30:05.584022",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "*   [Inventory Accountant](https://uk.linkedin.com/jobs/view/inventory-accountant-at-cinch-4382054305?position=26&pageNum=0&refId=iwh89l6a5GV%2BFBOEB6",
     "country": "GB",
     "industry": "",
