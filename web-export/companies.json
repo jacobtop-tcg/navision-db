@@ -600,6 +600,36 @@
     "linkedin": ""
   },
   {
+    "name": "Aitana Es",
+    "country": "MX",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Casodeéxito en Microsoft Dynamics NAV | Bluestar",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "aitana.es",
+    "source_url": "https://www.aitana.es/caso-de-exito/caso-exito-bluestar-negocio-distribucion-soluciones-tecnologicas/",
+    "discovered": "2026-04-08T08:46:50.035494Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
+    "name": "#ERP",
+    "country": "PL",
+    "industry": "Market Research",
+    "evidence_type": "technology_stack",
+    "evidence": "Listed on TheirStack as Microsoft Dynamics NAV user",
+    "confidence": 4,
+    "source": "theirstack",
+    "website": "",
+    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
+    "discovered": "2026-04-08T08:42:31.998695Z",
+    "employees": "1",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Occ Com Mx",
     "country": "MX",
     "industry": "",
