@@ -672,27 +672,6 @@
     "lead_type": "upgrade"
   },
   {
-    "id": 1463091,
-    "company_name": "#ERP",
-    "country": "PL",
-    "website": "",
-    "industry": "Market Research",
-    "employees": "1",
-    "revenue": "",
-    "evidence_type": "technology_stack",
-    "evidence_text": "Listed on TheirStack as Microsoft Dynamics NAV user",
-    "confidence_score": 4,
-    "source": "theirstack",
-    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
-    "discovered_at": "2026-04-09T01:45:00.013536Z",
-    "created_at": "2026-04-09 01:45:00",
-    "updated_at": "2026-04-09T01:45:00.013541Z",
-    "is_verified": 0,
-    "headquarters_address": "",
-    "linkedin_url": "",
-    "lead_type": null
-  },
-  {
     "id": 1463089,
     "company_name": "Indeed Navision Employers",
     "country": "US",
@@ -711,7 +690,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "active"
   },
   {
     "id": 1463088,
@@ -732,28 +711,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
-  },
-  {
-    "id": 1463087,
-    "company_name": "Tektra A/S",
-    "country": "DK",
-    "website": null,
-    "industry": "ERP Software",
-    "employees": null,
-    "revenue": null,
-    "evidence_type": "historical_job_posting",
-    "evidence_text": "Job posting 2024-2026: \u00d8konomimedarbejder - Dynamics BC - Jobindex 2024-2025",
-    "confidence_score": 4,
-    "source": "historical_jobs",
-    "source_url": "https://job-archive.com/jobindex-2024-2025",
-    "discovered_at": "2026-04-09T01:44:54.647340",
-    "created_at": "2026-04-09 01:44:54",
-    "updated_at": "2026-04-09T01:44:54.647343",
-    "is_verified": 0,
-    "headquarters_address": null,
-    "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "active"
   },
   {
     "id": 1463086,
@@ -774,28 +732,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
-  },
-  {
-    "id": 1463085,
-    "company_name": "PWT Group",
-    "country": "DK",
-    "website": null,
-    "industry": "ERP Software",
-    "employees": null,
-    "revenue": null,
-    "evidence_type": "historical_job_posting",
-    "evidence_text": "Job posting 2024-2026: .NET Backend Udvikler - ERP - Jobindex 2024-2025",
-    "confidence_score": 4,
-    "source": "historical_jobs",
-    "source_url": "https://job-archive.com/jobindex-2024-2025",
-    "discovered_at": "2026-04-09T01:44:54.647130",
-    "created_at": "2026-04-09 01:44:54",
-    "updated_at": "2026-04-09T01:44:54.647134",
-    "is_verified": 0,
-    "headquarters_address": null,
-    "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "active"
   },
   {
     "id": 1463084,
@@ -816,49 +753,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
-  },
-  {
-    "id": 1463083,
-    "company_name": "Southern States Toyotalift",
-    "country": "US",
-    "website": null,
-    "industry": "ERP Software",
-    "employees": null,
-    "revenue": null,
-    "evidence_type": "historical_job_posting",
-    "evidence_text": "Job posting 2024-2026: Senior ERP Analyst - LinkedIn job 2024-2025",
-    "confidence_score": 4,
-    "source": "historical_jobs",
-    "source_url": "https://job-archive.com/linkedin-job-2024-2025",
-    "discovered_at": "2026-04-09T01:44:54.646824",
-    "created_at": "2026-04-09 01:44:54",
-    "updated_at": "2026-04-09T01:44:54.646829",
-    "is_verified": 0,
-    "headquarters_address": null,
-    "linkedin_url": null,
-    "lead_type": null
-  },
-  {
-    "id": 1463082,
-    "company_name": "Vortex Consulting",
-    "country": "US",
-    "website": null,
-    "industry": "ERP Software",
-    "employees": null,
-    "revenue": null,
-    "evidence_type": "historical_job_posting",
-    "evidence_text": "Job posting 2024-2026: D365 ERP Consultant - LinkedIn job 2024-2025",
-    "confidence_score": 4,
-    "source": "historical_jobs",
-    "source_url": "https://job-archive.com/linkedin-job-2024-2025",
-    "discovered_at": "2026-04-09T01:44:54.646663",
-    "created_at": "2026-04-09 01:44:54",
-    "updated_at": "2026-04-09T01:44:54.646668",
-    "is_verified": 0,
-    "headquarters_address": null,
-    "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "active"
   },
   {
     "id": 1463081,
@@ -879,7 +774,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "active"
   },
   {
     "id": 1463080,
@@ -900,7 +795,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "active"
   },
   {
     "id": 1461907,
