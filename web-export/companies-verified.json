@@ -546,6 +546,27 @@
     "lead_type": "legacy"
   },
   {
+    "id": 1504296,
+    "company_name": "#ERP",
+    "country": "PL",
+    "website": "",
+    "industry": "Market Research",
+    "employees": "1",
+    "revenue": "",
+    "evidence_type": "technology_stack",
+    "evidence_text": "Listed on TheirStack as Microsoft Dynamics NAV user",
+    "confidence_score": 4,
+    "source": "theirstack",
+    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
+    "discovered_at": "2026-04-09T21:28:30.520469Z",
+    "created_at": "2026-04-09 21:28:30",
+    "updated_at": "2026-04-09T21:28:30.520473Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": null
+  },
+  {
     "id": 1503473,
     "company_name": "Sterling Team Com",
     "country": "NZ",
