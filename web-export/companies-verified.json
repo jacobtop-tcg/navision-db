@@ -546,6 +546,27 @@
     "lead_type": "legacy"
   },
   {
+    "id": 1496580,
+    "company_name": "Biconseil Fr",
+    "country": "FR",
+    "website": "biconseil.fr",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: BI conseil:application informatique (logiciel) ERP (pgi) Navison ...",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.biconseil.fr/navision.html",
+    "discovered_at": "2026-04-09T17:49:50.707128Z",
+    "created_at": "2026-04-09 17:49:50",
+    "updated_at": "2026-04-09T17:49:50.707129Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
     "id": 1495975,
     "company_name": "Dynamicssquare Com",
     "country": "JP",
