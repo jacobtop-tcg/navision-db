@@ -480,6 +480,36 @@
     "linkedin": ""
   },
   {
+    "name": "Dynamics Connect Co Uk",
+    "country": "AR",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: What is MicrosoftNavision? Dynamics Nav Explained",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "dynamics-connect.co.uk",
+    "source_url": "https://dynamics-connect.co.uk/Blog/what-is-microsoft-navision-dynamics-nav-explained",
+    "discovered": "2026-04-09T19:32:42.492623Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
+    "name": "Community Dynamics Com",
+    "country": "UK",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Microsoft support timeline for Dynamics NAV",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "community.dynamics.com",
+    "source_url": "https://community.dynamics.com/blogs/post/?postid=90bcd6a1-dbfb-404f-b221-e08d49a85dd7",
+    "discovered": "2026-04-09T19:30:25.919695Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "#ERP",
     "country": "PL",
     "industry": "Market Research",
