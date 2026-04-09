@@ -672,6 +672,27 @@
     "lead_type": "upgrade"
   },
   {
+    "id": 1472425,
+    "company_name": "Casestudies Com",
+    "country": "IT",
+    "website": "casestudies.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Altus DynamicsCaseStudy: Avon Maitland District School Board \u2013 \u2026",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.casestudies.com/company/altus-dynamics/case-study/avon-maitland-district-school-board-selects-microsoft-navision-and-altus-dynamics",
+    "discovered_at": "2026-04-09T06:08:14.159811Z",
+    "created_at": "2026-04-09 06:08:14",
+    "updated_at": "2026-04-09T06:08:14.159823Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
     "id": 1470841,
     "company_name": "Stoneridgesoftware Com",
     "country": "NO",
