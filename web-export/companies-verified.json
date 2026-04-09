@@ -546,6 +546,27 @@
     "lead_type": "legacy"
   },
   {
+    "id": 1500325,
+    "company_name": "#ERP",
+    "country": "PL",
+    "website": "",
+    "industry": "Market Research",
+    "employees": "1",
+    "revenue": "",
+    "evidence_type": "technology_stack",
+    "evidence_text": "Listed on TheirStack as Microsoft Dynamics NAV user",
+    "confidence_score": 4,
+    "source": "theirstack",
+    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
+    "discovered_at": "2026-04-09T19:38:13.225543Z",
+    "created_at": "2026-04-09 19:38:13",
+    "updated_at": "2026-04-09T19:38:13.225549Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": null
+  },
+  {
     "id": 1500182,
     "company_name": "Dynamics Connect Co Uk",
     "country": "AR",
@@ -564,7 +585,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1500090,
@@ -585,28 +606,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
-  },
-  {
-    "id": 1499993,
-    "company_name": "#ERP",
-    "country": "PL",
-    "website": "",
-    "industry": "Market Research",
-    "employees": "1",
-    "revenue": "",
-    "evidence_type": "technology_stack",
-    "evidence_text": "Listed on TheirStack as Microsoft Dynamics NAV user",
-    "confidence_score": 4,
-    "source": "theirstack",
-    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
-    "discovered_at": "2026-04-09T19:28:30.796944Z",
-    "created_at": "2026-04-09 19:28:30",
-    "updated_at": "2026-04-09T19:28:30.796949Z",
-    "is_verified": 0,
-    "headquarters_address": "",
-    "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1499493,
