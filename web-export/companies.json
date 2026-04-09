@@ -480,6 +480,36 @@
     "linkedin": ""
   },
   {
+    "name": "Navhelp110 Fenwickcloud Com Au",
+    "country": "DK",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: C/AL Conditional Statements -MicrosoftDynamicsNAV2018 Australia",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "navhelp110.fenwickcloud.com.au",
+    "source_url": "https://navhelp110.fenwickcloud.com.au/main.aspx?lang=en&content=conCALConditionalStatements.htm",
+    "discovered": "2026-04-09T13:59:44.705470Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
+    "name": "#ERP",
+    "country": "PL",
+    "industry": "Market Research",
+    "evidence_type": "technology_stack",
+    "evidence": "Listed on TheirStack as Microsoft Dynamics NAV user",
+    "confidence": 4,
+    "source": "theirstack",
+    "website": "",
+    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
+    "discovered": "2026-04-09T13:58:39.518858Z",
+    "employees": "1",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Dynamicssquare Com",
     "country": "PL",
     "industry": "",
