@@ -546,6 +546,27 @@
     "lead_type": "legacy"
   },
   {
+    "id": 1479758,
+    "company_name": "Casosde\u00e9xito",
+    "country": "MX",
+    "website": "aitana.es",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Casosde\u00e9xito - Historias realesdeclientesdeDynamics NAV, \u2026",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.aitana.es/caso-de-exito/",
+    "discovered_at": "2026-04-09T09:49:43.524564Z",
+    "created_at": "2026-04-09 09:49:43",
+    "updated_at": "2026-04-09T09:49:43.524576Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
     "id": 1479656,
     "company_name": "Dynamics Connect Co Uk",
     "country": "DK",
@@ -564,28 +585,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
-  },
-  {
-    "id": 1479601,
-    "company_name": "#ERP",
-    "country": "PL",
-    "website": "",
-    "industry": "Market Research",
-    "employees": "1",
-    "revenue": "",
-    "evidence_type": "technology_stack",
-    "evidence_text": "Listed on TheirStack as Microsoft Dynamics NAV user",
-    "confidence_score": 4,
-    "source": "theirstack",
-    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
-    "discovered_at": "2026-04-09T09:45:40.765908Z",
-    "created_at": "2026-04-09 09:45:40",
-    "updated_at": "2026-04-09T09:45:40.765914Z",
-    "is_verified": 0,
-    "headquarters_address": "",
-    "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1479477,
