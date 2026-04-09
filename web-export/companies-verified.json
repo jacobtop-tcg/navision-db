@@ -672,7 +672,7 @@
     "lead_type": "upgrade"
   },
   {
-    "id": 1471081,
+    "id": 1471388,
     "company_name": "#ERP",
     "country": "PL",
     "website": "",
@@ -684,9 +684,9 @@
     "confidence_score": 4,
     "source": "theirstack",
     "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
-    "discovered_at": "2026-04-09T05:31:03.272369Z",
-    "created_at": "2026-04-09 05:31:03",
-    "updated_at": "2026-04-09T05:31:03.272373Z",
+    "discovered_at": "2026-04-09T05:39:58.548642Z",
+    "created_at": "2026-04-09 05:39:58",
+    "updated_at": "2026-04-09T05:39:58.548650Z",
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
