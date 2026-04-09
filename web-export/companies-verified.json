@@ -546,25 +546,193 @@
     "lead_type": "legacy"
   },
   {
-    "id": 1481487,
-    "company_name": "#ERP",
-    "country": "PL",
-    "website": "",
-    "industry": "Market Research",
-    "employees": "1",
+    "id": 1481642,
+    "company_name": "Dynamicssquare Com",
+    "country": "KR",
+    "website": "dynamicssquare.com",
+    "industry": "",
+    "employees": "",
     "revenue": "",
-    "evidence_type": "technology_stack",
-    "evidence_text": "Listed on TheirStack as Microsoft Dynamics NAV user",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: What is Microsoft Dynamics NAV?",
     "confidence_score": 4,
-    "source": "theirstack",
-    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
-    "discovered_at": "2026-04-09T10:43:20.260698Z",
-    "created_at": "2026-04-09 10:43:20",
-    "updated_at": "2026-04-09T10:43:20.260715Z",
+    "source": "global_jobs",
+    "source_url": "https://www.dynamicssquare.com/blog/everything-know-about-microsoft-dynamics-nav/",
+    "discovered_at": "2026-04-09T10:45:36.290498Z",
+    "created_at": "2026-04-09 10:45:36",
+    "updated_at": "2026-04-09T10:45:36.290516Z",
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1481641,
+    "company_name": "Go Erp Eu",
+    "country": "KR",
+    "website": "go-erp.eu",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: The 7 Core Capabilities of MicrosoftNavision(Dynamics NAV)",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://go-erp.eu/what-is-microsoft-navision-an-overview/",
+    "discovered_at": "2026-04-09T10:45:36.289569Z",
+    "created_at": "2026-04-09 10:45:36",
+    "updated_at": "2026-04-09T10:45:36.289572Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1481640,
+    "company_name": "Dynamicsfanatics Com",
+    "country": "KR",
+    "website": "dynamicsfanatics.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: MicrosoftNavisionEnd of Life: What Your Business Should Do Next",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.dynamicsfanatics.com/post/microsoft-navision-end-of-life-what-it-means-for-your-business-next-steps",
+    "discovered_at": "2026-04-09T10:45:36.289524Z",
+    "created_at": "2026-04-09 10:45:36",
+    "updated_at": "2026-04-09T10:45:36.289532Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1481639,
+    "company_name": "Dynamicssmartz Com",
+    "country": "KR",
+    "website": "dynamicssmartz.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Everything You Need to Know About Microsoft Dynamics NAV in 2026",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.dynamicssmartz.com/blog/microsoft-dynamics-nav/",
+    "discovered_at": "2026-04-09T10:45:36.288532Z",
+    "created_at": "2026-04-09 10:45:36",
+    "updated_at": "2026-04-09T10:45:36.288547Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "active"
+  },
+  {
+    "id": 1481631,
+    "company_name": "Dynamicssquare Com",
+    "country": "CA",
+    "website": "dynamicssquare.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: What is Microsoft Dynamics NAV?",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.dynamicssquare.com/blog/everything-know-about-microsoft-dynamics-nav/",
+    "discovered_at": "2026-04-09T10:45:22.018111Z",
+    "created_at": "2026-04-09 10:45:22",
+    "updated_at": "2026-04-09T10:45:22.018115Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1481630,
+    "company_name": "Go Erp Eu",
+    "country": "CA",
+    "website": "go-erp.eu",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: The 7 Core Capabilities of MicrosoftNavision(Dynamics NAV)",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://go-erp.eu/what-is-microsoft-navision-an-overview/",
+    "discovered_at": "2026-04-09T10:45:22.018039Z",
+    "created_at": "2026-04-09 10:45:22",
+    "updated_at": "2026-04-09T10:45:22.018042Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1481629,
+    "company_name": "Dynamicsfanatics Com",
+    "country": "CA",
+    "website": "dynamicsfanatics.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: MicrosoftNavisionEnd of Life: What Your Business Should Do Next",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.dynamicsfanatics.com/post/microsoft-navision-end-of-life-what-it-means-for-your-business-next-steps",
+    "discovered_at": "2026-04-09T10:45:22.017995Z",
+    "created_at": "2026-04-09 10:45:22",
+    "updated_at": "2026-04-09T10:45:22.018004Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1481628,
+    "company_name": "Dynamicssmartz Com",
+    "country": "CA",
+    "website": "dynamicssmartz.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Everything You Need to Know About Microsoft Dynamics NAV in 2026",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.dynamicssmartz.com/blog/microsoft-dynamics-nav/",
+    "discovered_at": "2026-04-09T10:45:22.017260Z",
+    "created_at": "2026-04-09 10:45:22",
+    "updated_at": "2026-04-09T10:45:22.017272Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "active"
+  },
+  {
+    "id": 1481561,
+    "company_name": "Fairytell Dk",
+    "country": "NO",
+    "website": "fairytell.dk",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: En omfattende guide tilNavision- Fairytell Artiklen",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://fairytell.dk/navision/",
+    "discovered_at": "2026-04-09T10:44:26.197368Z",
+    "created_at": "2026-04-09 10:44:26",
+    "updated_at": "2026-04-09T10:44:26.197370Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
   },
   {
     "id": 1481323,
@@ -13143,7 +13311,7 @@
     "is_verified": 1,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": "verified_job_lead"
+    "lead_type": "active"
   },
   {
     "id": 512,
@@ -13164,7 +13332,7 @@
     "is_verified": 1,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": "verified_job_lead"
+    "lead_type": "active"
   },
   {
     "id": 490,
@@ -13185,7 +13353,7 @@
     "is_verified": 1,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": "verified_job_lead"
+    "lead_type": "active"
   },
   {
     "id": 489,
@@ -13206,7 +13374,7 @@
     "is_verified": 1,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": "verified_job_lead"
+    "lead_type": "active"
   },
   {
     "id": 488,
@@ -13227,7 +13395,7 @@
     "is_verified": 1,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": "verified_job_lead"
+    "lead_type": "active"
   },
   {
     "id": 487,
@@ -13248,7 +13416,7 @@
     "is_verified": 1,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": "verified_job_lead"
+    "lead_type": "active"
   },
   {
     "id": 485,
@@ -13269,7 +13437,7 @@
     "is_verified": 1,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": "verified_job_lead"
+    "lead_type": "active"
   },
   {
     "id": 482,
@@ -13290,7 +13458,7 @@
     "is_verified": 1,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": "verified_job_lead"
+    "lead_type": "active"
   },
   {
     "id": 481,
@@ -13311,7 +13479,7 @@
     "is_verified": 1,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": "verified_job_lead"
+    "lead_type": "active"
   },
   {
     "id": 479,
@@ -15180,7 +15348,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": "verified_job_lead"
+    "lead_type": "legacy"
   },
   {
     "id": 15,
@@ -15222,7 +15390,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": "verified_job_lead"
+    "lead_type": "legacy"
   },
   {
     "id": 1,
