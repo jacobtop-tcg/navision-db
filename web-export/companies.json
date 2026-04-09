@@ -480,6 +480,21 @@
     "linkedin": ""
   },
   {
+    "name": "#ERP",
+    "country": "PL",
+    "industry": "Market Research",
+    "evidence_type": "technology_stack",
+    "evidence": "Listed on TheirStack as Microsoft Dynamics NAV user",
+    "confidence": 4,
+    "source": "theirstack",
+    "website": "",
+    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
+    "discovered": "2026-04-09T17:02:01.753361Z",
+    "employees": "1",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "NAVISIONDOBRASILLTDA",
     "country": "BR",
     "industry": "",
@@ -506,21 +521,6 @@
     "source_url": "https://brasilcnpj.net/cnpj/navision-tecnologia-ltda-59993070000130",
     "discovered": "2026-04-09T16:56:22.218266Z",
     "employees": "",
-    "address": "",
-    "linkedin": ""
-  },
-  {
-    "name": "#ERP",
-    "country": "PL",
-    "industry": "Market Research",
-    "evidence_type": "technology_stack",
-    "evidence": "Listed on TheirStack as Microsoft Dynamics NAV user",
-    "confidence": 4,
-    "source": "theirstack",
-    "website": "",
-    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
-    "discovered": "2026-04-09T16:53:06.795456Z",
-    "employees": "1",
     "address": "",
     "linkedin": ""
   },
