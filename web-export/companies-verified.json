@@ -546,6 +546,69 @@
     "lead_type": "legacy"
   },
   {
+    "id": 1480722,
+    "company_name": "Navision| Dynamics NAV",
+    "country": "MX",
+    "website": "google.com.mx",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Navision| Dynamics NAV - Software de gesti\u00f3n ERP para PYME",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.google.com.mx/goto?url=CAESVwE7q4yl9Vnsj5paAC15y7dyu59W3PphdAhWCVLE_rDuuXjdE0IBj2r5ThNIKIO06VnmJEBhkB8_Scb0MKdkwwfhxhThPO7eosGf2jPjvLj08mWUUYOcFw%3D%3D",
+    "discovered_at": "2026-04-09T10:19:02.961934Z",
+    "created_at": "2026-04-09 10:19:02",
+    "updated_at": "2026-04-09T10:19:02.961935Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1480720,
+    "company_name": "Google Com Mx",
+    "country": "MX",
+    "website": "google.com.mx",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Microsoft Dynamics NAVNavision- Software ERP",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.google.com.mx/goto?url=CAESbwE7q4yl-daCpW_bCjbf9Jv-OfSG6leh5LM9cqrbkNXhqs_DBzxuSKstaP9AxXCqNQK9jj3KA6Rg1ybIG5gZnSoIRaUwGA52ux61k1ZFTbP_dQA6P1Ejk7_xwFfcevduXqSoIkBlbCorSdT9TCaMBg%3D%3D",
+    "discovered_at": "2026-04-09T10:19:02.961849Z",
+    "created_at": "2026-04-09 10:19:02",
+    "updated_at": "2026-04-09T10:19:02.961852Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1480719,
+    "company_name": "Navisionde Microsoft",
+    "country": "MX",
+    "website": "grupoactive.es",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Navisionde Microsoft - Dynamics Nav - Grupo Active",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://grupoactive.es/es/software/erp/navision-dynamics-nav",
+    "discovered_at": "2026-04-09T10:19:02.961657Z",
+    "created_at": "2026-04-09 10:19:02",
+    "updated_at": "2026-04-09T10:19:02.961662Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
     "id": 1480681,
     "company_name": "Dynamicssquare Com",
     "country": "ES",
@@ -564,7 +627,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1480680,
@@ -585,7 +648,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1480679,
@@ -606,7 +669,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1480678,
@@ -627,7 +690,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "active"
   },
   {
     "id": 1480659,
@@ -648,7 +711,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1480658,
@@ -669,28 +732,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
-  },
-  {
-    "id": 1480549,
-    "company_name": "#ERP",
-    "country": "PL",
-    "website": "",
-    "industry": "Market Research",
-    "employees": "1",
-    "revenue": "",
-    "evidence_type": "technology_stack",
-    "evidence_text": "Listed on TheirStack as Microsoft Dynamics NAV user",
-    "confidence_score": 4,
-    "source": "theirstack",
-    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
-    "discovered_at": "2026-04-09T10:15:27.238967Z",
-    "created_at": "2026-04-09 10:15:27",
-    "updated_at": "2026-04-09T10:15:27.238971Z",
-    "is_verified": 0,
-    "headquarters_address": "",
-    "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1480388,
