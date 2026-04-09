@@ -546,6 +546,27 @@
     "lead_type": "legacy"
   },
   {
+    "id": 1500760,
+    "company_name": "MicrosoftDynamicsNAV/ Navision",
+    "country": "BE",
+    "website": "alistar.net",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: MicrosoftDynamicsNAV/ Navision - Alistar",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://alistar.net/nl/erp/technologie/microsoft-dynamics-365-navision/",
+    "discovered_at": "2026-04-09T19:49:15.288314Z",
+    "created_at": "2026-04-09 19:49:15",
+    "updated_at": "2026-04-09T19:49:15.288315Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
     "id": 1500681,
     "company_name": "Onewayweb Dk",
     "country": "DK",
@@ -564,28 +585,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
-  },
-  {
-    "id": 1500649,
-    "company_name": "#ERP",
-    "country": "PL",
-    "website": "",
-    "industry": "Market Research",
-    "employees": "1",
-    "revenue": "",
-    "evidence_type": "technology_stack",
-    "evidence_text": "Listed on TheirStack as Microsoft Dynamics NAV user",
-    "confidence_score": 4,
-    "source": "theirstack",
-    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
-    "discovered_at": "2026-04-09T19:47:18.786811Z",
-    "created_at": "2026-04-09 19:47:18",
-    "updated_at": "2026-04-09T19:47:18.786817Z",
-    "is_verified": 0,
-    "headquarters_address": "",
-    "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1500462,

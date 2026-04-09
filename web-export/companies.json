@@ -480,6 +480,21 @@
     "linkedin": ""
   },
   {
+    "name": "MicrosoftDynamicsNAV/ Navision",
+    "country": "BE",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: MicrosoftDynamicsNAV/ Navision - Alistar",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "alistar.net",
+    "source_url": "https://alistar.net/nl/erp/technologie/microsoft-dynamics-365-navision/",
+    "discovered": "2026-04-09T19:49:15.288314Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Onewayweb Dk",
     "country": "DK",
     "industry": "",
@@ -491,21 +506,6 @@
     "source_url": "https://onewayweb.dk/navision-software/",
     "discovered": "2026-04-09T19:48:23.472293Z",
     "employees": "",
-    "address": "",
-    "linkedin": ""
-  },
-  {
-    "name": "#ERP",
-    "country": "PL",
-    "industry": "Market Research",
-    "evidence_type": "technology_stack",
-    "evidence": "Listed on TheirStack as Microsoft Dynamics NAV user",
-    "confidence": 4,
-    "source": "theirstack",
-    "website": "",
-    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
-    "discovered": "2026-04-09T19:47:18.786811Z",
-    "employees": "1",
     "address": "",
     "linkedin": ""
   },
