@@ -480,6 +480,21 @@
     "linkedin": ""
   },
   {
+    "name": "Dynamicssmartz Com",
+    "country": "NZ",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Everything You Need to Know About Microsoft Dynamics NAV in 2026",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "dynamicssmartz.com",
+    "source_url": "https://www.dynamicssmartz.com/au/blog/microsoft-dynamics-nav/",
+    "discovered": "2026-04-09T11:04:51.319693Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Hugendubel De",
     "country": "DE",
     "industry": "",
@@ -761,21 +776,6 @@
     "source_url": "https://jcd.dk/microsoft-dynamics/",
     "discovered": "2026-04-09T11:02:06.188519Z",
     "employees": "",
-    "address": "",
-    "linkedin": ""
-  },
-  {
-    "name": "#ERP",
-    "country": "PL",
-    "industry": "Market Research",
-    "evidence_type": "technology_stack",
-    "evidence": "Listed on TheirStack as Microsoft Dynamics NAV user",
-    "confidence": 4,
-    "source": "theirstack",
-    "website": "",
-    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
-    "discovered": "2026-04-09T11:01:01.605712Z",
-    "employees": "1",
     "address": "",
     "linkedin": ""
   },
