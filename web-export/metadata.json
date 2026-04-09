@@ -1,28 +1,28 @@
 {
-  "total_companies": 13869,
-  "last_updated": "2026-04-09T00:26:46.980099Z",
+  "total_companies": 13873,
+  "last_updated": "2026-04-09T00:31:51.031621Z",
   "by_confidence": {
     "5": 40,
-    "4": 2146,
+    "4": 2150,
     "3": 11661,
     "1": 22
   },
   "top_countries": {
     "DE": 922,
-    "DK": 906,
+    "DK": 907,
     "US": 847,
     "FR": 757,
     "NL": 700,
     "ES": 667,
     "IT": 628,
-    "CA": 609,
+    "CA": 610,
     "IN": 585,
     "BE": 543,
     "UK": 523,
     "CH": 402,
     "SE": 381,
     "AU": 362,
-    "NO": 347,
+    "NO": 348,
     "PL": 306,
     "SG": 304,
     "AE": 220,
@@ -33,7 +33,7 @@
     "theirstack_full": 6425,
     "microsoft_partner": 920,
     "linkedin": 750,
-    "global_jobs": 729,
+    "global_jobs": 733,
     "TheirStack": 172,
     "theirstack": 162,
     "job_posting": 106,
@@ -43,6 +43,6 @@
   },
   "date_range": {
     "first": "2026-03-20T18:08:51.494734Z",
-    "latest": "2026-04-09T00:26:23.204414Z"
+    "latest": "2026-04-09T00:31:12.236828Z"
   }
 }
