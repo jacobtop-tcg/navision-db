@@ -480,6 +480,36 @@
     "linkedin": ""
   },
   {
+    "name": "Go Erp Eu",
+    "country": "UK",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: The 7 Core Capabilities of MicrosoftNavision(Dynamics NAV)",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "go-erp.eu",
+    "source_url": "https://go-erp.eu/what-is-microsoft-navision-an-overview/",
+    "discovered": "2026-04-09T12:18:03.749651Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
+    "name": "#ERP",
+    "country": "PL",
+    "industry": "Market Research",
+    "evidence_type": "technology_stack",
+    "evidence": "Listed on TheirStack as Microsoft Dynamics NAV user",
+    "confidence": 4,
+    "source": "theirstack",
+    "website": "",
+    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
+    "discovered": "2026-04-09T12:16:13.263160Z",
+    "employees": "1",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Dynamicssquare Com",
     "country": "IN",
     "industry": "",
