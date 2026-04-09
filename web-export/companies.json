@@ -480,6 +480,21 @@
     "linkedin": ""
   },
   {
+    "name": "Microsoft DynamicsNavision: Guía Completa 2026",
+    "country": "AR",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Microsoft DynamicsNavision: Guía Completa 2026 - kube.systems",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "kube.systems",
+    "source_url": "https://kube.systems/microsoft-dynamics-navision/",
+    "discovered": "2026-04-09T15:16:09.006030Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "NAVISIONSOFTWARE BELGIE N.V.",
     "country": "BE",
     "industry": "",
@@ -506,21 +521,6 @@
     "source_url": "https://alistar.net/nl/blog/dynamics-nav-navision-experts-worden-schaars/",
     "discovered": "2026-04-09T15:13:56.766061Z",
     "employees": "",
-    "address": "",
-    "linkedin": ""
-  },
-  {
-    "name": "#ERP",
-    "country": "PL",
-    "industry": "Market Research",
-    "evidence_type": "technology_stack",
-    "evidence": "Listed on TheirStack as Microsoft Dynamics NAV user",
-    "confidence": 4,
-    "source": "theirstack",
-    "website": "",
-    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
-    "discovered": "2026-04-09T15:11:38.457399Z",
-    "employees": "1",
     "address": "",
     "linkedin": ""
   },
