@@ -600,6 +600,36 @@
     "linkedin": ""
   },
   {
+    "name": "kompaConsult",
+    "country": "DE",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: kompaConsult - Professionelle IT-Lösungen mitNavision",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "kompaconsult.com",
+    "source_url": "http://www.kompaconsult.com/",
+    "discovered": "2026-04-09T07:38:36.555811Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
+    "name": "#ERP",
+    "country": "PL",
+    "industry": "Market Research",
+    "evidence_type": "technology_stack",
+    "evidence": "Listed on TheirStack as Microsoft Dynamics NAV user",
+    "confidence": 4,
+    "source": "theirstack",
+    "website": "",
+    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
+    "discovered": "2026-04-09T07:36:38.259469Z",
+    "employees": "1",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Casestudies Com",
     "country": "IT",
     "industry": "",
