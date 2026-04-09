@@ -480,6 +480,21 @@
     "linkedin": ""
   },
   {
+    "name": "Axial Erp Co",
+    "country": "CO",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: MicrosoftNavisiono Microsoft Dynamics NAV: Una solución ERP para …",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "axial-erp.co",
+    "source_url": "https://axial-erp.co/erp/microsoft-navision-o-microsoft-dynamics-nav-una-solucion-erp-para-la-gestion-empresarial/",
+    "discovered": "2026-04-09T21:41:21.044544Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Sterling Team Com",
     "country": "NO",
     "industry": "",
@@ -491,21 +506,6 @@
     "source_url": "https://www.sterling-team.com/news/en/what-is-microsoft-navision-erp-an-in-depth-look-at-dynamics-nav/",
     "discovered": "2026-04-09T21:38:54.309056Z",
     "employees": "",
-    "address": "",
-    "linkedin": ""
-  },
-  {
-    "name": "#ERP",
-    "country": "PL",
-    "industry": "Market Research",
-    "evidence_type": "technology_stack",
-    "evidence": "Listed on TheirStack as Microsoft Dynamics NAV user",
-    "confidence": 4,
-    "source": "theirstack",
-    "website": "",
-    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
-    "discovered": "2026-04-09T21:37:32.336221Z",
-    "employees": "1",
     "address": "",
     "linkedin": ""
   },
