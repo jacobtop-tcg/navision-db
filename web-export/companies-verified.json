@@ -564,7 +564,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1503060,
@@ -585,7 +585,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1503044,
@@ -606,7 +606,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1503043,
@@ -627,7 +627,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1503042,
@@ -648,7 +648,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1503041,
@@ -669,7 +669,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "active"
   },
   {
     "id": 1503040,
@@ -690,7 +690,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1503031,
@@ -711,7 +711,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1503028,
@@ -732,28 +732,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
-  },
-  {
-    "id": 1502973,
-    "company_name": "#ERP",
-    "country": "PL",
-    "website": "",
-    "industry": "Market Research",
-    "employees": "1",
-    "revenue": "",
-    "evidence_type": "technology_stack",
-    "evidence_text": "Listed on TheirStack as Microsoft Dynamics NAV user",
-    "confidence_score": 4,
-    "source": "theirstack",
-    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
-    "discovered_at": "2026-04-09T20:52:05.258398Z",
-    "created_at": "2026-04-09 20:52:05",
-    "updated_at": "2026-04-09T20:52:05.258403Z",
-    "is_verified": 0,
-    "headquarters_address": "",
-    "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1502755,
