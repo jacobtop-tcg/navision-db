@@ -480,6 +480,36 @@
     "linkedin": ""
   },
   {
+    "name": "Navisionrozpoczął działalność w Polsce",
+    "country": "PL",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Navisionrozpoczął działalność w Polsce - Puls Biznesu - pb.pl",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "pb.pl",
+    "source_url": "https://www.pb.pl/navision-rozpoczal-dzialalnosc-w-polsce-20603",
+    "discovered": "2026-04-10T07:34:34.980639Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
+    "name": "#ERP",
+    "country": "PL",
+    "industry": "Market Research",
+    "evidence_type": "technology_stack",
+    "evidence": "Listed on TheirStack as Microsoft Dynamics NAV user",
+    "confidence": 4,
+    "source": "theirstack",
+    "website": "",
+    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
+    "discovered": "2026-04-10T07:32:09.759427Z",
+    "employees": "1",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Dynamics Connect Co Uk",
     "country": "PE",
     "industry": "",
