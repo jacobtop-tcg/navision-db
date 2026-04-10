@@ -480,6 +480,21 @@
     "linkedin": ""
   },
   {
+    "name": "Chi Siamo",
+    "country": "IT",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Chi Siamo - Dynamics Consult",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "dynamicsconsult.com",
+    "source_url": "https://www.dynamicsconsult.com/index.php/dynamics-navision/",
+    "discovered": "2026-04-10T03:30:47.576873Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Leyesytecnologia Com",
     "country": "ES",
     "industry": "",
