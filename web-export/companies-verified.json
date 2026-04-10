@@ -546,6 +546,27 @@
     "lead_type": "legacy"
   },
   {
+    "id": 1550280,
+    "company_name": "#ERP",
+    "country": "PL",
+    "website": "",
+    "industry": "Market Research",
+    "employees": "1",
+    "revenue": "",
+    "evidence_type": "technology_stack",
+    "evidence_text": "Listed on TheirStack as Microsoft Dynamics NAV user",
+    "confidence_score": 4,
+    "source": "theirstack",
+    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
+    "discovered_at": "2026-04-10T19:56:53.705316Z",
+    "created_at": "2026-04-10 19:56:53",
+    "updated_at": "2026-04-10T19:56:53.705322Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": null
+  },
+  {
     "id": 1546385,
     "company_name": "Bolsa de trabajo paranavisionenM\u00e9xico| OCC",
     "country": "MX",
