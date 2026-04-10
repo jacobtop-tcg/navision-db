@@ -480,6 +480,36 @@
     "linkedin": ""
   },
   {
+    "name": "Meet Dynamics NAV",
+    "country": "NO",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Meet Dynamics NAV - Vertex Systems",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "vertexsystems.com",
+    "source_url": "https://vertexsystems.com/wp-content/uploads/2020/07/Microsoft-Dynamics-NAV-Complete-User-Guide.pdf",
+    "discovered": "2026-04-10T13:10:34.427129Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
+    "name": "#ERP",
+    "country": "PL",
+    "industry": "Market Research",
+    "evidence_type": "technology_stack",
+    "evidence": "Listed on TheirStack as Microsoft Dynamics NAV user",
+    "confidence": 4,
+    "source": "theirstack",
+    "website": "",
+    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
+    "discovered": "2026-04-10T13:09:10.554972Z",
+    "employees": "1",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Profikurs Microsoft Dynamics NAV: Einführung",
     "country": "DE",
     "industry": "",
