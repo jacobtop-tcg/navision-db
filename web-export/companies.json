@@ -480,6 +480,36 @@
     "linkedin": ""
   },
   {
+    "name": "Microsoft Dynamics NAV: ERP per PMI",
+    "country": "IT",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Microsoft Dynamics NAV: ERP per PMI - Serinf",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "serinf.it",
+    "source_url": "https://www.serinf.it/software-pmi/erp/microsoft-dynamics-nav/",
+    "discovered": "2026-04-10T08:55:24.951029Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
+    "name": "#ERP",
+    "country": "PL",
+    "industry": "Market Research",
+    "evidence_type": "technology_stack",
+    "evidence": "Listed on TheirStack as Microsoft Dynamics NAV user",
+    "confidence": 4,
+    "source": "theirstack",
+    "website": "",
+    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
+    "discovered": "2026-04-10T08:53:08.768427Z",
+    "employees": "1",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Navisionrozpoczął działalność w Polsce",
     "country": "PL",
     "industry": "",
