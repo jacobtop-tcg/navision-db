@@ -480,6 +480,36 @@
     "linkedin": ""
   },
   {
+    "name": "CaseStudy- Power BI connects with Dynamics NAV 2016",
+    "country": "IN",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: CaseStudy- Power BI connects with Dynamics NAV 2016 - LinkedIn",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "linkedin.com",
+    "source_url": "https://www.linkedin.com/pulse/case-study-power-bi-connects-dynamics-nav-2016-neeraj-gargi",
+    "discovered": "2026-04-10T00:06:00.091123Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
+    "name": "#ERP",
+    "country": "PL",
+    "industry": "Market Research",
+    "evidence_type": "technology_stack",
+    "evidence": "Listed on TheirStack as Microsoft Dynamics NAV user",
+    "confidence": 4,
+    "source": "theirstack",
+    "website": "",
+    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
+    "discovered": "2026-04-10T00:03:26.557897Z",
+    "employees": "1",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Dynamics Connect Co Uk",
     "country": "BE",
     "industry": "",
