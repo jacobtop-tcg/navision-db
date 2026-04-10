@@ -480,6 +480,36 @@
     "linkedin": ""
   },
   {
+    "name": "Encorebusiness Com",
+    "country": "US",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Dynamics NAV Partner | Encore Business Solutions",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "encorebusiness.com",
+    "source_url": "https://www.encorebusiness.com/solutions/microsoft-dynamics-nav/",
+    "discovered": "2026-04-10T05:37:03.700216Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
+    "name": "Mprise Nl",
+    "country": "NL",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Microsoft Dynamics NAV ofNavision- Mprise",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "mprise.nl",
+    "source_url": "https://www.mprise.nl/business-solutions/dynamics-nav-navision",
+    "discovered": "2026-04-10T05:36:50.102525Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Chi Siamo",
     "country": "IT",
     "industry": "",
