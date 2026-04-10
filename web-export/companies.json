@@ -480,6 +480,36 @@
     "linkedin": ""
   },
   {
+    "name": "Appvizer Fr",
+    "country": "FR",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Microsoft Dynamics NAV (Navision) : Progiciel (ERP) …",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "appvizer.fr",
+    "source_url": "https://www.appvizer.fr/operations/erp/microsoft-dynamics-nav",
+    "discovered": "2026-04-10T14:52:31.535768Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
+    "name": "#ERP",
+    "country": "PL",
+    "industry": "Market Research",
+    "evidence_type": "technology_stack",
+    "evidence": "Listed on TheirStack as Microsoft Dynamics NAV user",
+    "confidence": 4,
+    "source": "theirstack",
+    "website": "",
+    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
+    "discovered": "2026-04-10T14:50:05.997014Z",
+    "employees": "1",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Microsoft DynamicsNavision: Guía Completa 2026",
     "country": "PE",
     "industry": "",
