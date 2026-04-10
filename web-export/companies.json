@@ -480,6 +480,36 @@
     "linkedin": ""
   },
   {
+    "name": "Kube Systems",
+    "country": "CO",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: NavisionERP: Evolución y Transformación Digital 2026",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "kube.systems",
+    "source_url": "https://kube.systems/navision-erp/",
+    "discovered": "2026-04-10T06:05:24.306105Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
+    "name": "MicrosoftDynamicsNav- CONSULTORÍA NAVISION",
+    "country": "CL",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: MicrosoftDynamicsNav- CONSULTORÍA NAVISION - EVOTEC",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "consultorianavision.com",
+    "source_url": "https://www.consultorianavision.com/",
+    "discovered": "2026-04-10T06:05:16.314381Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Microsoft Dynamics NAV",
     "country": "PL",
     "industry": "",
@@ -491,21 +521,6 @@
     "source_url": "https://www.navision.pl/pl/dynamics-nav",
     "discovered": "2026-04-10T06:03:53.235504Z",
     "employees": "",
-    "address": "",
-    "linkedin": ""
-  },
-  {
-    "name": "#ERP",
-    "country": "PL",
-    "industry": "Market Research",
-    "evidence_type": "technology_stack",
-    "evidence": "Listed on TheirStack as Microsoft Dynamics NAV user",
-    "confidence": 4,
-    "source": "theirstack",
-    "website": "",
-    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
-    "discovered": "2026-04-10T06:01:01.671434Z",
-    "employees": "1",
     "address": "",
     "linkedin": ""
   },
