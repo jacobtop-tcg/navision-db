@@ -546,27 +546,6 @@
     "lead_type": "legacy"
   },
   {
-    "id": 1541582,
-    "company_name": "#ERP",
-    "country": "PL",
-    "website": "",
-    "industry": "Market Research",
-    "employees": "1",
-    "revenue": "",
-    "evidence_type": "technology_stack",
-    "evidence_text": "Listed on TheirStack as Microsoft Dynamics NAV user",
-    "confidence_score": 4,
-    "source": "theirstack",
-    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
-    "discovered_at": "2026-04-10T15:36:22.666310Z",
-    "created_at": "2026-04-10 15:36:22",
-    "updated_at": "2026-04-10T15:36:22.666314Z",
-    "is_verified": 0,
-    "headquarters_address": "",
-    "linkedin_url": "",
-    "lead_type": null
-  },
-  {
     "id": 1540128,
     "company_name": "Appvizer Fr",
     "country": "FR",
