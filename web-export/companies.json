@@ -480,6 +480,36 @@
     "linkedin": ""
   },
   {
+    "name": "Microchannel Asia",
+    "country": "KR",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Navision- Now Microsoft Dynamics NAV | MicroChannel",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "microchannel.asia",
+    "source_url": "https://www.microchannel.asia/microsoft-dynamics-nav/navision/",
+    "discovered": "2026-04-10T10:00:32.627664Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
+    "name": "#ERP",
+    "country": "PL",
+    "industry": "Market Research",
+    "evidence_type": "technology_stack",
+    "evidence": "Listed on TheirStack as Microsoft Dynamics NAV user",
+    "confidence": 4,
+    "source": "theirstack",
+    "website": "",
+    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
+    "discovered": "2026-04-10T09:57:35.907945Z",
+    "employees": "1",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Sabrelimited Com",
     "country": "DK",
     "industry": "",
