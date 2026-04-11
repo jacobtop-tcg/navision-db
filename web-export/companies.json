@@ -480,6 +480,36 @@
     "linkedin": ""
   },
   {
+    "name": "Dynamics NAV: The 3 T’s ofGo-LiveSuccess",
+    "country": "US",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Dynamics NAV: The 3 T’s ofGo-LiveSuccess - ArcherPoint",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "archerpoint.com",
+    "source_url": "https://archerpoint.com/dynamics-nav-the-3-ts-of-go-live-success/",
+    "discovered": "2026-04-11T01:25:09.228235Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
+    "name": "#ERP",
+    "country": "PL",
+    "industry": "Market Research",
+    "evidence_type": "technology_stack",
+    "evidence": "Listed on TheirStack as Microsoft Dynamics NAV user",
+    "confidence": 4,
+    "source": "theirstack",
+    "website": "",
+    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
+    "discovered": "2026-04-11T01:22:43.656544Z",
+    "employees": "1",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "NavisionERP systeem",
     "country": "NL",
     "industry": "",
