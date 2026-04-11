@@ -181125,6 +181125,27 @@
     "lead_type": "legacy"
   },
   {
+    "id": 1595602,
+    "company_name": "Navisionf\u00e5r ny international forhandler",
+    "country": "DK",
+    "website": "computerworld.dk",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Navisionf\u00e5r ny international forhandler - Computerworld",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.computerworld.dk/art/66064/navision-faar-ny-international-forhandler",
+    "discovered_at": "2026-04-11T17:11:04.580422Z",
+    "created_at": "2026-04-11 17:11:04",
+    "updated_at": "2026-04-11T17:11:04.580423Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
     "id": 1592216,
     "company_name": "Microsoft DynamicsNaVisionaff\u00e4rssystem",
     "country": "SE",
