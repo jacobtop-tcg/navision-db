@@ -142125,6 +142125,36 @@
     "linkedin": ""
   },
   {
+    "name": "Hvad erNavisionERP? › IT | ITReload.dk",
+    "country": "DK",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Hvad erNavisionERP? › IT | ITReload.dk - Data, Tale, Video, IT",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "itreload.dk",
+    "source_url": "https://itreload.dk/artikel/it/hvad-er-navision-erp",
+    "discovered": "2026-04-11T14:52:31.547135Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
+    "name": "#ERP",
+    "country": "PL",
+    "industry": "Market Research",
+    "evidence_type": "technology_stack",
+    "evidence": "Listed on TheirStack as Microsoft Dynamics NAV user",
+    "confidence": 4,
+    "source": "theirstack",
+    "website": "",
+    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
+    "discovered": "2026-04-11T14:51:22.030925Z",
+    "employees": "1",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Stoneridgesoftware Com",
     "country": "NO",
     "industry": "",
