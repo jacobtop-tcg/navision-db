@@ -142125,6 +142125,21 @@
     "linkedin": ""
   },
   {
+    "name": "#ERP",
+    "country": "PL",
+    "industry": "Market Research",
+    "evidence_type": "technology_stack",
+    "evidence": "Listed on TheirStack as Microsoft Dynamics NAV user",
+    "confidence": 4,
+    "source": "theirstack",
+    "website": "",
+    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
+    "discovered": "2026-04-11T20:16:16.092141Z",
+    "employees": "1",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Priority Software Com",
     "country": "NL",
     "industry": "",
@@ -142166,21 +142181,6 @@
     "source_url": "https://www.ltmemory.de/software-loesungen/erp/microsoft-dynamics-nav/",
     "discovered": "2026-04-11T20:08:32.120924Z",
     "employees": "",
-    "address": "",
-    "linkedin": ""
-  },
-  {
-    "name": "#ERP",
-    "country": "PL",
-    "industry": "Market Research",
-    "evidence_type": "technology_stack",
-    "evidence": "Listed on TheirStack as Microsoft Dynamics NAV user",
-    "confidence": 4,
-    "source": "theirstack",
-    "website": "",
-    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
-    "discovered": "2026-04-11T20:06:41.131169Z",
-    "employees": "1",
     "address": "",
     "linkedin": ""
   },
