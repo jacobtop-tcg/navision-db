@@ -142125,6 +142125,21 @@
     "linkedin": ""
   },
   {
+    "name": "Microsoft Dynamics Nav",
+    "country": "PE",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Microsoft Dynamics Nav - CONSULTORÍANAVISION- EVOTEC",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "consultorianavision.com",
+    "source_url": "https://www.consultorianavision.com/",
+    "discovered": "2026-04-11T12:37:35.714075Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Microsoft DynamicsNavision: Guía Completa 2026",
     "country": "ES",
     "industry": "",
@@ -142136,21 +142151,6 @@
     "source_url": "https://kube.systems/microsoft-dynamics-navision/",
     "discovered": "2026-04-11T12:36:19.856738Z",
     "employees": "",
-    "address": "",
-    "linkedin": ""
-  },
-  {
-    "name": "#ERP",
-    "country": "PL",
-    "industry": "Market Research",
-    "evidence_type": "technology_stack",
-    "evidence": "Listed on TheirStack as Microsoft Dynamics NAV user",
-    "confidence": 4,
-    "source": "theirstack",
-    "website": "",
-    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
-    "discovered": "2026-04-11T12:33:58.073609Z",
-    "employees": "1",
     "address": "",
     "linkedin": ""
   },
