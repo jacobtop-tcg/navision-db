@@ -1,48 +1,48 @@
 {
-  "total_companies": 10892,
-  "last_updated": "2026-04-11T12:16:32.990868Z",
+  "total_companies": 10213,
+  "last_updated": "2026-04-11T12:21:35.965967Z",
   "by_confidence": {
-    "5": 434,
-    "4": 1197,
-    "3": 8988,
-    "1": 273
+    "5": 9725,
+    "4": 254,
+    "3": 163,
+    "2": 71
   },
   "top_countries": {
-    "US": 952,
-    "DK": 824,
-    "DE": 755,
-    "NL": 642,
-    "FR": 584,
-    "ES": 573,
-    "CA": 560,
-    "UK": 551,
-    "IT": 499,
-    "BE": 463,
-    "IN": 445,
-    "CH": 367,
-    "SE": 331,
-    "NO": 302,
-    "AU": 241,
-    "SG": 222,
-    "PL": 197,
-    "AE": 137,
-    "IE": 127,
-    "GB": 114
+    "US": 1036,
+    "DK": 775,
+    "DE": 708,
+    "NL": 632,
+    "FR": 570,
+    "ES": 565,
+    "CA": 559,
+    "UK": 530,
+    "IT": 494,
+    "BE": 466,
+    "IN": 449,
+    "CH": 363,
+    "SE": 312,
+    "NO": 278,
+    "AU": 231,
+    "SG": 218,
+    "PL": 191,
+    "AE": 134,
+    "GB": 131,
+    "IE": 124
   },
   "top_sources": {
     "theirstack_full": 6425,
-    "global_jobs": 883,
-    "linkedin": 610,
-    "job_posting_scrape": 167,
-    "theirstack": 161,
+    "global_jobs": 816,
+    "linkedin": 210,
+    "theirstack": 160,
     "web_search": 151,
-    "TheirStack": 122,
-    "nav_partner": 76,
+    "TheirStack": 146,
+    "nav_partner": 97,
     "theirstack_nordic_batch1": 61,
-    "manual_research": 60
+    "manual_research": 60,
+    "nav_user": 57
   },
   "date_range": {
     "first": "2026-03-20T18:08:51.494734Z",
-    "latest": "2026-04-11T12:15:27.991035Z"
+    "latest": "2026-04-11T12:21:28.027877Z"
   }
 }

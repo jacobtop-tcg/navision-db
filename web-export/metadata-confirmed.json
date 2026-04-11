@@ -1,7 +1,7 @@
 {
-  "total_confirmed": 34566,
-  "total_rejected": 1932,
-  "quality_rate": "94.7%",
+  "total_confirmed": 1196,
+  "total_rejected": 7429,
+  "quality_rate": "13.9%",
   "criteria": "Only companies with SOLID evidence of Navision usage",
-  "last_updated": "2026-03-30T15:39:36.961089Z"
+  "last_updated": "2026-04-11T12:20:09.236009Z"
 }
