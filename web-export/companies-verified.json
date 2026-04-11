@@ -546,7 +546,7 @@
     "lead_type": "legacy"
   },
   {
-    "id": 1569312,
+    "id": 1569629,
     "company_name": "#ERP",
     "country": "PL",
     "website": "",
@@ -558,9 +558,9 @@
     "confidence_score": 4,
     "source": "theirstack",
     "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
-    "discovered_at": "2026-04-11T05:02:30.494019Z",
-    "created_at": "2026-04-11 05:02:30",
-    "updated_at": "2026-04-11T05:02:30.494023Z",
+    "discovered_at": "2026-04-11T05:12:32.310822Z",
+    "created_at": "2026-04-11 05:12:32",
+    "updated_at": "2026-04-11T05:12:32.310830Z",
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
