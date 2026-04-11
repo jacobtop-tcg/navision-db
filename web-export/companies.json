@@ -480,6 +480,21 @@
     "linkedin": ""
   },
   {
+    "name": "MicrosoftNavisionin Brazil's ERP Market | PDF",
+    "country": "BR",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: MicrosoftNavisionin Brazil's ERP Market | PDF - Scribd",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "scribd.com",
+    "source_url": "https://www.scribd.com/document/109895703/net-curitiba-20121013-145115",
+    "discovered": "2026-04-11T00:40:35.537033Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Community Dynamics Com",
     "country": "US",
     "industry": "",
@@ -506,21 +521,6 @@
     "source_url": "https://dynamicweb.nl/oplossingen/ecommerce-voor-dynamics-nav",
     "discovered": "2026-04-11T00:38:56.141958Z",
     "employees": "",
-    "address": "",
-    "linkedin": ""
-  },
-  {
-    "name": "#ERP",
-    "country": "PL",
-    "industry": "Market Research",
-    "evidence_type": "technology_stack",
-    "evidence": "Listed on TheirStack as Microsoft Dynamics NAV user",
-    "confidence": 4,
-    "source": "theirstack",
-    "website": "",
-    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
-    "discovered": "2026-04-11T00:37:05.353281Z",
-    "employees": "1",
     "address": "",
     "linkedin": ""
   },
