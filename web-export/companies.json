@@ -480,6 +480,36 @@
     "linkedin": ""
   },
   {
+    "name": "Axial Erp Co",
+    "country": "PE",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: MicrosoftNavisiono Microsoft Dynamics NAV: Una solución ERP para …",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "axial-erp.co",
+    "source_url": "https://axial-erp.co/erp/microsoft-navision-o-microsoft-dynamics-nav-una-solucion-erp-para-la-gestion-empresarial/",
+    "discovered": "2026-04-11T06:02:45.911419Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
+    "name": "#ERP",
+    "country": "PL",
+    "industry": "Market Research",
+    "evidence_type": "technology_stack",
+    "evidence": "Listed on TheirStack as Microsoft Dynamics NAV user",
+    "confidence": 4,
+    "source": "theirstack",
+    "website": "",
+    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
+    "discovered": "2026-04-11T05:58:40.818324Z",
+    "employees": "1",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Ugma Com Mx",
     "country": "CL",
     "industry": "",
