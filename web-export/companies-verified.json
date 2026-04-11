@@ -546,6 +546,27 @@
     "lead_type": "legacy"
   },
   {
+    "id": 1560584,
+    "company_name": "Insightdata Be",
+    "country": "BE",
+    "website": "insightdata.be",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Navision- insightdata.be",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.insightdata.be/en/integrations/navision-financial-and-operational-reporting",
+    "discovered_at": "2026-04-11T00:57:18.476729Z",
+    "created_at": "2026-04-11 00:57:18",
+    "updated_at": "2026-04-11T00:57:18.476731Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
     "id": 1560309,
     "company_name": "Canadacompanyregistry Com",
     "country": "CA",

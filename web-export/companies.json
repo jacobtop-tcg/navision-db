@@ -480,6 +480,21 @@
     "linkedin": ""
   },
   {
+    "name": "Insightdata Be",
+    "country": "BE",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Navision- insightdata.be",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "insightdata.be",
+    "source_url": "https://www.insightdata.be/en/integrations/navision-financial-and-operational-reporting",
+    "discovered": "2026-04-11T00:57:18.476729Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Canadacompanyregistry Com",
     "country": "CA",
     "industry": "",
