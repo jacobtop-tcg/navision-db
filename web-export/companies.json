@@ -142125,6 +142125,36 @@
     "linkedin": ""
   },
   {
+    "name": "Features of Dynamics NAV and its Lifecycle | sa.global",
+    "country": "SE",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Features of Dynamics NAV and its Lifecycle | sa.global - Sweden",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "saglobal.com",
+    "source_url": "https://www.saglobal.com/en-se/insights/everything-you-wanted-to-know-about-dynamics-nav-and-upgrade-to-dynamics-365.html",
+    "discovered": "2026-04-11T20:46:23.631396Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
+    "name": "#ERP",
+    "country": "PL",
+    "industry": "Market Research",
+    "evidence_type": "technology_stack",
+    "evidence": "Listed on TheirStack as Microsoft Dynamics NAV user",
+    "confidence": 4,
+    "source": "theirstack",
+    "website": "",
+    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
+    "discovered": "2026-04-11T20:45:06.428825Z",
+    "employees": "1",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Priority Software Com",
     "country": "NL",
     "industry": "",
