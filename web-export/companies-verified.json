@@ -1,278 +1,5 @@
 [
   {
-    "id": 1585749,
-    "company_name": "ISS A/S",
-    "country": "DK",
-    "website": null,
-    "industry": null,
-    "employees": null,
-    "revenue": null,
-    "evidence_type": "smoking_gun_job",
-    "evidence_text": "S\u00f8ger: \"Dynamics 365 BC udvikler - globalt team\"",
-    "confidence_score": 5,
-    "source": "manual_smoking_gun_v2",
-    "source_url": "https://www.issworld.com/en-gb/careers",
-    "discovered_at": "2026-04-11T12:21:28.027877Z",
-    "created_at": "2026-04-11 12:21:28",
-    "updated_at": null,
-    "is_verified": 0,
-    "headquarters_address": null,
-    "linkedin_url": null,
-    "lead_type": null
-  },
-  {
-    "id": 1585748,
-    "company_name": "Carlsberg",
-    "country": "DK",
-    "website": null,
-    "industry": null,
-    "employees": null,
-    "revenue": null,
-    "evidence_type": "smoking_gun_job",
-    "evidence_text": "S\u00f8ger: \"Business Central konsulent - intern stilling\"",
-    "confidence_score": 5,
-    "source": "manual_smoking_gun_v2",
-    "source_url": "https://www.carlsberggroup.com/careers/",
-    "discovered_at": "2026-04-11T12:21:28.027747Z",
-    "created_at": "2026-04-11 12:21:28",
-    "updated_at": null,
-    "is_verified": 0,
-    "headquarters_address": null,
-    "linkedin_url": null,
-    "lead_type": null
-  },
-  {
-    "id": 1585747,
-    "company_name": "Puma Energy",
-    "country": "CH",
-    "website": null,
-    "industry": null,
-    "employees": null,
-    "revenue": null,
-    "evidence_type": "smoking_gun_enterprise",
-    "evidence_text": "Bruger Microsoft Dynamics 365 globalt ($18.5B revenue)",
-    "confidence_score": 5,
-    "source": "manual_smoking_gun_v2",
-    "source_url": "https://www.microsoft.com/en-us/dynamics-365/case-studies",
-    "discovered_at": "2026-04-11T12:21:28.027642Z",
-    "created_at": "2026-04-11 12:21:28",
-    "updated_at": null,
-    "is_verified": 0,
-    "headquarters_address": null,
-    "linkedin_url": null,
-    "lead_type": null
-  },
-  {
-    "id": 1585746,
-    "company_name": "Heineken USA",
-    "country": "US",
-    "website": null,
-    "industry": null,
-    "employees": null,
-    "revenue": null,
-    "evidence_type": "smoking_gun_enterprise",
-    "evidence_text": "Bruger Dynamics 365 Supply Chain Management (tidligere NAV baseret)",
-    "confidence_score": 5,
-    "source": "manual_smoking_gun_v2",
-    "source_url": "https://customers.microsoft.com/en-us/story/heineken-usa",
-    "discovered_at": "2026-04-11T12:21:28.027525Z",
-    "created_at": "2026-04-11 12:21:28",
-    "updated_at": null,
-    "is_verified": 0,
-    "headquarters_address": null,
-    "linkedin_url": null,
-    "lead_type": null
-  },
-  {
-    "id": 1585745,
-    "company_name": "ASICS",
-    "country": "JP",
-    "website": null,
-    "industry": null,
-    "employees": null,
-    "revenue": null,
-    "evidence_type": "smoking_gun_enterprise",
-    "evidence_text": "Bruger Dynamics 365 Business Central for EMEA region",
-    "confidence_score": 5,
-    "source": "manual_smoking_gun_v2",
-    "source_url": "https://customers.microsoft.com/en-us/story/asics",
-    "discovered_at": "2026-04-11T12:21:28.027487Z",
-    "created_at": "2026-04-11 12:21:28",
-    "updated_at": null,
-    "is_verified": 0,
-    "headquarters_address": null,
-    "linkedin_url": null,
-    "lead_type": null
-  },
-  {
-    "id": 1585744,
-    "company_name": "Yamaha Corporation",
-    "country": "JP",
-    "website": null,
-    "industry": null,
-    "employees": null,
-    "revenue": null,
-    "evidence_type": "smoking_gun_enterprise",
-    "evidence_text": "Bruger Microsoft Dynamics 365 i europ\u00e6iske datterselskaber",
-    "confidence_score": 5,
-    "source": "manual_smoking_gun_v2",
-    "source_url": "https://www.microsoft.com/en-us/dynamics-365/case-studies",
-    "discovered_at": "2026-04-11T12:21:28.027421Z",
-    "created_at": "2026-04-11 12:21:28",
-    "updated_at": null,
-    "is_verified": 0,
-    "headquarters_address": null,
-    "linkedin_url": null,
-    "lead_type": null
-  },
-  {
-    "id": 1585743,
-    "company_name": "Intrum",
-    "country": "SE",
-    "website": null,
-    "industry": null,
-    "employees": null,
-    "revenue": null,
-    "evidence_type": "smoking_gun_case",
-    "evidence_text": "Implementerede Dynamics 365 Finance (tidligere NAV). \"Moderniseret \u00f8konomistyring\"",
-    "confidence_score": 5,
-    "source": "manual_smoking_gun_v2",
-    "source_url": "https://customers.microsoft.com/en-us/story/intrum",
-    "discovered_at": "2026-04-11T12:21:28.027376Z",
-    "created_at": "2026-04-11 12:21:28",
-    "updated_at": null,
-    "is_verified": 0,
-    "headquarters_address": null,
-    "linkedin_url": null,
-    "lead_type": null
-  },
-  {
-    "id": 1585742,
-    "company_name": "Anticimex",
-    "country": "SE",
-    "website": null,
-    "industry": null,
-    "employees": null,
-    "revenue": null,
-    "evidence_type": "smoking_gun_case",
-    "evidence_text": "Bruger Dynamics 365 Business Central globalt. \"Skalerbar l\u00f8sning til skadedyrskontrol\"",
-    "confidence_score": 5,
-    "source": "manual_smoking_gun_v2",
-    "source_url": "https://customers.microsoft.com/en-us/story/anticimex",
-    "discovered_at": "2026-04-11T12:21:28.027327Z",
-    "created_at": "2026-04-11 12:21:28",
-    "updated_at": null,
-    "is_verified": 0,
-    "headquarters_address": null,
-    "linkedin_url": null,
-    "lead_type": null
-  },
-  {
-    "id": 1585741,
-    "company_name": "AddSecure",
-    "country": "SE",
-    "website": null,
-    "industry": null,
-    "employees": null,
-    "revenue": null,
-    "evidence_type": "smoking_gun_case",
-    "evidence_text": "G\u00e5et live med Dynamics 365 Business Central. \"Forbedret effektivitet p\u00e5 tv\u00e6rs af 10 lande\"",
-    "confidence_score": 5,
-    "source": "manual_smoking_gun_v2",
-    "source_url": "https://customers.microsoft.com/en-us/story/addsecure",
-    "discovered_at": "2026-04-11T12:21:28.027180Z",
-    "created_at": "2026-04-11 12:21:28",
-    "updated_at": null,
-    "is_verified": 0,
-    "headquarters_address": null,
-    "linkedin_url": null,
-    "lead_type": null
-  },
-  {
-    "id": 1585740,
-    "company_name": "IKEA",
-    "country": "SE",
-    "website": null,
-    "industry": null,
-    "employees": null,
-    "revenue": null,
-    "evidence_type": "smoking_gun_enterprise",
-    "evidence_text": "Bruger Microsoft Dynamics 365 Finance & Operations (tidligere NAV) i flere divisioner",
-    "confidence_score": 5,
-    "source": "manual_smoking_gun_v2",
-    "source_url": "https://www.microsoft.com/en-us/dynamics-365/case-studies",
-    "discovered_at": "2026-04-11T12:21:28.027079Z",
-    "created_at": "2026-04-11 12:21:28",
-    "updated_at": null,
-    "is_verified": 0,
-    "headquarters_address": null,
-    "linkedin_url": null,
-    "lead_type": null
-  },
-  {
-    "id": 1585739,
-    "company_name": "Heineken",
-    "country": "NL",
-    "website": null,
-    "industry": null,
-    "employees": null,
-    "revenue": null,
-    "evidence_type": "smoking_gun_enterprise",
-    "evidence_text": "Bruger Microsoft Dynamics 365 Business Central (global bryggeri, \u20ac35B revenue)",
-    "confidence_score": 5,
-    "source": "manual_smoking_gun_v2",
-    "source_url": "https://www.microsoft.com/en-us/dynamics-365/case-studies",
-    "discovered_at": "2026-04-11T12:21:28.026743Z",
-    "created_at": "2026-04-11 12:21:28",
-    "updated_at": null,
-    "is_verified": 0,
-    "headquarters_address": null,
-    "linkedin_url": null,
-    "lead_type": null
-  },
-  {
-    "id": 1585701,
-    "company_name": "Georg Berg A/S",
-    "country": "DK",
-    "website": null,
-    "industry": null,
-    "employees": null,
-    "revenue": null,
-    "evidence_type": "smoking_gun",
-    "evidence_text": "CEO: \"Gik live - k\u00f8rte l\u00f8n 4 dage efter skift\"",
-    "confidence_score": 5,
-    "source": "smoking_gun_hunt",
-    "source_url": "https://dynamicsinspire.dk/dynamics-nav/",
-    "discovered_at": "2026-04-11T12:21:27.905149Z",
-    "created_at": "2026-04-11 12:21:27",
-    "updated_at": null,
-    "is_verified": 0,
-    "headquarters_address": null,
-    "linkedin_url": null,
-    "lead_type": null
-  },
-  {
-    "id": 1585700,
-    "company_name": "Kaufmann ApS",
-    "country": "DK",
-    "website": null,
-    "industry": null,
-    "employees": null,
-    "revenue": null,
-    "evidence_type": "smoking_gun",
-    "evidence_text": "Kundecase: NAV er \u00f8konomisk rygrad for 45 butikker",
-    "confidence_score": 5,
-    "source": "smoking_gun_hunt",
-    "source_url": "https://9altitudes.com/dk/kundereferencer/kaufmann",
-    "discovered_at": "2026-04-11T12:21:27.904774Z",
-    "created_at": "2026-04-11 12:21:27",
-    "updated_at": null,
-    "is_verified": 0,
-    "headquarters_address": null,
-    "linkedin_url": null,
-    "lead_type": null
-  },
-  {
     "id": 1585031,
     "company_name": "Morgan Stanley",
     "country": "US",
@@ -291,7 +18,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1585029,
@@ -312,7 +39,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1585027,
@@ -333,7 +60,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1585025,
@@ -354,7 +81,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1585024,
@@ -375,7 +102,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1585020,
@@ -396,7 +123,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1585017,
@@ -417,7 +144,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1585016,
@@ -438,7 +165,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1585015,
@@ -459,7 +186,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1585014,
@@ -480,7 +207,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1585013,
@@ -501,7 +228,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1585012,
@@ -522,7 +249,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1585009,
@@ -543,7 +270,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1585008,
@@ -564,7 +291,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1585007,
@@ -585,7 +312,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1585006,
@@ -606,7 +333,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1585005,
@@ -627,7 +354,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1585003,
@@ -648,7 +375,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1584988,
@@ -669,7 +396,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1584986,
@@ -690,7 +417,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1584985,
@@ -711,7 +438,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1584984,
@@ -732,7 +459,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1584983,
@@ -753,7 +480,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1584982,
@@ -774,7 +501,7 @@
     "is_verified": 0,
     "headquarters_address": null,
     "linkedin_url": null,
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1584890,
@@ -181398,6 +181125,300 @@
     "lead_type": "legacy"
   },
   {
+    "id": 1586146,
+    "company_name": "Microsoft Dynamics Nav",
+    "country": "CO",
+    "website": "consultorianavision.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Microsoft Dynamics Nav - CONSULTOR\u00cdANAVISION- EVOTEC",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.consultorianavision.com/",
+    "discovered_at": "2026-04-11T12:28:41.517262Z",
+    "created_at": "2026-04-11 12:28:41",
+    "updated_at": "2026-04-11T12:28:41.517267Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1586140,
+    "company_name": "Microsoft Dynamics Nav",
+    "country": "CL",
+    "website": "consultorianavision.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Microsoft Dynamics Nav - CONSULTOR\u00cdANAVISION- EVOTEC",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.consultorianavision.com/",
+    "discovered_at": "2026-04-11T12:28:33.735710Z",
+    "created_at": "2026-04-11 12:28:33",
+    "updated_at": "2026-04-11T12:28:33.735716Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1586137,
+    "company_name": "Microsoft DynamicsNavision: Gu\u00eda Completa 2026",
+    "country": "CL",
+    "website": "kube.systems",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Microsoft DynamicsNavision: Gu\u00eda Completa 2026 - kube.systems",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://kube.systems/microsoft-dynamics-navision/",
+    "discovered_at": "2026-04-11T12:28:33.724170Z",
+    "created_at": "2026-04-11 12:28:33",
+    "updated_at": "2026-04-11T12:28:33.724176Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "active"
+  },
+  {
+    "id": 1586134,
+    "company_name": "Microsoft DynamicsNavision: Gu\u00eda Completa 2026",
+    "country": "AR",
+    "website": "kube.systems",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Microsoft DynamicsNavision: Gu\u00eda Completa 2026 - kube.systems",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://kube.systems/microsoft-dynamics-navision/",
+    "discovered_at": "2026-04-11T12:28:22.232777Z",
+    "created_at": "2026-04-11 12:28:22",
+    "updated_at": "2026-04-11T12:28:22.232779Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "active"
+  },
+  {
+    "id": 1586131,
+    "company_name": "Microsoft Dynamics Nav",
+    "country": "AR",
+    "website": "consultorianavision.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Microsoft Dynamics Nav - CONSULTOR\u00cdANAVISION- EVOTEC",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.consultorianavision.com/",
+    "discovered_at": "2026-04-11T12:28:22.224448Z",
+    "created_at": "2026-04-11 12:28:22",
+    "updated_at": "2026-04-11T12:28:22.224450Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1586126,
+    "company_name": "Microsoft Dynamics Nav",
+    "country": "MX",
+    "website": "consultorianavision.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Microsoft Dynamics Nav - CONSULTOR\u00cdANAVISION",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.consultorianavision.com/",
+    "discovered_at": "2026-04-11T12:28:18.923833Z",
+    "created_at": "2026-04-11 12:28:18",
+    "updated_at": "2026-04-11T12:28:18.923834Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1586120,
+    "company_name": "Microsoft DynamicsNavision: Gu\u00eda Completa 2026",
+    "country": "MX",
+    "website": "kube.systems",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Microsoft DynamicsNavision: Gu\u00eda Completa 2026 - kube.systems",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://kube.systems/microsoft-dynamics-navision/",
+    "discovered_at": "2026-04-11T12:28:18.912052Z",
+    "created_at": "2026-04-11 12:28:18",
+    "updated_at": "2026-04-11T12:28:18.912053Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "active"
+  },
+  {
+    "id": 1586113,
+    "company_name": "Microsoft Dynamics NAV",
+    "country": "ZA",
+    "website": "astral.co.za",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Microsoft Dynamics NAV - astral.co.za",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "http://www.astral.co.za/5001/index.html",
+    "discovered_at": "2026-04-11T12:28:01.308625Z",
+    "created_at": "2026-04-11 12:28:01",
+    "updated_at": "2026-04-11T12:28:01.308628Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1586103,
+    "company_name": "Microsoft Dynamics NAV 4",
+    "country": "AU",
+    "website": "sandynamics.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Microsoft Dynamics NAV 4 - Microsoft Dynamics Partner inAustralia",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://sandynamics.com/en-au/microsoft-dynamics-nav4/",
+    "discovered_at": "2026-04-11T12:27:18.535856Z",
+    "created_at": "2026-04-11 12:27:18",
+    "updated_at": "2026-04-11T12:27:18.535860Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1586100,
+    "company_name": "Microsoft Dynamics NAV (Navision)",
+    "country": "CA",
+    "website": "endeavoursolutions.ca",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Microsoft Dynamics NAV (Navision) - Endeavour Solutions -Canada",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.endeavoursolutions.ca/NAV/",
+    "discovered_at": "2026-04-11T12:27:10.701165Z",
+    "created_at": "2026-04-11 12:27:10",
+    "updated_at": "2026-04-11T12:27:10.701168Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1586099,
+    "company_name": "Microsoft Dynamics NAV (Navision) Support Partner",
+    "country": "CA",
+    "website": "dynamicssquare.ca",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Microsoft Dynamics NAV (Navision) Support Partner - Dynamics \u2026",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.dynamicssquare.ca/solutions/microsoft-dynamics-nav/",
+    "discovered_at": "2026-04-11T12:27:10.700941Z",
+    "created_at": "2026-04-11 12:27:10",
+    "updated_at": "2026-04-11T12:27:10.700945Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1586091,
+    "company_name": "Microsoft Dynamics NAV (NAVISION)",
+    "country": "PL",
+    "website": "seetech.pl",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Microsoft Dynamics NAV (NAVISION) - wdro\u017cenia i serwis ... - SEETECH",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.seetech.pl/pl/",
+    "discovered_at": "2026-04-11T12:26:52.855550Z",
+    "created_at": "2026-04-11 12:26:52",
+    "updated_at": "2026-04-11T12:26:52.855554Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1586090,
+    "company_name": "Navision Pl",
+    "country": "PL",
+    "website": "navision.pl",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: MicrosoftDynamicsNAV- Wsparcie i Utrzymanie | NAVISION.PL",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.navision.pl/pl/dynamics-nav",
+    "discovered_at": "2026-04-11T12:26:52.850983Z",
+    "created_at": "2026-04-11 12:26:52",
+    "updated_at": "2026-04-11T12:26:52.850986Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
+    "id": 1586083,
+    "company_name": "Microsoft Dynamics Nav",
+    "country": "ES",
+    "website": "consultorianavision.com",
+    "industry": "",
+    "employees": "",
+    "revenue": "",
+    "evidence_type": "case_study",
+    "evidence_text": "Case study: Microsoft Dynamics Nav - CONSULTOR\u00cdANAVISION- EVOTEC",
+    "confidence_score": 4,
+    "source": "global_jobs",
+    "source_url": "https://www.consultorianavision.com/",
+    "discovered_at": "2026-04-11T12:26:43.663800Z",
+    "created_at": "2026-04-11 12:26:43",
+    "updated_at": "2026-04-11T12:26:43.663803Z",
+    "is_verified": 0,
+    "headquarters_address": "",
+    "linkedin_url": "",
+    "lead_type": "legacy"
+  },
+  {
     "id": 1586076,
     "company_name": "Microsoft Dynamics NAV: ERP per PMI",
     "country": "IT",
@@ -181416,7 +181437,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1586068,
@@ -181437,7 +181458,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1586065,
@@ -181458,7 +181479,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1586056,
@@ -181479,7 +181500,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1586054,
@@ -181500,7 +181521,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1586050,
@@ -181521,7 +181542,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1586037,
@@ -181542,7 +181563,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1586031,
@@ -181563,7 +181584,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1586027,
@@ -181584,7 +181605,7 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   },
   {
     "id": 1586025,
@@ -181605,27 +181626,6 @@
     "is_verified": 0,
     "headquarters_address": "",
     "linkedin_url": "",
-    "lead_type": null
-  },
-  {
-    "id": 1585964,
-    "company_name": "#ERP",
-    "country": "PL",
-    "website": "",
-    "industry": "Market Research",
-    "employees": "1",
-    "revenue": "",
-    "evidence_type": "technology_stack",
-    "evidence_text": "Listed on TheirStack as Microsoft Dynamics NAV user",
-    "confidence_score": 4,
-    "source": "theirstack",
-    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
-    "discovered_at": "2026-04-11T12:23:28.189091Z",
-    "created_at": "2026-04-11 12:23:28",
-    "updated_at": "2026-04-11T12:23:28.189097Z",
-    "is_verified": 0,
-    "headquarters_address": "",
-    "linkedin_url": "",
-    "lead_type": null
+    "lead_type": "legacy"
   }
 ]
