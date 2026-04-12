@@ -142125,6 +142125,36 @@
     "linkedin": ""
   },
   {
+    "name": "Faect Nl",
+    "country": "NL",
+    "industry": "",
+    "evidence_type": "case_study",
+    "evidence": "Case study: Wat is het verschil tussen Navision en MicrosoftDynamics365 Business ...",
+    "confidence": 4,
+    "source": "global_jobs",
+    "website": "faect.nl",
+    "source_url": "https://faect.nl/wat-is-het-verschil-tussen-navision-en-microsoft-dynamics-365-business-central/",
+    "discovered": "2026-04-12T02:33:42.590655Z",
+    "employees": "",
+    "address": "",
+    "linkedin": ""
+  },
+  {
+    "name": "#ERP",
+    "country": "PL",
+    "industry": "Market Research",
+    "evidence_type": "technology_stack",
+    "evidence": "Listed on TheirStack as Microsoft Dynamics NAV user",
+    "confidence": 4,
+    "source": "theirstack",
+    "website": "",
+    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
+    "discovered": "2026-04-12T02:31:43.631481Z",
+    "employees": "1",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "MicrosoftDynamicsNav- CONSULTORÍA NAVISION",
     "country": "PE",
     "industry": "",
