@@ -181125,27 +181125,6 @@
     "lead_type": "legacy"
   },
   {
-    "id": 1616668,
-    "company_name": "#ERP",
-    "country": "PL",
-    "website": "",
-    "industry": "Market Research",
-    "employees": "1",
-    "revenue": "",
-    "evidence_type": "technology_stack",
-    "evidence_text": "Listed on TheirStack as Microsoft Dynamics NAV user",
-    "confidence_score": 4,
-    "source": "theirstack",
-    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
-    "discovered_at": "2026-04-12T04:14:12.948580Z",
-    "created_at": "2026-04-12 04:14:12",
-    "updated_at": "2026-04-12T04:14:12.948600Z",
-    "is_verified": 0,
-    "headquarters_address": "",
-    "linkedin_url": "",
-    "lead_type": null
-  },
-  {
     "id": 1615580,
     "company_name": "Partner Navision Madrid",
     "country": "ES",
