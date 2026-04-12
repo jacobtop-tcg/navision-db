@@ -142125,6 +142125,21 @@
     "linkedin": ""
   },
   {
+    "name": "#ERP",
+    "country": "PL",
+    "industry": "Market Research",
+    "evidence_type": "technology_stack",
+    "evidence": "Listed on TheirStack as Microsoft Dynamics NAV user",
+    "confidence": 4,
+    "source": "theirstack",
+    "website": "",
+    "source_url": "https://theirstack.com/en/technology/microsoft-dynamics-nav/pl",
+    "discovered": "2026-04-12T03:18:26.150093Z",
+    "employees": "1",
+    "address": "",
+    "linkedin": ""
+  },
+  {
     "name": "Faect Nl",
     "country": "NL",
     "industry": "",
