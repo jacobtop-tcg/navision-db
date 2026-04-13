@@ -1,9 +1,15 @@
 {
-  "timestamp": "2026-04-02T15:17:33.291933Z",
-  "original_total": 5827,
-  "kept": 1606,
-  "removed_bc": 248,
-  "removed_unclear": 3973,
-  "new_total": 1606,
-  "nav_percentage": 100.0
+  "timestamp": "2026-04-13T08:45:41.855303Z",
+  "original_total": 10518,
+  "kept": 10517,
+  "lead_types": {
+    "active": 253,
+    "upgrade": 11,
+    "legacy": 10253,
+    "bc": 0,
+    "unclear": 1
+  },
+  "new_total": 10517,
+  "nav_percentage": 100.0,
+  "decisions_log": "/mnt/data/openclaw/workspace/.openclaw/workspace/navision-db/raw/decisions/2026-04.jsonl"
 }
