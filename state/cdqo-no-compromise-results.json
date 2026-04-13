@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-04-13T08:45:41.855303Z",
-  "original_total": 10518,
+  "timestamp": "2026-04-13T09:44:21.355436Z",
+  "original_total": 10517,
   "kept": 10517,
   "lead_types": {
     "active": 253,
     "upgrade": 11,
     "legacy": 10253,
     "bc": 0,
-    "unclear": 1
+    "unclear": 0
   },
   "new_total": 10517,
   "nav_percentage": 100.0,
