@@ -1,10 +1,5 @@
 {
-  "total_companies": 8686,
-  "last_updated": "2026-04-12T04:21:43.844031Z",
-  "quality_criteria": {
-    "evidence_required": true,
-    "source_url_required": true,
-    "min_confidence": 4,
-    "noise_filtered": true
-  }
+  "total_companies": 10505,
+  "last_updated": "2026-04-13T08:54:12.207876Z",
+  "quality": "Verified (4-5 stars)"
 }
