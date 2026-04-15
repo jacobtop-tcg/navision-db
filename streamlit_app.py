@@ -76,38 +76,45 @@ def get_flag(country_code):
 
 @st.cache_data(ttl=300)  # Cache i 5 minutter
 def load_data(use_verified=True):
-    """Hent data fra JSON export"""
+    """Hent data fra CSV export (konsolideret database)"""
     import traceback
     
     # Hent fra GitHub (virker både lokalt og på Streamlit Cloud)
     try:
+        # KONSOLIDERET DATABASE - Alle verificerede virksomheder
         if use_verified:
-            # VERIFIED: Kun høj kvalitet med evidence + direkte links
-            companies_url = "https://raw.githubusercontent.com/jacobtop-tcg/navision-db/master/web-export/companies-verified.json"
-            meta_url = "https://raw.githubusercontent.com/jacobtop-tcg/navision-db/master/web-export/metadata-verified.json"
-            data_type = "VERIFIED"
+            # NY: all-verified.csv - 2.955 verificerede NAV-kunder
+            companies_url = "https://raw.githubusercontent.com/jacobtop-tcg/navision-db/master/web-export/all-verified.csv"
+            summary_url = "https://raw.githubusercontent.com/jacobtop-tcg/navision-db/master/web-export/summary.json"
+            data_type = "KONSOLIDERET (2026-04-15)"
         else:
-            # Alle data (inkl. støj)
-            companies_url = "https://raw.githubusercontent.com/jacobtop-tcg/navision-db/master/web-export/companies.json"
-            meta_url = "https://raw.githubusercontent.com/jacobtop-tcg/navision-db/master/web-export/metadata.json"
-            data_type = "ALLE"
+            # Fallback til gamle data
+            companies_url = "https://raw.githubusercontent.com/jacobtop-tcg/navision-db/master/web-export/companies.csv"
+            summary_url = "https://raw.githubusercontent.com/jacobtop-tcg/navision-db/master/web-export/summary.json"
+            data_type = "ALLE (UKONSOLIDERET)"
         
         # Hent data med headers for at undgå rate limiting
         headers = {'User-Agent': 'Mozilla/5.0 (compatible; NavisionBot/1.0)'}
         
         companies_response = requests.get(companies_url, headers=headers, timeout=30)
         companies_response.raise_for_status()
-        companies = companies_response.json()
+        df = pd.read_csv(pd.StringIO(companies_response.text))
         
-        metadata_response = requests.get(meta_url, headers=headers, timeout=30)
-        metadata_response.raise_for_status()
-        metadata = metadata_response.json()
+        # Hent summary metadata
+        try:
+            summary_response = requests.get(summary_url, headers=headers, timeout=30)
+            summary_response.raise_for_status()
+            metadata = summary_response.json()
+        except:
+            metadata = {'total_verified': len(df), 'exported_at': '2026-04-15'}
         
-        # Konverter til DataFrame og omdøb kolonner
-        df = pd.DataFrame(companies)
+        # Omdøb kolonner for kompatibilitet
         df = df.rename(columns={
+            'Company': 'name',
             'company_name': 'name',
+            'Confidence': 'confidence',
             'confidence_score': 'confidence',
+            'Evidence': 'evidence',
             'evidence_text': 'evidence'
         })
         
@@ -116,7 +123,7 @@ def load_data(use_verified=True):
         st.error(f"❌ Fejl: {type(e).__name__}")
         st.error(f"Detaljer: {str(e)}")
         st.code(traceback.format_exc())
-        st.info("💡 **Fix:** Tjek at web-export/companies.json findes på GitHub")
+        st.info("💡 **Fix:** Tjek at web-export/all-verified.csv findes på GitHub")
         return None, None, None
 
 def load_compiled_knowledge():
@@ -431,10 +438,12 @@ def main():
         
         # Data source badge
         if use_verified:
-            st.markdown(f'<span class="verified-badge">🎯 VERIFIED DATA: {metadata["total_companies"]:,} virksomheder</span>', unsafe_allow_html=True)
-            st.caption("Alle har: konkret evidence/bevis + direkte link til kilde + høj kvalitet (4-5★)")
+            total = metadata.get('total_verified', len(df))
+            st.markdown(f'<span class="verified-badge">🎯 VERIFIED DATA: {total:,} virksomheder</span>', unsafe_allow_html=True)
+            st.caption("Alle har: konkret evidence/bevis + direkte link til kilde + høj kvalitet (CDQO verificeret)")
         else:
-            st.markdown(f"📊 ALLE DATA: {metadata['total_companies']:,} virksomheder")
+            total = metadata.get('total_companies', len(df))
+            st.markdown(f"📊 ALLE DATA: {total:,} virksomheder")
         
         st.markdown("---")
         
@@ -447,9 +456,10 @@ def main():
         col1, col2, col3, col4 = st.columns(4)
         
         with col1:
+            total = metadata.get('total_verified', len(df))
             st.markdown(f"""
             <div class="stat-card">
-                <div class="stat-number">{metadata['total_companies']:,}</div>
+                <div class="stat-number">{total:,}</div>
                 <div class="stat-label">Virksomheder</div>
             </div>
             """, unsafe_allow_html=True)
