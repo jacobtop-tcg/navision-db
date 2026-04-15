@@ -459,10 +459,23 @@ def main():
             use_verified = st.checkbox("✅ Kun VERIFIED data (anbefalet)", value=True)
         
         # Hent data
-        df, metadata, data_type = load_data(use_verified=use_verified, version="v3-2026-04-15-force-clear")
-        
-        if df is None:
-            st.error("Kunne ikke indlæse data. Tjek internetforbindelsen.")
+        try:
+            df, metadata, data_type = load_data(use_verified=use_verified, version="v3-2026-04-15-force-clear")
+            
+            if df is None:
+                st.error("Kunne ikke indlæse data. Tjek internetforbindelsen.")
+                st.stop()
+            
+            # Force check country column exists
+            if 'country' not in df.columns:
+                st.error(f"❌ Country column missing! Columns: {df.columns.tolist()}")
+                st.stop()
+                
+        except Exception as e:
+            st.error(f"❌ Data loading error: {str(e)}")
+            st.error(f"Columns available: {df.columns.tolist() if 'df' in locals() else 'None'}")
+            import traceback
+            st.code(traceback.format_exc())
             st.stop()
         
         # Data source badge
