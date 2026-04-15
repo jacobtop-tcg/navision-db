@@ -83,12 +83,12 @@ def load_data(use_verified=True):
     
     # Hent fra GitHub (virker både lokalt og på Streamlit Cloud)
     try:
-        # RIGTIGE NAV-KUNDER (IKKE JOBS/PARTNERE)
+        # AI-VERIFICEREDE NAV-KUNDER
         if use_verified:
-            # KUN 1.182 faktiske NAV-kunder - filtreret for jobs, tutorials, partnere
-            companies_url = "https://raw.githubusercontent.com/jacobtop-tcg/navision-db/master/exports/companies-real-customers.csv"
-            summary_url = "https://raw.githubusercontent.com/jacobtop-tcg/navision-db/master/exports/summary-real.json"
-            data_type = "VERIFIED CUSTOMERS (2026-04-15)"
+            # 1.037 AI-verificerede NAV-kunder (87.9% af 1.182)
+            companies_url = "https://raw.githubusercontent.com/jacobtop-tcg/navision-db/master/exports/companies-ai-verified.csv"
+            summary_url = "https://raw.githubusercontent.com/jacobtop-tcg/navision-db/master/exports/summary-ai-verified.json"
+            data_type = "AI VERIFIED (2026-04-15)"
         else:
             # Fallback til gamle data
             companies_url = "https://raw.githubusercontent.com/jacobtop-tcg/navision-db/master/web-export/companies.csv"

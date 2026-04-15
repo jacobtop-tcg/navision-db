@@ -1,0 +1,34 @@
+{
+  "total_verified": 1037,
+  "description": "AI-verificerede NAV kunder (87.9% af 1.182)",
+  "top_countries": {
+    "DK": 128,
+    "US": 118,
+    "DE": 77,
+    "GB": 64,
+    "IN": 53,
+    "ZA": 49,
+    "SE": 47,
+    "BR": 43,
+    "PL": 40,
+    "NO": 39,
+    "NL": 34,
+    "SA": 34,
+    "CA": 31,
+    "CN": 27,
+    "FR": 23
+  },
+  "top_sources": {
+    "theirstack": 144,
+    "theirstack_nordic_batch1": 59,
+    "theirstack_final_batch1": 49,
+    "theirstack_africa_batch1": 49,
+    "theirstack_asia_batch2": 47,
+    "theirstack_uk_batch1": 47,
+    "theirstack_india_batch1": 47,
+    "theirstack_mena_batch1": 46,
+    "theirstack_expansion_batch3": 43,
+    "theirstack_baltic_nordic_batch1": 42
+  },
+  "exported_at": "2026-04-15T11:08:48.339948"
+}
