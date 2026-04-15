@@ -76,7 +76,7 @@ def get_flag(country_code):
     return FLAG_EMOJIS.get(country_code.upper(), '🌍')
 
 @st.cache_data(ttl=60)  # Cache i 1 minut (hurtigere refresh)
-def load_data(use_verified=True, version="v2-2026-04-15"):
+def load_data(use_verified=True, version="v3-2026-04-15-force-clear"):
     """Hent data fra CSV export (konsolideret database)"""
     import traceback
     import io
@@ -459,7 +459,7 @@ def main():
             use_verified = st.checkbox("✅ Kun VERIFIED data (anbefalet)", value=True)
         
         # Hent data
-        df, metadata, data_type = load_data(use_verified=use_verified, version="v2-2026-04-15")
+        df, metadata, data_type = load_data(use_verified=use_verified, version="v3-2026-04-15-force-clear")
         
         if df is None:
             st.error("Kunne ikke indlæse data. Tjek internetforbindelsen.")
