@@ -75,8 +75,8 @@ FLAG_EMOJIS = {
 def get_flag(country_code):
     return FLAG_EMOJIS.get(country_code.upper(), '🌍')
 
-@st.cache_data(ttl=60)  # Cache i 1 minut (hurtigere refresh)
-def load_data(use_verified=True, version="v3-2026-04-15-force-clear"):
+# Cache removed to fix country column bug
+def load_data(use_verified=True):
     """Hent data fra CSV export (konsolideret database)"""
     import traceback
     import io
@@ -122,9 +122,7 @@ def load_data(use_verified=True, version="v3-2026-04-15-force-clear"):
         # NORMALISER KOLONNENAVNE (vigtigt!)
         df.columns = df.columns.str.lower().str.replace(' ', '_')
         
-        # DEBUG: Print columns for troubleshooting
-        st.write(f"🔍 Columns: {df.columns.tolist()}")
-        st.write(f"🔍 Shape: {df.shape}")
+        # Debug removed - country column issue fixed
         
         # Omdøb til standard navne
         df = df.rename(columns={
@@ -460,7 +458,7 @@ def main():
         
         # Hent data
         try:
-            df, metadata, data_type = load_data(use_verified=use_verified, version="v3-2026-04-15-force-clear")
+            df, metadata, data_type = load_data(use_verified=use_verified)
             
             if df is None:
                 st.error("Kunne ikke indlæse data. Tjek internetforbindelsen.")
