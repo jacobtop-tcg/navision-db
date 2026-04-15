@@ -85,8 +85,8 @@ def load_data(use_verified=True):
         # KONSOLIDERET DATABASE - Alle verificerede virksomheder
         if use_verified:
             # NY: all-verified.csv - 38.718 verificerede NAV-kunder
-            companies_url = "https://raw.githubusercontent.com/jacobtop-tcg/navision-db/master/web-export/all-verified.csv"
-            summary_url = "https://raw.githubusercontent.com/jacobtop-tcg/navision-db/master/web-export/summary.json"
+            companies_url = "https://raw.githubusercontent.com/jacobtop-tcg/navision-db/master/exports/all-verified.csv"
+            summary_url = "https://raw.githubusercontent.com/jacobtop-tcg/navision-db/master/exports/summary.json"
             data_type = "KONSOLIDERET (2026-04-15)"
         else:
             # Fallback til gamle data
