@@ -78,12 +78,13 @@ def get_flag(country_code):
 def load_data(use_verified=True):
     """Hent data fra CSV export (konsolideret database)"""
     import traceback
+    import io
     
     # Hent fra GitHub (virker både lokalt og på Streamlit Cloud)
     try:
         # KONSOLIDERET DATABASE - Alle verificerede virksomheder
         if use_verified:
-            # NY: all-verified.csv - 2.955 verificerede NAV-kunder
+            # NY: all-verified.csv - 38.718 verificerede NAV-kunder
             companies_url = "https://raw.githubusercontent.com/jacobtop-tcg/navision-db/master/web-export/all-verified.csv"
             summary_url = "https://raw.githubusercontent.com/jacobtop-tcg/navision-db/master/web-export/summary.json"
             data_type = "KONSOLIDERET (2026-04-15)"
@@ -96,9 +97,18 @@ def load_data(use_verified=True):
         # Hent data med headers for at undgå rate limiting
         headers = {'User-Agent': 'Mozilla/5.0 (compatible; NavisionBot/1.0)'}
         
-        companies_response = requests.get(companies_url, headers=headers, timeout=30)
-        companies_response.raise_for_status()
-        df = pd.read_csv(pd.StringIO(companies_response.text))
+        # PRØV JSON FØRST (hurtigere at parse)
+        try:
+            json_url = companies_url.replace('.csv', '.json')
+            json_response = requests.get(json_url, headers=headers, timeout=30)
+            json_response.raise_for_status()
+            companies = json_response.json()
+            df = pd.DataFrame(companies)
+        except:
+            # Fallback til CSV
+            companies_response = requests.get(companies_url, headers=headers, timeout=30)
+            companies_response.raise_for_status()
+            df = pd.read_csv(io.StringIO(companies_response.text))
         
         # Hent summary metadata
         try:
