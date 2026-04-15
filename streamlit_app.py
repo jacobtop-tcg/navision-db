@@ -86,9 +86,9 @@ def load_data(use_verified=True):
         # KOMPLET VERIFICERET LISTE
         if use_verified:
             # 1.141 verificerede - AI + enterprise perler (Qantas, Bayer, KUKA, Telia, Ramboll)
-            companies_url = "https://raw.githubusercontent.com/jacobtop-tcg/navision-db/master/exports/companies-all-5star.csv"
-            summary_url = "https://raw.githubusercontent.com/jacobtop-tcg/navision-db/master/exports/summary-all-5star.json"
-            data_type = "ALL 5-STAR (2026-04-15)"
+            companies_url = "https://raw.githubusercontent.com/jacobtop-tcg/navision-db/master/exports/companies-all-verified.csv"
+            summary_url = "https://raw.githubusercontent.com/jacobtop-tcg/navision-db/master/exports/summary-all-verified.json"
+            data_type = "ALL VERIFIED (2026-04-15)"
         else:
             # Fallback til gamle data
             companies_url = "https://raw.githubusercontent.com/jacobtop-tcg/navision-db/master/web-export/companies.csv"
