@@ -118,15 +118,25 @@ def load_data(use_verified=True):
         except:
             metadata = {'total_verified': len(df), 'exported_at': '2026-04-15'}
         
-        # Omdøb kolonner for kompatibilitet
+        # NORMALISER KOLONNENAVNE (vigtigt!)
+        df.columns = df.columns.str.lower().str.replace(' ', '_')
+        
+        # Omdøb til standard navne
         df = df.rename(columns={
-            'Company': 'name',
             'company_name': 'name',
-            'Confidence': 'confidence',
+            'company': 'name',
             'confidence_score': 'confidence',
-            'Evidence': 'evidence',
-            'evidence_text': 'evidence'
+            'confidence': 'confidence',
+            'evidence_text': 'evidence',
+            'evidence': 'evidence'
         })
+        
+        # Sikr at 'country' eksisterer
+        if 'country' not in df.columns:
+            if 'Country' in df.columns:
+                df = df.rename(columns={'Country': 'country'})
+            else:
+                df['country'] = 'XX'  # Fallback
         
         return df, metadata, data_type
     except Exception as e:
