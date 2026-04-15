@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
-Navision Global Database - Live Dashboard
+Navision Global Database v3 - Live Dashboard
 Streamlit app til at browse, søge og filtrere Navision virksomheder
+FORCE CACHE REBUILD 2026-04-15
 """
 
 import streamlit as st
