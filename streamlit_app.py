@@ -121,6 +121,10 @@ def load_data(use_verified=True, version="v2-2026-04-15"):
         # NORMALISER KOLONNENAVNE (vigtigt!)
         df.columns = df.columns.str.lower().str.replace(' ', '_')
         
+        # DEBUG: Print columns for troubleshooting
+        st.write(f"🔍 Columns: {df.columns.tolist()}")
+        st.write(f"🔍 Shape: {df.shape}")
+        
         # Omdøb til standard navne
         df = df.rename(columns={
             'company_name': 'name',
@@ -131,12 +135,16 @@ def load_data(use_verified=True, version="v2-2026-04-15"):
             'evidence': 'evidence'
         })
         
-        # Sikr at 'country' eksisterer
+        # Sikr at 'country' eksisterer - TJEK FØRST!
         if 'country' not in df.columns:
-            if 'Country' in df.columns:
-                df = df.rename(columns={'Country': 'country'})
+            # Prøv forskellige varianter
+            for col in ['country', 'Country', 'COUNTRY', 'land', 'Land']:
+                if col in df.columns:
+                    df = df.rename(columns={col: 'country'})
+                    break
             else:
-                df['country'] = 'XX'  # Fallback
+                # Ingen country kolonne fundet - tilføj default
+                df['country'] = 'XX'
         
         return df, metadata, data_type
     except Exception as e:
