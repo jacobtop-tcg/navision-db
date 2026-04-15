@@ -83,12 +83,12 @@ def load_data(use_verified=True):
     
     # Hent fra GitHub (virker både lokalt og på Streamlit Cloud)
     try:
-        # KONSOLIDERET DATABASE - Alle verificerede virksomheder
+        # RIGTIGE NAV-KUNDER (IKKE JOBS/PARTNERE)
         if use_verified:
-            # NY: all-verified.csv - 38.718 verificerede NAV-kunder
-            companies_url = "https://raw.githubusercontent.com/jacobtop-tcg/navision-db/master/exports/all-verified.csv"
-            summary_url = "https://raw.githubusercontent.com/jacobtop-tcg/navision-db/master/exports/summary.json"
-            data_type = "KONSOLIDERET (2026-04-15)"
+            # KUN 1.182 faktiske NAV-kunder - filtreret for jobs, tutorials, partnere
+            companies_url = "https://raw.githubusercontent.com/jacobtop-tcg/navision-db/master/exports/companies-real-customers.csv"
+            summary_url = "https://raw.githubusercontent.com/jacobtop-tcg/navision-db/master/exports/summary-real.json"
+            data_type = "VERIFIED CUSTOMERS (2026-04-15)"
         else:
             # Fallback til gamle data
             companies_url = "https://raw.githubusercontent.com/jacobtop-tcg/navision-db/master/web-export/companies.csv"

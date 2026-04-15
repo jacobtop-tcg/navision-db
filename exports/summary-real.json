@@ -1,0 +1,47 @@
+{
+  "total_real_customers": 1182,
+  "description": "Rigtige NAV-kunder (IKKE job postings, tutorials, partnere)",
+  "top_countries": {
+    "DK": 200,
+    "US": 126,
+    "DE": 87,
+    "GB": 72,
+    "SE": 56,
+    "IN": 53,
+    "NO": 49,
+    "ZA": 49,
+    "NL": 44,
+    "BR": 43,
+    "PL": 40,
+    "SA": 34,
+    "CA": 31,
+    "CN": 27,
+    "BE": 23,
+    "FR": 23,
+    "KR": 21,
+    "FI": 19,
+    "JP": 19,
+    "AU": 16
+  },
+  "top_sources": {
+    "theirstack": 144,
+    "TheirStack": 133,
+    "theirstack_nordic_batch1": 59,
+    "theirstack_final_batch1": 49,
+    "theirstack_africa_batch1": 49,
+    "theirstack_asia_batch2": 47,
+    "theirstack_uk_batch1": 47,
+    "theirstack_india_batch1": 47,
+    "theirstack_mena_batch1": 46,
+    "theirstack_expansion_batch3": 43
+  },
+  "exported_at": "2026-04-15T09:20:00Z",
+  "filter_criteria": [
+    "confidence_score = 5",
+    "NOT job postings",
+    "NOT tutorials/documentation",
+    "NOT partners/consultants",
+    "NOT \"hire developer\"",
+    "Concrete evidence of NAV usage"
+  ]
+}
