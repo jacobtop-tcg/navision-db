@@ -1,0 +1,32 @@
+{
+  "total": 2497,
+  "added_from_jobs": 5,
+  "tiers": {
+    "5_star": 1707,
+    "3_star_enterprise": 785,
+    "3_star_local_job": 5
+  },
+  "top_countries": {
+    "DK": 269,
+    "US": 238,
+    "DE": 224,
+    "BE": 161,
+    "GB": 129,
+    "FR": 125,
+    "IN": 114,
+    "SE": 108,
+    "PL": 86,
+    "IT": 61,
+    "NO": 59,
+    "BR": 58,
+    "ZA": 55,
+    "ES": 51,
+    "CA": 48,
+    "NL": 46,
+    "KR": 44,
+    "SA": 41,
+    "JP": 38,
+    "AU": 35
+  },
+  "exported_at": "2026-04-15T12:06:26.635435"
+}
