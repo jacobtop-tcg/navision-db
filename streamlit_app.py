@@ -15,7 +15,7 @@ import requests
 
 # Side config
 st.set_page_config(
-    page_title="Navision Global Database",
+    page_title="Navision Global Database v2",
     page_icon="🌍",
     layout="wide",
     initial_sidebar_state="expanded"
