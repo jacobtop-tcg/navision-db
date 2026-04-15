@@ -1,0 +1,44 @@
+{
+  "total_verified": 1141,
+  "description": "KOMPLET liste - AI-verificerede + UNCLEAR perler + Enterprise",
+  "top_countries": {
+    "DK": 188,
+    "US": 123,
+    "DE": 82,
+    "GB": 72,
+    "IN": 53,
+    "SE": 50,
+    "ZA": 49,
+    "NO": 48,
+    "BR": 43,
+    "PL": 40,
+    "NL": 39,
+    "SA": 34,
+    "CA": 31,
+    "CN": 27,
+    "FR": 23,
+    "KR": 21,
+    "JP": 19,
+    "FI": 17,
+    "BE": 17,
+    "AU": 16
+  },
+  "sources": {
+    "ai_verified": 1037,
+    "unclear_perl": 104
+  },
+  "exported_at": "2026-04-15T11:34:39.238216",
+  "enterprise_examples": [
+    "Qantas (AU) - Airlines",
+    "Rio Tinto (AU) - Mining",
+    "Woolworths (AU) - Supermarket",
+    "Westpac (AU) - Banking",
+    "Bayer UK/DE - Pharma",
+    "Fresenius (DE/GB) - Healthcare",
+    "KUKA (DE) - Robotics",
+    "Schaeffler (DE) - Auto parts",
+    "Ramboll (DK) - Engineering",
+    "Borealis (AT) - Chemicals",
+    "Telia (30+ lande) - Telecom"
+  ]
+}
